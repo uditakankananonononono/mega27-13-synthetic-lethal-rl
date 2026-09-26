@@ -9,3 +9,5 @@
 - Normal comparator remains unverified: GTEx expression is not healthy knockout viability. Do not claim selective lethality without proper measurement.
 
 No primary outcome data ingested or analyzed at preregistration. No data count credit, tool-execution credit or biological discovery yet.
+- Verified source directory for Zhou et al. 2020 accession GSE154112: https://ftp.ncbi.nlm.nih.gov/geo/series/GSE154nnn/GSE154112/suppl/ lists ovarian two-way gRNA count-per-million workbook (2.7 MB), three-way ovarian workbook (3.6 MB), OVCAR8-ADR RNA-seq raw-count file (635 KB), and unrelated Parkinson's two-way workbook. Directory listing only, NOT readouts inspected, accession not ingested/countable. File-level license should be confirmed. The triple screen remains only one ovarian cancer model, and exact target overlap with preregistered DNA repair unknown.
+- GEO accession GSE262953 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE262953 has paired knockout targeted count files with triplicate initial/final samples; paper context/cell model and independence need scrutiny. Metadata alone is not a screen validation.
