@@ -1,0 +1,341 @@
+{
+  "scope": "historical Project SCORE 29 ovarian-named models; exact identity match to Cellosaurus name/synonym, Disease label only; no histology inferred from name or site",
+  "source": "https://api.cellosaurus.org/",
+  "models": [
+    {
+      "model_id": "ACH-000001",
+      "ccle_name": "NIHOVCAR3_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_0465",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_0465",
+      "disease_labels": [
+        "High grade ovarian serous adenocarcinoma"
+      ],
+      "explicit_hgsoc": true
+    },
+    {
+      "model_id": "ACH-000048",
+      "ccle_name": "TOV112D_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_3612",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_3612",
+      "disease_labels": [
+        "Ovarian endometrioid adenocarcinoma",
+        "Endometrioid carcinoma of ovary"
+      ],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-000103",
+      "ccle_name": "CAOV4_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_0202",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_0202",
+      "disease_labels": [
+        "High grade ovarian serous adenocarcinoma"
+      ],
+      "explicit_hgsoc": true
+    },
+    {
+      "model_id": "ACH-000132",
+      "ccle_name": "JHOS2_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_4647",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_4647",
+      "disease_labels": [
+        "High grade ovarian serous adenocarcinoma"
+      ],
+      "explicit_hgsoc": true
+    },
+    {
+      "model_id": "ACH-000291",
+      "ccle_name": "OV90_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_3768",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_3768",
+      "disease_labels": [
+        "Ovarian adenocarcinoma",
+        "Adenocarcinoma of ovary"
+      ],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-000308",
+      "ccle_name": "EFO21_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_0029",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_0029",
+      "disease_labels": [
+        "Ovarian serous cystadenocarcinoma"
+      ],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-000430",
+      "ccle_name": "TYKNU_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_1776",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_1776",
+      "disease_labels": [
+        "High grade ovarian serous adenocarcinoma"
+      ],
+      "explicit_hgsoc": true
+    },
+    {
+      "model_id": "ACH-000524",
+      "ccle_name": "KURAMOCHI_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_1345",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_1345",
+      "disease_labels": [
+        "High grade ovarian serous adenocarcinoma"
+      ],
+      "explicit_hgsoc": true
+    },
+    {
+      "model_id": "ACH-000527",
+      "ccle_name": "OVISE_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_3116",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_3116",
+      "disease_labels": [
+        "Ovarian clear cell adenocarcinoma",
+        "Clear cell adenocarcinoma of the ovary"
+      ],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-000584",
+      "ccle_name": "JHOS4_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_4649",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_4649",
+      "disease_labels": [
+        "High grade ovarian serous adenocarcinoma"
+      ],
+      "explicit_hgsoc": true
+    },
+    {
+      "model_id": "ACH-000657",
+      "ccle_name": "A2780_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_0134",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_0134",
+      "disease_labels": [
+        "Ovarian endometrioid adenocarcinoma",
+        "Endometrioid carcinoma of ovary"
+      ],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-000696",
+      "ccle_name": "OVCAR8_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_1629",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_1629",
+      "disease_labels": [
+        "High grade ovarian serous adenocarcinoma"
+      ],
+      "explicit_hgsoc": true
+    },
+    {
+      "model_id": "ACH-000704",
+      "ccle_name": "OAW42_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_1615",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_1615",
+      "disease_labels": [
+        "Ovarian serous cystadenocarcinoma"
+      ],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-000719",
+      "ccle_name": "RMGI_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_1662",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_1662",
+      "disease_labels": [
+        "Ovarian clear cell adenocarcinoma",
+        "Clear cell adenocarcinoma of the ovary"
+      ],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-000796",
+      "ccle_name": "MCAS_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_3020",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_3020",
+      "disease_labels": [
+        "Ovarian mucinous cystadenocarcinoma",
+        "Mucinous adenocarcinoma of ovary"
+      ],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-000885",
+      "ccle_name": "TOV21G_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_3613",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_3613",
+      "disease_labels": [
+        "Ovarian clear cell adenocarcinoma",
+        "Clear cell adenocarcinoma of the ovary"
+      ],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-000906",
+      "ccle_name": "ES2_OVARY",
+      "exact_cellosaurus_matches": 3,
+      "accession": null,
+      "cellosaurus_url": null,
+      "disease_labels": [],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-000936",
+      "ccle_name": "EFO27_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_1192",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_1192",
+      "disease_labels": [
+        "Ovarian mucinous adenocarcinoma",
+        "Mucinous adenocarcinoma of ovary"
+      ],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-000947",
+      "ccle_name": "OVK18_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_3770",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_3770",
+      "disease_labels": [
+        "Ovarian endometrioid adenocarcinoma",
+        "Endometrioid carcinoma of ovary"
+      ],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-000962",
+      "ccle_name": "OC314_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_1616",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_1616",
+      "disease_labels": [
+        "Ovarian serous adenocarcinoma"
+      ],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-000966",
+      "ccle_name": "IGROV1_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_1304",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_1304",
+      "disease_labels": [
+        "Ovarian endometrioid adenocarcinoma",
+        "Endometrioid carcinoma of ovary"
+      ],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-001063",
+      "ccle_name": "DOV13_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_6774",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_6774",
+      "disease_labels": [
+        "Ovarian adenocarcinoma",
+        "Adenocarcinoma of ovary"
+      ],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-001151",
+      "ccle_name": "OVCAR5_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_1628",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_1628",
+      "disease_labels": [
+        "High grade ovarian serous adenocarcinoma"
+      ],
+      "explicit_hgsoc": true
+    },
+    {
+      "model_id": "ACH-001418",
+      "ccle_name": "UWB1289_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_B079",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_B079",
+      "disease_labels": [
+        "BRCA1 syndrome",
+        "Hereditary breast and ovarian cancer syndrome"
+      ],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-001630",
+      "ccle_name": "PEO1_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_2686",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_2686",
+      "disease_labels": [
+        "BRCA2 syndrome",
+        "Ovarian cystadenocarcinoma",
+        "Hereditary breast and ovarian cancer syndrome"
+      ],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-001632",
+      "ccle_name": "PEO4_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_2690",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_2690",
+      "disease_labels": [
+        "BRCA2 syndrome",
+        "Ovarian cystadenocarcinoma",
+        "Hereditary breast and ovarian cancer syndrome"
+      ],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-002140",
+      "ccle_name": "HEY_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_0297",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_0297",
+      "disease_labels": [
+        "High grade ovarian serous adenocarcinoma"
+      ],
+      "explicit_hgsoc": true
+    },
+    {
+      "model_id": "ACH-002181",
+      "ccle_name": "OVCA420_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_3935",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_3935",
+      "disease_labels": [
+        "Ovarian serous adenocarcinoma"
+      ],
+      "explicit_hgsoc": false
+    },
+    {
+      "model_id": "ACH-002183",
+      "ccle_name": "OVMIU_OVARY",
+      "exact_cellosaurus_matches": 1,
+      "accession": "CVCL_3112",
+      "cellosaurus_url": "https://www.cellosaurus.org/CVCL_3112",
+      "disease_labels": [
+        "High grade ovarian serous adenocarcinoma"
+      ],
+      "explicit_hgsoc": true
+    }
+  ],
+  "explicit_hgsoc_count": 10,
+  "unresolved_exact_match_count": 1
+}

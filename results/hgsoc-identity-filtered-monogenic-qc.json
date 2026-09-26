@@ -1,0 +1,24 @@
+{
+  "scope": "small 2019 Project SCORE HGSOC-identity-restricted MONOGENIC development fit, no pair/triple or normal viability training",
+  "source_identity": "https://api.cellosaurus.org/",
+  "explicit_hgsoc_total": 10,
+  "development_model_ids": [
+    "ACH-000001",
+    "ACH-000103",
+    "ACH-000132",
+    "ACH-000430",
+    "ACH-000584",
+    "ACH-001151",
+    "ACH-002140",
+    "ACH-002183"
+  ],
+  "heldout_explicit_hgsoc_ids": [
+    "ACH-000524",
+    "ACH-000696"
+  ],
+  "genes": 2000,
+  "repair_action_genes": 349,
+  "network_edges": 99269,
+  "healthy_viability": "not measured",
+  "higher_order_effects": "not identified from these data"
+}
