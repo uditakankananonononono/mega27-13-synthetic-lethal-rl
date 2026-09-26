@@ -1,0 +1,8 @@
+# Distinct monogenic screen lead: schema and status, 2026-09-26
+Official https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE150246 is iOvCa147 GO-CRISPR with a gene-level TRACS CSV; https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190294 includes OVCAR8 and TOV1946 TRACS CSVs. The studies are connected by authors and method (GSE190294 explicitly references GSE150246), so three model files are NOT three independent labs. They measure gene enrichment across conditions, not paired/triple knockout interactions nor normal-cell viability. They may support a narrower multi-model monogenic context analysis, but independence and biology require more work.
+
+Source directories and downloaded file SHA256:
+- https://ftp.ncbi.nlm.nih.gov/geo/series/GSE150nnn/GSE150246/suppl/ `GSE150246_iOvCa147-April2020.csv.gz` f779554f5f8944f15000a824bfe760e56847a5362d592353f041b81f8a63f665
+- https://ftp.ncbi.nlm.nih.gov/geo/series/GSE190nnn/GSE190294/suppl/ `GSE190294_OVCAR8_TRACS.csv.gz` 754d7f14b3630e410d3b4ddb400554513e47fc3565b4b3686b2f4a504ee8e721 ; `GSE190294_TOV1946_TRACS.csv.gz` 79378c95b91c8ee34aa3feece037a792d885a59fc4f039460ba53c53eefacb6c.
+
+Headers include Gene, Num.sgRNA, Library.ES, Initial.ES, Final.ES, EnrichmentRatio, pval and qval; OVCAR8/TOV1946 have an extra `i` rank column. Schema-read command printed the first outcome row from each file on 2026-09-26, so any later analysis on these files is exploratory/post-outcome rather than pre-outcome preregistered. No further outcome analysis was done at this stage. Raw files are not redistributed. A different independent lab/source must be identified for a genuinely external monogenic confirmation.
