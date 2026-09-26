@@ -39,4 +39,6 @@ def third_order_from_groups(groups, triple, bootstrap=1000, seed=20260926):
             'replicate_log2_excess':[float(x) for x in observed],
             'mean_log2_excess':float(np.mean(observed)),
             'guide_bootstrap_ci_95':tuple(float(x) for x in np.percentile(boot.mean(axis=1),[2.5,97.5])),
-            'replicate_direction_agrees':bool(np.all(observed<0) or np.all(observed>0))}
+            'replicate_direction_agrees':bool(np.all(observed<0) or np.all(observed>0)),
+            'guide_bootstrap_two_sided_p':float(min(1.,2*min((1+np.sum(boot.mean(axis=1)>=0))/(bootstrap+1),
+                                                                  (1+np.sum(boot.mean(axis=1)<=0))/(bootstrap+1))))}
