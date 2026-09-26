@@ -1,0 +1,13 @@
+{
+  "scope": "cancer-only monogenic surrogate demonstration, no normal reward and no independent pair/triple validation",
+  "development_models": 25,
+  "actions": 349,
+  "episodes": 300,
+  "seed": 20260926,
+  "first_50_mean_reward": 0.47394296469352,
+  "last_50_mean_reward": 0.5743201695843437,
+  "unique_3gene_actions": 300,
+  "final_policy_weight_l2": 0.157918170660952,
+  "heldout_results_not_accessed": true,
+  "healthy_viability_status": "not_measured"
+}
