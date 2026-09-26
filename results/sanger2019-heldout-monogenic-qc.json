@@ -1,0 +1,40 @@
+{
+  "scope": "same-study monogenic holdout, not paired/triple or healthy-cell validation",
+  "training_models": 25,
+  "selected_gene_count": 2000,
+  "repair_action_genes": 349,
+  "results": [
+    {
+      "model": "ACH-000524",
+      "name": "KURAMOCHI_OVARY",
+      "genes": 2000,
+      "spearman": 0.8494757663834968,
+      "mae": 0.08361580588509437,
+      "constant_0.2_mae": 0.29429151622822325
+    },
+    {
+      "model": "ACH-000696",
+      "name": "OVCAR8_OVARY",
+      "genes": 2000,
+      "spearman": 0.9029085225669592,
+      "mae": 0.061557762567954755,
+      "constant_0.2_mae": 0.2799931708031008
+    },
+    {
+      "model": "ACH-001630",
+      "name": "PEO1_OVARY",
+      "genes": 2000,
+      "spearman": 0.8333058741088952,
+      "mae": 0.08423728744422422,
+      "constant_0.2_mae": 0.2913918146924319
+    },
+    {
+      "model": "ACH-001632",
+      "name": "PEO4_OVARY",
+      "genes": 2000,
+      "spearman": 0.8098983808645845,
+      "mae": 0.10167055956302733,
+      "constant_0.2_mae": 0.2925601307527301
+    }
+  ]
+}
