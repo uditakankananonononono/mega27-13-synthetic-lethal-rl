@@ -1,0 +1,6 @@
+# Proxy-only RL sanity check: no gain vs random
+2026-09-26, development-only result. The historically processed Project SCORE ovarian monogenic data and Reactome topology were used to construct an explicitly arbitrary cancer-only prior surrogate. This is NOT a biological intervention simulator with measured cancer and healthy viability. GSE154112 was not read by the policy training or this matched-budget sanity check.
+
+Transparent sequential REINFORCE policy selected three genes from 349 DNA-repair action genes. Policy 200 training surrogate calls followed by 100 proposed scored actions; random baseline 300 scored actions. Ten seeds, same 300 surrogate calls per method. Mean best simulator reward: RL 0.7646 vs random 0.7716. RL beat random on only 3/10 seeds. Moreover both evaluated against the simulator prior that policy trained on: such rewards have no external validity and no basis for a synthetic-lethal hit claim. They only check code mechanics and warn against assuming RL automatically improves search.
+
+There are not yet results against greedy, beam, network-guided and uncertainty-based reference methods, nor independent ovarian pair/triple outcomes or matched normal comparison. No clinical claim, ISEF-worthy discovery, or count credit. Preserve this negative, then improve the actual question via evidence, not by suppressing the baseline.
