@@ -1,0 +1,7750 @@
+{
+  "scope": "post-outcome, position-matched third-order contrast sensitivity; no inferential p-value, no viability",
+  "control_median": [
+    0.5794877600213606,
+    1.1535625179222873
+  ],
+  "triples": [
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "EGFR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.08252921357721395,
+        -0.6714015647656931
+      ],
+      "layout_range_by_replicate": [
+        1.3741684336805706,
+        1.4426821128165872
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "ERBB2"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4442566749182944,
+        -0.3150798701913979
+      ],
+      "layout_range_by_replicate": [
+        1.9609679043952086,
+        1.9046457312168719
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "FGF2"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.1963705760050647,
+        -0.053302362961601256
+      ],
+      "layout_range_by_replicate": [
+        1.6842242539786465,
+        2.1696281113223903
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.2358229027421461,
+        -0.5344785412663026
+      ],
+      "layout_range_by_replicate": [
+        1.6827647819573701,
+        2.539338736622402
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.05130400756366622,
+        -0.5158999930933238
+      ],
+      "layout_range_by_replicate": [
+        1.128395523676683,
+        2.754306340731535
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.2667332191471285,
+        -0.4632452777512075
+      ],
+      "layout_range_by_replicate": [
+        1.1323325558403008,
+        1.400909650682204
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.49317414829139844,
+        -0.35505916389678144
+      ],
+      "layout_range_by_replicate": [
+        1.6277839136424879,
+        3.272253860444945
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.22160639643577743,
+        -0.4423636159163063
+      ],
+      "layout_range_by_replicate": [
+        1.837570426354148,
+        2.854695903574184
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.06535790512249956,
+        -0.17107738225488953
+      ],
+      "layout_range_by_replicate": [
+        2.4280873452887377,
+        3.7878849176422005
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.03058635230088667,
+        -0.2222126812201967
+      ],
+      "layout_range_by_replicate": [
+        1.2221319397815407,
+        1.3048480626159988
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.16853521189978896,
+        -0.9801149410462799
+      ],
+      "layout_range_by_replicate": [
+        1.8097005442910061,
+        3.6772395648770524
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.22170745678702256,
+        -0.4092388852801118
+      ],
+      "layout_range_by_replicate": [
+        1.470279843516547,
+        2.836493371545184
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3158818681657311,
+        -0.5698727621231995
+      ],
+      "layout_range_by_replicate": [
+        0.8030625833756637,
+        1.4113702987834118
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "ERBB2"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3093643797796017,
+        -0.5137421612625184
+      ],
+      "layout_range_by_replicate": [
+        1.6820410145270746,
+        0.7208176273291002
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "FGF2"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.03723098124353715,
+        -0.11910071571418218
+      ],
+      "layout_range_by_replicate": [
+        1.2984724937214542,
+        1.6485859323143555
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.143362380324822,
+        -0.07499552560238967
+      ],
+      "layout_range_by_replicate": [
+        1.8082377297183436,
+        2.986529176600176
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.0492335601558474,
+        -0.5922822643061918
+      ],
+      "layout_range_by_replicate": [
+        1.3365028441826126,
+        1.080462278529891
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.11247203620027559,
+        -0.6526474874936544
+      ],
+      "layout_range_by_replicate": [
+        1.4805642832963526,
+        1.9179454084984247
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.8170848995400201,
+        -0.2893322522809154
+      ],
+      "layout_range_by_replicate": [
+        6.024107459019273,
+        4.008922219655659
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.20795443629002996,
+        -0.6855218802965733
+      ],
+      "layout_range_by_replicate": [
+        1.487583802484074,
+        1.9732003061204475
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.19731533301695237,
+        -0.5041898947752325
+      ],
+      "layout_range_by_replicate": [
+        3.1956665217937967,
+        3.324306019529282
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.15609395406651402,
+        -0.46596040669596567
+      ],
+      "layout_range_by_replicate": [
+        1.5914868533004252,
+        1.1118301822757202
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.45548889779041374,
+        -0.8361954705481364
+      ],
+      "layout_range_by_replicate": [
+        1.7092224557410083,
+        3.546891175147304
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.1815384265078366,
+        -0.4259412312317874
+      ],
+      "layout_range_by_replicate": [
+        1.180184207701878,
+        2.2236370251339115
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.07186567909788148,
+        -0.4250879575974597
+      ],
+      "layout_range_by_replicate": [
+        2.94308748609366,
+        1.7562459772443424
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "FGF2"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.424548978796633,
+        -0.16654589151674928
+      ],
+      "layout_range_by_replicate": [
+        2.9078499092810084,
+        1.7835526742239718
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.35601198953653695,
+        0.022733450306917397
+      ],
+      "layout_range_by_replicate": [
+        1.570894987146319,
+        1.8729984074988288
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.03671332876650712,
+        -0.5835095599542508
+      ],
+      "layout_range_by_replicate": [
+        1.4808703230002678,
+        0.6308229495246704
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.025894732673798767,
+        -0.8544726962036298
+      ],
+      "layout_range_by_replicate": [
+        1.6145452064123407,
+        1.8583225329649014
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.28633373719215266,
+        -0.07043729134931109
+      ],
+      "layout_range_by_replicate": [
+        1.4777955940425638,
+        3.0008998338921327
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4552688273125803,
+        -0.6301627891756792
+      ],
+      "layout_range_by_replicate": [
+        1.268683180564839,
+        2.021472402549886
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.33052028343722134,
+        -0.22821996472648376
+      ],
+      "layout_range_by_replicate": [
+        2.1948758554827834,
+        3.155872523408699
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.21562729308665177,
+        -0.10922668679446046
+      ],
+      "layout_range_by_replicate": [
+        1.2440232453193745,
+        1.1230895100839895
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7779913284254758,
+        -0.820964356068417
+      ],
+      "layout_range_by_replicate": [
+        2.5675538068828616,
+        1.5971063764350397
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2985797508203621,
+        -0.4258027565340175
+      ],
+      "layout_range_by_replicate": [
+        2.8230627432566417,
+        2.3911674266045893
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.017793463444812873,
+        -1.0545012391054553
+      ],
+      "layout_range_by_replicate": [
+        0.8152909455016628,
+        1.706066779840144
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.09739577205018858,
+        -0.17650638182268055
+      ],
+      "layout_range_by_replicate": [
+        1.6125398007399916,
+        2.6277407451678094
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.05288384420636938,
+        -0.2878423713760575
+      ],
+      "layout_range_by_replicate": [
+        1.9872680606931934,
+        1.0221621558610923
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.1575160499913825,
+        -0.30262456029747503
+      ],
+      "layout_range_by_replicate": [
+        0.9189491466436933,
+        1.3732071800759544
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2690262483715348,
+        0.6186654968436819
+      ],
+      "layout_range_by_replicate": [
+        2.35050224569211,
+        2.2170520472491217
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5969622346839253,
+        -0.34643965069458543
+      ],
+      "layout_range_by_replicate": [
+        1.816878231248891,
+        1.0700698469282681
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.06759720537657836,
+        0.49483591900352103
+      ],
+      "layout_range_by_replicate": [
+        2.0787088200407053,
+        3.009351013074405
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.09905320713987999,
+        0.10090270492221003
+      ],
+      "layout_range_by_replicate": [
+        1.7890321341055584,
+        2.2793709522392946
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3477218206305788,
+        -0.641559897500604
+      ],
+      "layout_range_by_replicate": [
+        2.767097731521347,
+        2.428476420735157
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2804816329497604,
+        -0.1156111772785005
+      ],
+      "layout_range_by_replicate": [
+        2.394819442868118,
+        1.4631472550534665
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.42705409938014355,
+        -0.13430749908928505
+      ],
+      "layout_range_by_replicate": [
+        1.4604784847385326,
+        2.1585591378242115
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "HDAC1",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.32074529536878843,
+        -0.6964382698477342
+      ],
+      "layout_range_by_replicate": [
+        1.421994065531944,
+        1.966818064775988
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "HDAC1",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.4365459298579684,
+        -0.965104386789395
+      ],
+      "layout_range_by_replicate": [
+        1.5834843635309794,
+        1.338830406134706
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "HDAC1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.5592614060218593,
+        -0.4009192659760957
+      ],
+      "layout_range_by_replicate": [
+        3.519082517107596,
+        5.743882298110565
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "HDAC1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.22885413572002747,
+        -0.22485579695489735
+      ],
+      "layout_range_by_replicate": [
+        1.7257454781776616,
+        2.3339531562294518
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "HDAC1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.20023797652570685,
+        0.6476226009622605
+      ],
+      "layout_range_by_replicate": [
+        2.433565612678633,
+        2.4824696659916587
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "HDAC1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.3546673486038929,
+        -0.3752888468229589
+      ],
+      "layout_range_by_replicate": [
+        1.8611982709056463,
+        1.600278420118653
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "HDAC1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.46439862692518624,
+        -0.7188035512414995
+      ],
+      "layout_range_by_replicate": [
+        2.299314093770342,
+        2.0257605072609253
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "HDAC1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.02165757411981491,
+        -0.4766992615792344
+      ],
+      "layout_range_by_replicate": [
+        1.5875638315945693,
+        1.7102603821802496
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "HDAC1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.17465465838798908,
+        -0.3845123097138769
+      ],
+      "layout_range_by_replicate": [
+        1.627484500407809,
+        1.7878452658895387
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "IKBKB",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.1915768055722076,
+        -1.0938883710726781
+      ],
+      "layout_range_by_replicate": [
+        1.9474458233896303,
+        0.3775205496361381
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "IKBKB",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.6719089652257728,
+        -0.9571678508174494
+      ],
+      "layout_range_by_replicate": [
+        2.3490422247182323,
+        2.3574747193580676
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "IKBKB",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.11354320665387763,
+        -0.6241181857600767
+      ],
+      "layout_range_by_replicate": [
+        1.2533418355652808,
+        0.7400531772882685
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "IKBKB",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.20583337604270188,
+        -0.15675587828089063
+      ],
+      "layout_range_by_replicate": [
+        2.662302341536,
+        2.5763866558864326
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "IKBKB",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.24123414455788236,
+        0.0007149884794117508
+      ],
+      "layout_range_by_replicate": [
+        2.047265787163502,
+        1.0589984705406503
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "IKBKB",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.08494218988488354,
+        -0.9089975438132859
+      ],
+      "layout_range_by_replicate": [
+        3.209392812396327,
+        4.02469664973467
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "IKBKB",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.3273722186960999,
+        -0.27877473807276293
+      ],
+      "layout_range_by_replicate": [
+        2.534117679372094,
+        1.9570066427193944
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "IKBKB",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.19689229847017145,
+        -0.9016897382455532
+      ],
+      "layout_range_by_replicate": [
+        2.123735026628873,
+        0.985277469231355
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MAP2K1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.6213707493959929,
+        -0.745309062036631
+      ],
+      "layout_range_by_replicate": [
+        4.036486747191536,
+        3.1885565367481066
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MAP2K1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2685920681508362,
+        -0.6138353117901443
+      ],
+      "layout_range_by_replicate": [
+        1.5100636338637914,
+        2.664540815794676
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MAP2K1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.37372942203210413,
+        -1.1661695003746575
+      ],
+      "layout_range_by_replicate": [
+        2.640060157196604,
+        2.8912488447610127
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MAP2K1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.3232368818824021,
+        -0.5280263500617622
+      ],
+      "layout_range_by_replicate": [
+        1.3999703016130203,
+        1.3288669258716588
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MAP2K1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.031321656711192414,
+        -0.9309290380017409
+      ],
+      "layout_range_by_replicate": [
+        2.213116225310288,
+        5.097856600453307
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MAP2K1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.23266361148289624,
+        -0.9041523189108104
+      ],
+      "layout_range_by_replicate": [
+        1.0439610682219918,
+        1.0488901973890559
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MAP2K1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.13770042113584086,
+        -0.46476996283284855
+      ],
+      "layout_range_by_replicate": [
+        0.45645030473195297,
+        1.307826676695616
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MTOR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.17947716962513072,
+        -0.9612505850768948
+      ],
+      "layout_range_by_replicate": [
+        3.18788756458515,
+        2.624604592577607
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MTOR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.8469977018736848,
+        -0.08719693838322774
+      ],
+      "layout_range_by_replicate": [
+        3.7042934956326192,
+        5.819133604834898
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MTOR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.295623151295825,
+        -0.15682596830895165
+      ],
+      "layout_range_by_replicate": [
+        3.176264458937951,
+        3.050914728979153
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MTOR",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2200678550076103,
+        -0.7336008697690848
+      ],
+      "layout_range_by_replicate": [
+        3.212919480237804,
+        3.4750484690036174
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MTOR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.41998404452521526,
+        -0.29656230178591175
+      ],
+      "layout_range_by_replicate": [
+        2.2689323058593605,
+        2.3650755940268757
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MTOR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.334654575381125,
+        -0.4815587482892623
+      ],
+      "layout_range_by_replicate": [
+        1.770219560937793,
+        1.7505577464574276
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "PIK3C3",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.07385321907134713,
+        -0.11689565719600122
+      ],
+      "layout_range_by_replicate": [
+        2.621271408314434,
+        2.826931082141851
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "PIK3C3",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.28735697686962247,
+        0.006696884080890457
+      ],
+      "layout_range_by_replicate": [
+        1.7882633147417626,
+        3.1040023007028177
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "PIK3C3",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.05207964398774093,
+        -1.008547315477814
+      ],
+      "layout_range_by_replicate": [
+        1.3721369808177033,
+        1.5427348306631004
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "PIK3C3",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.20672267875751013,
+        -0.6390462423436494
+      ],
+      "layout_range_by_replicate": [
+        2.0070737195432473,
+        1.4716522547507729
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "PIK3C3",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.19933134312428694,
+        -0.9256697854518702
+      ],
+      "layout_range_by_replicate": [
+        1.3781854967902225,
+        1.6160706280831465
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4900415178723389,
+        0.37510981085725265
+      ],
+      "layout_range_by_replicate": [
+        2.2510648143060856,
+        1.3062794885362705
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.36977570089636536,
+        -0.5997296399159128
+      ],
+      "layout_range_by_replicate": [
+        2.618052739319049,
+        3.210180922549869
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.09050664148046339,
+        0.1186019396066258
+      ],
+      "layout_range_by_replicate": [
+        1.8091090636539444,
+        3.590360112915657
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.02857505180362806,
+        -0.7060994643426599
+      ],
+      "layout_range_by_replicate": [
+        1.1780370009581502,
+        3.561031269690909
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.45963114688941104,
+        -0.08102890160970837
+      ],
+      "layout_range_by_replicate": [
+        2.4569923764423853,
+        4.480346348353017
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.39797418766969445,
+        -0.2687509144117859
+      ],
+      "layout_range_by_replicate": [
+        1.3061926435411153,
+        1.6313465593385181
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.12988945067952382,
+        -0.528936664277975
+      ],
+      "layout_range_by_replicate": [
+        1.0883105438546574,
+        0.7695573204622496
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.1060892245268457,
+        -0.6942537069920229
+      ],
+      "layout_range_by_replicate": [
+        1.8533933566382412,
+        2.162868010288375
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.07399072050891896,
+        -1.248308289069057
+      ],
+      "layout_range_by_replicate": [
+        1.4279341880820424,
+        2.8457501822966114
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.17910880156993847,
+        -0.9470604669396949
+      ],
+      "layout_range_by_replicate": [
+        2.6757731089537478,
+        2.8847283415371376
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "ERBB2"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6549774257592161,
+        -0.30417686975494074
+      ],
+      "layout_range_by_replicate": [
+        1.462731315412884,
+        2.079308329474989
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "FGF2"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4471560994924257,
+        0.17138663440431742
+      ],
+      "layout_range_by_replicate": [
+        1.5560555003062007,
+        1.7522423196749493
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5006102997301903,
+        -0.29118522296500227
+      ],
+      "layout_range_by_replicate": [
+        1.484578544475042,
+        1.4710054496884184
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.19722683544385208,
+        -0.156683523367006
+      ],
+      "layout_range_by_replicate": [
+        1.7834380218822115,
+        2.821297511605266
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3363578788799341,
+        -0.04222251014152414
+      ],
+      "layout_range_by_replicate": [
+        1.7828531485175778,
+        1.3457065485063322
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.27800571124212775,
+        0.017732231035073414
+      ],
+      "layout_range_by_replicate": [
+        3.0047052195828763,
+        1.3695570890179598
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.16022674344124524,
+        -0.4694286219729844
+      ],
+      "layout_range_by_replicate": [
+        2.010195081915703,
+        2.842222807592713
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.3012016868883624,
+        -0.3331527129012432
+      ],
+      "layout_range_by_replicate": [
+        1.502970821358379,
+        1.3852265043565926
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.09003639377270423,
+        -0.30805214559113464
+      ],
+      "layout_range_by_replicate": [
+        2.0800045866592702,
+        1.407308107872332
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4963889635340902,
+        -0.7127135968491954
+      ],
+      "layout_range_by_replicate": [
+        2.197171668819731,
+        1.9582818341837176
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.33210510623872463,
+        -0.11464532527102507
+      ],
+      "layout_range_by_replicate": [
+        1.2152788584810525,
+        1.7648095879406465
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.605593595155474,
+        -0.501924945242274
+      ],
+      "layout_range_by_replicate": [
+        2.7117189496469627,
+        1.5268215137951484
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "FGF2"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6519361611682376,
+        -0.3166623140181329
+      ],
+      "layout_range_by_replicate": [
+        1.4426529847908167,
+        1.431477887159894
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.40276807231641265,
+        -0.2195953239789893
+      ],
+      "layout_range_by_replicate": [
+        1.310919262206494,
+        1.165002755906578
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.012859867718816384,
+        -0.6839024979201471
+      ],
+      "layout_range_by_replicate": [
+        1.2203970463875469,
+        1.3075294403950524
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.47350897850364543,
+        -0.09854988533921055
+      ],
+      "layout_range_by_replicate": [
+        1.6258182667778827,
+        1.053559806366461
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.143398114930388,
+        0.011121838674923001
+      ],
+      "layout_range_by_replicate": [
+        2.3711810891377336,
+        1.9001087424792515
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3363318970811471,
+        -0.5129010208616532
+      ],
+      "layout_range_by_replicate": [
+        1.2260341227639053,
+        2.8739811007383
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.24186646969752967,
+        -0.35078921494466925
+      ],
+      "layout_range_by_replicate": [
+        3.2998215240307793,
+        2.5562511258044696
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.289382198033821,
+        -0.16875417945432356
+      ],
+      "layout_range_by_replicate": [
+        2.48080613938997,
+        2.1929580529291837
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.753787436276987,
+        -1.135203043234233
+      ],
+      "layout_range_by_replicate": [
+        2.240758081212779,
+        1.1148464650394498
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.30918436004938016,
+        -0.4418534568177796
+      ],
+      "layout_range_by_replicate": [
+        2.273636375868992,
+        3.9270690593252526
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.43673246740687,
+        -0.8885942438195729
+      ],
+      "layout_range_by_replicate": [
+        1.313336774900574,
+        1.1974179142852581
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.18590089338382207,
+        0.10250272174989213
+      ],
+      "layout_range_by_replicate": [
+        2.0293590960840873,
+        1.4661017972671464
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.48419777083432186,
+        0.059356847986131396
+      ],
+      "layout_range_by_replicate": [
+        0.5392098048143578,
+        1.7583109810958195
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6372789954068218,
+        0.12231951747585161
+      ],
+      "layout_range_by_replicate": [
+        1.8172131558165185,
+        1.9418477704861525
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.21834958019403927,
+        0.33899237120399855
+      ],
+      "layout_range_by_replicate": [
+        1.7705944732776335,
+        2.040527448850777
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.586502769852279,
+        -0.12145857467158554
+      ],
+      "layout_range_by_replicate": [
+        1.0220909094517994,
+        0.985447967505531
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.12239179548896183,
+        0.4980965016015142
+      ],
+      "layout_range_by_replicate": [
+        2.557783027179589,
+        1.2473398282238473
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.32328107722870475,
+        0.10816676985845157
+      ],
+      "layout_range_by_replicate": [
+        1.4314757691343805,
+        1.804143374847278
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5344191366293165,
+        -0.7569156733380784
+      ],
+      "layout_range_by_replicate": [
+        3.0417511741942542,
+        1.519992185741279
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5317761588349069,
+        -0.2754103693739128
+      ],
+      "layout_range_by_replicate": [
+        2.4501340772554223,
+        1.3461280512489011
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5323298329677507,
+        -0.2751454896859
+      ],
+      "layout_range_by_replicate": [
+        1.0062015691151827,
+        1.5473860120381175
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "HDAC1",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.0700046002092118,
+        -0.7218200197360046
+      ],
+      "layout_range_by_replicate": [
+        2.5482881367979875,
+        1.6832074036422533
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "HDAC1",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.04651367108148332,
+        -0.48958190242632355
+      ],
+      "layout_range_by_replicate": [
+        1.5722202869796802,
+        1.576685429905349
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "HDAC1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.4682026131993384,
+        -0.373222650226781
+      ],
+      "layout_range_by_replicate": [
+        3.0746801941471804,
+        2.540064866235811
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "HDAC1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.2778631460801511,
+        -0.5352927857379078
+      ],
+      "layout_range_by_replicate": [
+        2.071593127511643,
+        1.9205204904390962
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "HDAC1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.1398110751778681,
+        0.30029891983752416
+      ],
+      "layout_range_by_replicate": [
+        3.109609788814558,
+        2.3058529431629617
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "HDAC1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.13106911254047202,
+        0.05979395820725977
+      ],
+      "layout_range_by_replicate": [
+        2.149066469266538,
+        0.981427569859705
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "HDAC1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6897603301117038,
+        -0.9895875901704025
+      ],
+      "layout_range_by_replicate": [
+        2.91907816386471,
+        1.2412173905963018
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "HDAC1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.18334023065782754,
+        -0.50200303092004
+      ],
+      "layout_range_by_replicate": [
+        1.616557424497675,
+        1.4441786125542018
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "HDAC1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.37536141651271376,
+        -0.6620536490484449
+      ],
+      "layout_range_by_replicate": [
+        2.1553319975349625,
+        2.3282942856328934
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "IKBKB",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.016207014477957093,
+        -0.47929779836006076
+      ],
+      "layout_range_by_replicate": [
+        2.9609470423121222,
+        1.0873633921342851
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "IKBKB",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.3253801716603106,
+        -0.03697266266958116
+      ],
+      "layout_range_by_replicate": [
+        1.5552115301499505,
+        2.7539498545083783
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "IKBKB",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.25429435264293204,
+        -0.6906251868475476
+      ],
+      "layout_range_by_replicate": [
+        1.904146622189799,
+        1.5110532695221377
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "IKBKB",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.4156705193589565,
+        -0.0924719552364101
+      ],
+      "layout_range_by_replicate": [
+        1.8254908043017235,
+        3.1383011515172425
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "IKBKB",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.025139846305485825,
+        -0.3622550637014308
+      ],
+      "layout_range_by_replicate": [
+        1.5293160915302115,
+        2.0193070013861947
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "IKBKB",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.39382685338472845,
+        -0.8779026054023368
+      ],
+      "layout_range_by_replicate": [
+        2.448147724938445,
+        2.3881232432453667
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "IKBKB",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.11510686812991643,
+        -0.15139528116054013
+      ],
+      "layout_range_by_replicate": [
+        2.1747296367214557,
+        1.6080685557360728
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "IKBKB",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5304125863278536,
+        -0.688413558608878
+      ],
+      "layout_range_by_replicate": [
+        1.7547181179149827,
+        1.6113125439852962
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MAP2K1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.3340667526633314,
+        -0.059616641466593366
+      ],
+      "layout_range_by_replicate": [
+        2.4473485376425996,
+        2.175960295939891
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MAP2K1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.09399738798900743,
+        0.1370998657504802
+      ],
+      "layout_range_by_replicate": [
+        1.7240772762754393,
+        2.6506353992551324
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MAP2K1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.21233661387054462,
+        -0.023217761263460996
+      ],
+      "layout_range_by_replicate": [
+        2.2237696466504966,
+        1.3411404458472371
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MAP2K1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.1488077421018056,
+        -0.15567414811266056
+      ],
+      "layout_range_by_replicate": [
+        1.6998658462172822,
+        1.9942209993236077
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MAP2K1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.34668372587903856,
+        -0.7466759314739497
+      ],
+      "layout_range_by_replicate": [
+        1.0860487364548135,
+        1.177764986869952
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MAP2K1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.06971114279007962,
+        -0.2674026830756877
+      ],
+      "layout_range_by_replicate": [
+        1.4161800643487852,
+        1.556733678653459
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MAP2K1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.06130111336545507,
+        -0.11064238153196837
+      ],
+      "layout_range_by_replicate": [
+        1.7976420733408442,
+        1.3400178346334055
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MTOR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.15540188631511945,
+        -0.392883194620753
+      ],
+      "layout_range_by_replicate": [
+        1.9258436854861447,
+        5.518369706971957
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MTOR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.3582308456331789,
+        0.17889895745508486
+      ],
+      "layout_range_by_replicate": [
+        4.212939525336129,
+        2.161660130905907
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MTOR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.18914442783413085,
+        -0.13153971619096433
+      ],
+      "layout_range_by_replicate": [
+        2.6254075852161876,
+        2.0132598398971364
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MTOR",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.23536200452267456,
+        -0.7382559930138385
+      ],
+      "layout_range_by_replicate": [
+        2.271502955206588,
+        2.13531740921811
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MTOR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5995491104665109,
+        -0.36504137042559776
+      ],
+      "layout_range_by_replicate": [
+        4.800858430934172,
+        2.6678464611821537
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MTOR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.3352405513831839,
+        -0.3058570763044968
+      ],
+      "layout_range_by_replicate": [
+        1.4867739113584086,
+        2.0924094671571933
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "PIK3C3",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.22461562272649116,
+        -0.342932646301999
+      ],
+      "layout_range_by_replicate": [
+        0.885650033611947,
+        1.663936715994298
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "PIK3C3",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.08774529237513436,
+        0.17631617515106793
+      ],
+      "layout_range_by_replicate": [
+        1.935083014456819,
+        2.1296690824045315
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "PIK3C3",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.0875299693427193,
+        -1.169890696393282
+      ],
+      "layout_range_by_replicate": [
+        1.5149581897513482,
+        3.9495149630120157
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "PIK3C3",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.37857637225060387,
+        -0.5007319405201875
+      ],
+      "layout_range_by_replicate": [
+        1.3523329775220996,
+        1.3819633234748587
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "PIK3C3",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2772593722882058,
+        -0.6989667607628746
+      ],
+      "layout_range_by_replicate": [
+        1.8405691983457235,
+        1.9222588126334184
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.03465156658624677,
+        0.5507300456307981
+      ],
+      "layout_range_by_replicate": [
+        1.728147678977309,
+        1.6814623358577783
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.31752788095618634,
+        -0.6536151336643637
+      ],
+      "layout_range_by_replicate": [
+        3.7008453550459404,
+        3.281797416864643
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.48887761538795727,
+        -0.1490515547330022
+      ],
+      "layout_range_by_replicate": [
+        1.7297324273715147,
+        2.158037521969513
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.12752390867827185,
+        -0.3249997622194443
+      ],
+      "layout_range_by_replicate": [
+        1.4363811759702472,
+        1.7755350494860285
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.38306591225292524,
+        0.013663942948202251
+      ],
+      "layout_range_by_replicate": [
+        2.249860818096625,
+        1.4475275261579
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.13881033983830884,
+        -0.15447056188410413
+      ],
+      "layout_range_by_replicate": [
+        1.8143818237977491,
+        1.5254327929054021
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.032639747125465524,
+        -0.3299700775665001
+      ],
+      "layout_range_by_replicate": [
+        1.7120517037278542,
+        1.742524462892658
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.33393429491614235,
+        -1.3480956245392717
+      ],
+      "layout_range_by_replicate": [
+        1.9048513511860379,
+        1.6784918176157748
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.34305706831745164,
+        -1.0380151968119316
+      ],
+      "layout_range_by_replicate": [
+        1.9277582309677148,
+        1.2318430509827012
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.487624849727905,
+        -0.6256256480512475
+      ],
+      "layout_range_by_replicate": [
+        2.366357030828372,
+        1.6431637402052395
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "FGF2"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5538764253761471,
+        -0.11145960857501096
+      ],
+      "layout_range_by_replicate": [
+        1.0135491949128814,
+        2.0190644945208924
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5907997156262574,
+        0.16950425236454877
+      ],
+      "layout_range_by_replicate": [
+        2.4004033873487485,
+        2.7397485540641404
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.03630293613597788,
+        -0.37030191126215845
+      ],
+      "layout_range_by_replicate": [
+        1.2970163896147628,
+        1.4443673075325645
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6363067504784019,
+        -0.4110990761586179
+      ],
+      "layout_range_by_replicate": [
+        1.1262166250500876,
+        1.9367671872778276
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.3156926907934801,
+        0.3430223241489491
+      ],
+      "layout_range_by_replicate": [
+        2.631783662256971,
+        1.4049531395658126
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2817484213326423,
+        -0.7476756087550207
+      ],
+      "layout_range_by_replicate": [
+        1.3936514712893193,
+        1.327442657335289
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        1.0426900621651753,
+        -0.025718835936707124
+      ],
+      "layout_range_by_replicate": [
+        2.316127312719257,
+        2.2082365385599814
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2228559538600641,
+        -0.3227703179240172
+      ],
+      "layout_range_by_replicate": [
+        0.7106094237082515,
+        1.349184990901356
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4288103298715589,
+        -0.8293572368639502
+      ],
+      "layout_range_by_replicate": [
+        2.193598799873476,
+        2.3195749064021687
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7353061610019599,
+        -0.00709319428856577
+      ],
+      "layout_range_by_replicate": [
+        2.3168632034976837,
+        2.592016742532654
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3877756086678577,
+        -0.9161187539473626
+      ],
+      "layout_range_by_replicate": [
+        1.5930970446640824,
+        1.5040984849384091
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.049601457195350064,
+        -0.045215222470441185
+      ],
+      "layout_range_by_replicate": [
+        1.9430603997568539,
+        2.418328692758088
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2004743358448774,
+        -0.0543144937184914
+      ],
+      "layout_range_by_replicate": [
+        0.8284438495828903,
+        1.4755127440879363
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7980010888468647,
+        0.07525824773138154
+      ],
+      "layout_range_by_replicate": [
+        2.120120400823208,
+        1.1810849565490311
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.24751482956960966,
+        0.34912126031480434
+      ],
+      "layout_range_by_replicate": [
+        2.3318595197968284,
+        3.2204119978433603
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7564964422445848,
+        -0.41069259471339664
+      ],
+      "layout_range_by_replicate": [
+        1.5959139862889185,
+        1.98430473682276
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6535757562204626,
+        0.31591127288884296
+      ],
+      "layout_range_by_replicate": [
+        2.394306031452608,
+        2.0500207065649865
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2721612103731887,
+        -0.003551618640664935
+      ],
+      "layout_range_by_replicate": [
+        2.022604043297696,
+        2.6453695730820757
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.538408015507724,
+        -0.8127201861595843
+      ],
+      "layout_range_by_replicate": [
+        3.1901951377914823,
+        5.142511683078192
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.9702108753686222,
+        0.21222430015621
+      ],
+      "layout_range_by_replicate": [
+        1.4211635723761726,
+        1.4608255857155241
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6349328397823388,
+        -0.0338522122815575
+      ],
+      "layout_range_by_replicate": [
+        2.20238633796478,
+        2.1967443698587603
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "HDAC1",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2626260231079636,
+        -0.34715967778738843
+      ],
+      "layout_range_by_replicate": [
+        2.8449989065915746,
+        2.7830734739743046
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "HDAC1",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4470220452069913,
+        -0.14868964682578326
+      ],
+      "layout_range_by_replicate": [
+        1.8185646463039271,
+        1.9633208461097402
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "HDAC1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.3239251304698651,
+        -0.057763870603711666
+      ],
+      "layout_range_by_replicate": [
+        4.11130642312676,
+        4.090822203641279
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "HDAC1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.39955192157395963,
+        -0.34675307722608945
+      ],
+      "layout_range_by_replicate": [
+        1.1501909027162707,
+        2.2105085210254236
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "HDAC1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.44034095907592935,
+        0.6282207919755611
+      ],
+      "layout_range_by_replicate": [
+        1.0926974958292295,
+        2.1224570833463634
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "HDAC1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.06466860770964365,
+        -0.35965591869477986
+      ],
+      "layout_range_by_replicate": [
+        1.5951614373986938,
+        1.2243497541170618
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "HDAC1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.9409312600983739,
+        -0.20357117282917195
+      ],
+      "layout_range_by_replicate": [
+        3.0919130194902396,
+        2.6950547640378026
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "HDAC1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4952059715634884,
+        0.22038153859427587
+      ],
+      "layout_range_by_replicate": [
+        1.4970779058334254,
+        2.3414422145916385
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "HDAC1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4111599477752486,
+        -0.3452118414393793
+      ],
+      "layout_range_by_replicate": [
+        2.3424476022108798,
+        0.9480450529919813
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "IKBKB",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.10818894312135657,
+        -0.5064539956147435
+      ],
+      "layout_range_by_replicate": [
+        2.4330830040927083,
+        1.574249908676907
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "IKBKB",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.9349503043819906,
+        -0.8151212410365112
+      ],
+      "layout_range_by_replicate": [
+        2.189391675170433,
+        3.852899880242543
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "IKBKB",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.15562113901910105,
+        -0.883998161302438
+      ],
+      "layout_range_by_replicate": [
+        1.2555399347289642,
+        1.2278073284177662
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "IKBKB",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.1491308314884553,
+        -0.15634383273879057
+      ],
+      "layout_range_by_replicate": [
+        2.8271492191087693,
+        2.7393971026342023
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "IKBKB",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.033170314584519245,
+        -0.5701203742034192
+      ],
+      "layout_range_by_replicate": [
+        1.7441742505011684,
+        1.857862268227725
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "IKBKB",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.17657181909295339,
+        -0.8372128532981776
+      ],
+      "layout_range_by_replicate": [
+        2.5063417143737023,
+        3.13445449954346
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "IKBKB",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3452604159728285,
+        0.19303809899837646
+      ],
+      "layout_range_by_replicate": [
+        1.656266869156418,
+        1.6728416912315098
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "IKBKB",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.12268507281464026,
+        -0.5866193653787577
+      ],
+      "layout_range_by_replicate": [
+        1.3581481886078748,
+        2.522329514015822
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MAP2K1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.16075551033196048,
+        -0.41274921402380776
+      ],
+      "layout_range_by_replicate": [
+        2.240208326502131,
+        3.0950887200394863
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MAP2K1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.33971277582249265,
+        -0.3799152693325252
+      ],
+      "layout_range_by_replicate": [
+        0.5443679178635795,
+        2.181278201196289
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MAP2K1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6438368768964992,
+        -0.3426819624831694
+      ],
+      "layout_range_by_replicate": [
+        3.0319777061273694,
+        1.9834262511191743
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MAP2K1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.02059813768608661,
+        -0.2244290464674995
+      ],
+      "layout_range_by_replicate": [
+        2.2785753942293874,
+        2.240581781132005
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MAP2K1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.32040035223519864,
+        -1.1109320382623635
+      ],
+      "layout_range_by_replicate": [
+        2.613804196819579,
+        3.146236002293149
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MAP2K1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7420152531114651,
+        -0.08348363345602779
+      ],
+      "layout_range_by_replicate": [
+        1.2767725794292082,
+        1.0863265903411832
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MAP2K1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5796636894470203,
+        -0.09643245342132485
+      ],
+      "layout_range_by_replicate": [
+        1.462424253482393,
+        1.2042784422884836
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MTOR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.09862451891654007,
+        -0.5989707640789718
+      ],
+      "layout_range_by_replicate": [
+        3.487608996294972,
+        3.008317714964644
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MTOR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.2673188081926992,
+        -0.5904082153475066
+      ],
+      "layout_range_by_replicate": [
+        4.145227044870936,
+        2.7663982471329795
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MTOR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.3449752427251569,
+        -0.28850521484685493
+      ],
+      "layout_range_by_replicate": [
+        4.4319914366231075,
+        4.620252436505255
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MTOR",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.3092961377617993,
+        -0.7939836411215176
+      ],
+      "layout_range_by_replicate": [
+        3.684531685062855,
+        2.123609985011863
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MTOR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.25061890918042745,
+        -0.3991753494005304
+      ],
+      "layout_range_by_replicate": [
+        4.356518231835979,
+        1.4569651044803038
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MTOR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.4417087876763852,
+        -0.23581838231147176
+      ],
+      "layout_range_by_replicate": [
+        3.489950409064238,
+        3.58019365651326
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "PIK3C3",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.19661434014627457,
+        -0.7194617444690192
+      ],
+      "layout_range_by_replicate": [
+        1.7757823505732497,
+        4.025529910541959
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "PIK3C3",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4250524624040681,
+        -0.34038389235098093
+      ],
+      "layout_range_by_replicate": [
+        1.99734994969661,
+        1.7025105069870552
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "PIK3C3",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.1340681354550112,
+        -1.4884520636502998
+      ],
+      "layout_range_by_replicate": [
+        2.891641875002964,
+        3.637410754123757
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "PIK3C3",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        1.0908936124224298,
+        -0.4800075417159319
+      ],
+      "layout_range_by_replicate": [
+        1.0307647406062364,
+        1.8029690199620632
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "PIK3C3",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.47851570501068785,
+        -0.8029037346686904
+      ],
+      "layout_range_by_replicate": [
+        1.5322939265995739,
+        1.012334307770202
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7759770877828763,
+        -0.017024791953303867
+      ],
+      "layout_range_by_replicate": [
+        2.6017413294512375,
+        2.1019026473924693
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.08505792300126984,
+        -0.9605295832747105
+      ],
+      "layout_range_by_replicate": [
+        3.6534343865020933,
+        2.136282627328165
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7196575718194061,
+        0.12440687852792842
+      ],
+      "layout_range_by_replicate": [
+        0.6555897891063829,
+        2.4668240950234677
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.8848743328342832,
+        -0.5223387464983277
+      ],
+      "layout_range_by_replicate": [
+        1.5660572326370934,
+        1.9303671121474595
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.013399383761590536,
+        -0.5795999520790469
+      ],
+      "layout_range_by_replicate": [
+        3.354391390332148,
+        5.1106075187408635
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7398451377541758,
+        0.023170334690018685
+      ],
+      "layout_range_by_replicate": [
+        1.15445783516226,
+        1.9675186728008025
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4472109184239405,
+        -0.4691201294382221
+      ],
+      "layout_range_by_replicate": [
+        1.1680898201762415,
+        1.6295238925785978
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4661990185951837,
+        -0.9337136278480856
+      ],
+      "layout_range_by_replicate": [
+        2.368941176334248,
+        2.6222517625070676
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.1988993721173856,
+        -1.3844803445259222
+      ],
+      "layout_range_by_replicate": [
+        1.4614325878204197,
+        2.5213687826359408
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.9006787515821438,
+        -0.49605504537809564
+      ],
+      "layout_range_by_replicate": [
+        2.0509985148864063,
+        2.1100764600203914
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.33791512965512355,
+        0.06883975352218814
+      ],
+      "layout_range_by_replicate": [
+        1.6596488236726097,
+        2.0081011364074586
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.23986184112723619,
+        -0.47430026873971026
+      ],
+      "layout_range_by_replicate": [
+        1.132272148149618,
+        1.7741135260986471
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7962595300397349,
+        -0.06847877252662964
+      ],
+      "layout_range_by_replicate": [
+        0.9923075794698326,
+        1.5786277468884564
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7226922361111935,
+        0.6020606578585616
+      ],
+      "layout_range_by_replicate": [
+        3.1284515697669146,
+        2.9263942438193435
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6555237509561767,
+        -0.30321643305607154
+      ],
+      "layout_range_by_replicate": [
+        1.875985952418676,
+        1.2226628686790593
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7898194805190742,
+        0.17828124571556656
+      ],
+      "layout_range_by_replicate": [
+        2.2036977412143006,
+        1.295820117923086
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.48629790353793617,
+        -0.10220605266541027
+      ],
+      "layout_range_by_replicate": [
+        2.4969110009207127,
+        2.8138973479402423
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        1.0766731080496408,
+        -1.0937992664558054
+      ],
+      "layout_range_by_replicate": [
+        3.3119010859160682,
+        3.3746747680462787
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        1.0363057927517039,
+        -0.047435951912209375
+      ],
+      "layout_range_by_replicate": [
+        3.0834448593844797,
+        2.8800453356148665
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5357598495417583,
+        -0.655731005371705
+      ],
+      "layout_range_by_replicate": [
+        2.1100218849892607,
+        1.775475601477122
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "HDAC1",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.18312031468437526,
+        -0.3608847371142904
+      ],
+      "layout_range_by_replicate": [
+        1.789434042241927,
+        1.3072914862262475
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "HDAC1",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.21767144972022803,
+        -0.4610700213830403
+      ],
+      "layout_range_by_replicate": [
+        1.4268525260775293,
+        1.0103205884908493
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "HDAC1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.0481218218914628,
+        0.601154762071931
+      ],
+      "layout_range_by_replicate": [
+        2.0257962456635923,
+        2.5833978136440825
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "HDAC1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.41328987509980336,
+        -0.10335299387951806
+      ],
+      "layout_range_by_replicate": [
+        1.1908365062345778,
+        0.6370298349030024
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "HDAC1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5095769750964024,
+        0.5206812685038249
+      ],
+      "layout_range_by_replicate": [
+        1.390472783026066,
+        2.142740883869124
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "HDAC1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.17445255712533825,
+        0.23657643141737705
+      ],
+      "layout_range_by_replicate": [
+        1.8841370923576668,
+        1.9413302907648093
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "HDAC1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.8543004063791919,
+        -0.25834749457501766
+      ],
+      "layout_range_by_replicate": [
+        2.2560151708304295,
+        1.701346988530844
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "HDAC1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7064360937691792,
+        0.11416245947553398
+      ],
+      "layout_range_by_replicate": [
+        1.8453574556605379,
+        3.871406810471001
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "HDAC1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.17995535732982348,
+        -0.44997832744986077
+      ],
+      "layout_range_by_replicate": [
+        1.2255798925953174,
+        1.1125368955141353
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "IKBKB",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.15434770971209893,
+        -0.9302716943763579
+      ],
+      "layout_range_by_replicate": [
+        2.895364533837733,
+        0.8848632354343609
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "IKBKB",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.5373131817174145,
+        -0.30342863625957395
+      ],
+      "layout_range_by_replicate": [
+        3.0003245178807103,
+        2.545223182710135
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "IKBKB",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.013965639412597966,
+        -0.9370859741830372
+      ],
+      "layout_range_by_replicate": [
+        0.8933431177191518,
+        0.8971400020279856
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "IKBKB",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.3960668313950583,
+        -0.27974876868771886
+      ],
+      "layout_range_by_replicate": [
+        2.0532381152816224,
+        2.8072288809005386
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "IKBKB",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.13649908468643812,
+        -0.38181159675355986
+      ],
+      "layout_range_by_replicate": [
+        1.8743326489875463,
+        1.1370072754978624
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "IKBKB",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.2545069303710226,
+        -1.0884288794730088
+      ],
+      "layout_range_by_replicate": [
+        1.0406727404292182,
+        3.5957651771363777
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "IKBKB",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.30696258522716896,
+        -0.20309514098678402
+      ],
+      "layout_range_by_replicate": [
+        2.4177301059754925,
+        2.3148095693485673
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "IKBKB",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.009201280635086934,
+        -1.1260594795735066
+      ],
+      "layout_range_by_replicate": [
+        0.9944360290995746,
+        0.9077782115705197
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MAP2K1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.15034684768096607,
+        -0.3477505754837857
+      ],
+      "layout_range_by_replicate": [
+        2.4355471305854297,
+        3.352980844635584
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MAP2K1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.49073430534501844,
+        -0.5418931839869198
+      ],
+      "layout_range_by_replicate": [
+        1.5723717905847285,
+        2.0029351071460666
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MAP2K1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.12318115324766528,
+        -0.6811548050467077
+      ],
+      "layout_range_by_replicate": [
+        2.9087282493764794,
+        2.6392523209384127
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MAP2K1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.03348938870086884,
+        -0.35539233679889143
+      ],
+      "layout_range_by_replicate": [
+        1.6736173745802674,
+        2.3286759903135534
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MAP2K1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.1491292740090005,
+        -0.978783947602967
+      ],
+      "layout_range_by_replicate": [
+        0.9619453940936625,
+        2.7883131089077327
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MAP2K1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.30529603245366954,
+        -0.5364863221225619
+      ],
+      "layout_range_by_replicate": [
+        1.7889249415228128,
+        2.4510689830424175
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MAP2K1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.34964393824198153,
+        -0.6176308246008207
+      ],
+      "layout_range_by_replicate": [
+        2.186619912777874,
+        1.679729615435205
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MTOR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2112754452479134,
+        -0.40677157007515935
+      ],
+      "layout_range_by_replicate": [
+        1.1851840517441894,
+        3.113776147943551
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MTOR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.11802207045830126,
+        0.016578751994740532
+      ],
+      "layout_range_by_replicate": [
+        2.2511185913105405,
+        2.065707248701336
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MTOR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.2492289393095973,
+        0.16786804272698452
+      ],
+      "layout_range_by_replicate": [
+        1.7088825979064342,
+        2.573054932135345
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MTOR",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.0010858060505253841,
+        -0.7488758498092571
+      ],
+      "layout_range_by_replicate": [
+        2.152297600121862,
+        1.1470975921235076
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MTOR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7404698479162302,
+        -0.12465120712921814
+      ],
+      "layout_range_by_replicate": [
+        2.861245929544808,
+        1.750402936784837
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MTOR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.4443496508443747,
+        -0.7573255891322428
+      ],
+      "layout_range_by_replicate": [
+        1.8815019190664317,
+        2.8931556202050066
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "PIK3C3",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5557252350042733,
+        -0.2274993835800684
+      ],
+      "layout_range_by_replicate": [
+        1.8513091068909802,
+        1.4951294430467579
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "PIK3C3",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.07796441375778738,
+        -0.21757375996051528
+      ],
+      "layout_range_by_replicate": [
+        0.9033147465654038,
+        1.2832505290094918
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "PIK3C3",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.0261571703522122,
+        -1.1901775183201764
+      ],
+      "layout_range_by_replicate": [
+        2.117917293961658,
+        2.5441074056829267
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "PIK3C3",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6310643864929654,
+        -0.5319978365871214
+      ],
+      "layout_range_by_replicate": [
+        1.9865416059708907,
+        2.45796496297838
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "PIK3C3",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.028677558960548428,
+        -1.3021709922678422
+      ],
+      "layout_range_by_replicate": [
+        1.7135063046912888,
+        0.8160221667837241
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.9622563943706214,
+        0.4117729689308771
+      ],
+      "layout_range_by_replicate": [
+        2.8702059145986025,
+        1.6521448008304245
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3516205267791,
+        -1.1798534247199355
+      ],
+      "layout_range_by_replicate": [
+        2.2714420847144843,
+        3.1660779643505967
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.9382752307059218,
+        0.04203831145089735
+      ],
+      "layout_range_by_replicate": [
+        1.7400852132068874,
+        4.234148355295662
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4079004663830403,
+        -0.665588261988179
+      ],
+      "layout_range_by_replicate": [
+        1.392008626691971,
+        2.8005261709354246
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.8168453618085975,
+        -0.19953096220071498
+      ],
+      "layout_range_by_replicate": [
+        4.82320836726708,
+        4.196465640962765
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.40444030180372303,
+        -0.04945554389370784
+      ],
+      "layout_range_by_replicate": [
+        2.033377726728128,
+        3.264277894560487
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.09709066070427659,
+        -0.6240312997864093
+      ],
+      "layout_range_by_replicate": [
+        1.6542150217989162,
+        1.0604822479182143
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6622955924227675,
+        -1.1347885545369143
+      ],
+      "layout_range_by_replicate": [
+        2.1677477314410822,
+        3.1556117772543004
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.30191390133336954,
+        -1.7638283054301986
+      ],
+      "layout_range_by_replicate": [
+        2.753064031976791,
+        1.9499135525714149
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.490733156503578,
+        -0.8024366249656804
+      ],
+      "layout_range_by_replicate": [
+        1.8378735285170127,
+        3.185745016453839
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "HDAC1",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.1447508819175154,
+        -0.08748987985630897
+      ],
+      "layout_range_by_replicate": [
+        2.1139440646153935,
+        3.0858891624412763
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "HDAC1",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5995207096093972,
+        0.057055363847281874
+      ],
+      "layout_range_by_replicate": [
+        1.4805764832783619,
+        2.2150386367257555
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "HDAC1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.03663651943232521,
+        0.261967876737013
+      ],
+      "layout_range_by_replicate": [
+        4.201846988531499,
+        4.510640283778619
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "HDAC1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6898381333552704,
+        -0.11736443166931325
+      ],
+      "layout_range_by_replicate": [
+        2.604363462176274,
+        1.5174502050494294
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "HDAC1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3242228341115413,
+        1.080800776707963
+      ],
+      "layout_range_by_replicate": [
+        2.1572000370045936,
+        2.7879857630740528
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "HDAC1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.14228951544520643,
+        -0.16098644432442874
+      ],
+      "layout_range_by_replicate": [
+        1.784116017174965,
+        1.9161052557100504
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "HDAC1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6460296440780063,
+        -0.5591211984220054
+      ],
+      "layout_range_by_replicate": [
+        2.957150603814458,
+        3.198182651800787
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "HDAC1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.43662049549099385,
+        -0.19630628997972469
+      ],
+      "layout_range_by_replicate": [
+        1.0337029898309325,
+        2.6797582631115837
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "HDAC1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.232613696330808,
+        -0.15324635620288307
+      ],
+      "layout_range_by_replicate": [
+        1.6587940544025463,
+        1.4855278386005786
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "IKBKB",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4280397904200421,
+        -0.16861321463172066
+      ],
+      "layout_range_by_replicate": [
+        2.132729114667427,
+        2.4320859794406506
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "IKBKB",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.07868232015060546,
+        0.04402764801029698
+      ],
+      "layout_range_by_replicate": [
+        2.3191174639036527,
+        2.6459960003210115
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "IKBKB",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.40255841425496075,
+        -0.4763711224403191
+      ],
+      "layout_range_by_replicate": [
+        1.4732973799781213,
+        0.9807844590830884
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "IKBKB",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.056734210112384574,
+        0.26061860404095205
+      ],
+      "layout_range_by_replicate": [
+        1.9220426559105253,
+        3.867552488448694
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "IKBKB",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2853142149910441,
+        0.046110278847845555
+      ],
+      "layout_range_by_replicate": [
+        3.041863076418208,
+        1.915607453862079
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "IKBKB",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7171943803215665,
+        -1.026119156386012
+      ],
+      "layout_range_by_replicate": [
+        2.193099687156267,
+        3.16647876311969
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "IKBKB",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7242715894351281,
+        -0.03283388073778959
+      ],
+      "layout_range_by_replicate": [
+        2.2267005038980097,
+        2.255753610845986
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "IKBKB",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4732643431821395,
+        -0.6307806988763659
+      ],
+      "layout_range_by_replicate": [
+        2.0310370627624477,
+        2.1576013540028574
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MAP2K1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7397744383309477,
+        0.5123111356803396
+      ],
+      "layout_range_by_replicate": [
+        1.709306974371237,
+        2.394795391345195
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MAP2K1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.749851828624221,
+        -0.20231013581995497
+      ],
+      "layout_range_by_replicate": [
+        1.2889545541253773,
+        1.7069525713437241
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MAP2K1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6616805079101297,
+        0.2810568841474123
+      ],
+      "layout_range_by_replicate": [
+        0.7595675291865513,
+        2.791479681885182
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MAP2K1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4335303192590502,
+        0.45364737050782306
+      ],
+      "layout_range_by_replicate": [
+        1.0968102710107508,
+        1.8033952304615024
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MAP2K1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.8725360824233922,
+        -0.7120631066412075
+      ],
+      "layout_range_by_replicate": [
+        1.2745917569658822,
+        2.2902527157318566
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MAP2K1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7110446084908486,
+        -0.20416626952142083
+      ],
+      "layout_range_by_replicate": [
+        1.4100695605179694,
+        1.8544387043930408
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MAP2K1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6161674790561742,
+        -0.09635033091482186
+      ],
+      "layout_range_by_replicate": [
+        1.9313820657202094,
+        1.0069870299737746
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MTOR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6855946583956309,
+        0.1322439682852791
+      ],
+      "layout_range_by_replicate": [
+        2.139871828492513,
+        2.6592107325716374
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MTOR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.046004843756269266,
+        0.6812037519905231
+      ],
+      "layout_range_by_replicate": [
+        1.9950895019414356,
+        3.0496310992546176
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MTOR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.47001371258561875,
+        0.5706534460729414
+      ],
+      "layout_range_by_replicate": [
+        3.491693265872514,
+        2.6047552785675885
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MTOR",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.881693526864198,
+        -0.26392856158814765
+      ],
+      "layout_range_by_replicate": [
+        3.669256720009658,
+        2.4175161406942407
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MTOR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        1.2497396736033644,
+        0.25561504115223765
+      ],
+      "layout_range_by_replicate": [
+        1.924106081582459,
+        3.446524134520113
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MTOR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.45864710949748305,
+        0.5003238874086204
+      ],
+      "layout_range_by_replicate": [
+        2.2703832835903563,
+        3.3419200839346304
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "PIK3C3",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2429959886626983,
+        -0.15756173257026487
+      ],
+      "layout_range_by_replicate": [
+        2.2483749016484373,
+        2.7875151091441355
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "PIK3C3",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6559315027222908,
+        0.17791172052154547
+      ],
+      "layout_range_by_replicate": [
+        2.0643550817769585,
+        1.6306152700717687
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "PIK3C3",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7425609944969597,
+        -1.1008702731844693
+      ],
+      "layout_range_by_replicate": [
+        2.419197113444175,
+        3.66436967477287
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "PIK3C3",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        1.3228810650571312,
+        -0.5907906411899698
+      ],
+      "layout_range_by_replicate": [
+        1.4190236141594479,
+        1.8971586247413224
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "PIK3C3",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5177205634875602,
+        -0.7180280109990184
+      ],
+      "layout_range_by_replicate": [
+        3.0367621976954724,
+        0.577906661311114
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2714270506288987,
+        0.5331460304355743
+      ],
+      "layout_range_by_replicate": [
+        2.197033440877085,
+        1.869282793711123
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.3024857658413349,
+        -0.8475120171843901
+      ],
+      "layout_range_by_replicate": [
+        2.256630801215753,
+        2.2786378837678805
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3713327712350833,
+        0.04974966355063876
+      ],
+      "layout_range_by_replicate": [
+        0.8533050667737838,
+        1.8360424782544107
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4978554027728697,
+        -0.026384984283763586
+      ],
+      "layout_range_by_replicate": [
+        2.1195148670651283,
+        2.2260031579067574
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5616360290758674,
+        -0.15426796816532387
+      ],
+      "layout_range_by_replicate": [
+        2.9189557209357355,
+        3.2804698432142123
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.8659235872944109,
+        0.045682392904463555
+      ],
+      "layout_range_by_replicate": [
+        1.0712768705207314,
+        2.181945012583573
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.25609832804493576,
+        -0.014809301706451969
+      ],
+      "layout_range_by_replicate": [
+        2.372936260776311,
+        1.307171779070062
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.9766124159434278,
+        -1.0619131936320523
+      ],
+      "layout_range_by_replicate": [
+        2.9363208353284884,
+        2.7426227914427446
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.9177963127012579,
+        -0.9854610203110451
+      ],
+      "layout_range_by_replicate": [
+        2.750286643357355,
+        3.252981969917836
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.874095744982756,
+        -0.2861175525326645
+      ],
+      "layout_range_by_replicate": [
+        1.7942858267876403,
+        2.4324098880951226
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "IKBKB",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.028683101987658045,
+        -0.840983161131311
+      ],
+      "layout_range_by_replicate": [
+        2.5714437918238993,
+        0.8969010193494475
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "IKBKB",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.9032815537670981,
+        -0.6544138661360174
+      ],
+      "layout_range_by_replicate": [
+        3.126999092117747,
+        5.396757605732186
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "IKBKB",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.031495900674292365,
+        -0.668618550988587
+      ],
+      "layout_range_by_replicate": [
+        2.3320720687434022,
+        1.7168701276406486
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "IKBKB",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.17971706055743866,
+        0.3628660933569992
+      ],
+      "layout_range_by_replicate": [
+        2.0702668173481227,
+        2.687220859115003
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "IKBKB",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.09043972671176694,
+        -0.26549806662196446
+      ],
+      "layout_range_by_replicate": [
+        1.9476234181831817,
+        1.6374523946913213
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "IKBKB",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6956367730440408,
+        -1.0156683275182388
+      ],
+      "layout_range_by_replicate": [
+        1.9872222345458395,
+        1.9944256800550701
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "IKBKB",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.19246406600817076,
+        -0.24884863933047574
+      ],
+      "layout_range_by_replicate": [
+        1.3234069593298041,
+        2.2553804167919775
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "IKBKB",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.06785878507950212,
+        -0.7183808067995568
+      ],
+      "layout_range_by_replicate": [
+        1.6892057859274687,
+        1.0566651215950813
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MAP2K1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.11966050721018355,
+        -0.20545742111528786
+      ],
+      "layout_range_by_replicate": [
+        1.9628345248670716,
+        3.445905252819937
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MAP2K1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3731904019961612,
+        -0.36492158451924656
+      ],
+      "layout_range_by_replicate": [
+        0.7320764814546673,
+        2.694026785759135
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MAP2K1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.18623346496538704,
+        -0.34294972793233874
+      ],
+      "layout_range_by_replicate": [
+        3.9201256285689605,
+        1.6051266301881593
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MAP2K1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.21932874331748678,
+        -0.13668550782864108
+      ],
+      "layout_range_by_replicate": [
+        1.025286594616657,
+        1.1224140973620194
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MAP2K1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6017044303060175,
+        -0.7080145688450866
+      ],
+      "layout_range_by_replicate": [
+        1.3290947652345184,
+        3.226363083962158
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MAP2K1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.35309681802410164,
+        -0.8549401729928233
+      ],
+      "layout_range_by_replicate": [
+        2.222001334960906,
+        2.1456070617010274
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MAP2K1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3013368661736322,
+        -0.32363047261531874
+      ],
+      "layout_range_by_replicate": [
+        0.7560787586123857,
+        1.106914208964229
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MTOR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.352277968793212,
+        -0.2908380685604635
+      ],
+      "layout_range_by_replicate": [
+        1.1857399113715892,
+        5.043694829972042
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MTOR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -1.0085077545117103,
+        -0.03038643055582535
+      ],
+      "layout_range_by_replicate": [
+        4.3621776357404345,
+        3.279383085176313
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MTOR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.7003216903472325,
+        0.054960877890403194
+      ],
+      "layout_range_by_replicate": [
+        4.661755121040191,
+        5.181992550523763
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MTOR",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.20740519250518052,
+        -0.5450267107132454
+      ],
+      "layout_range_by_replicate": [
+        2.18770530638113,
+        3.4195656863903308
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MTOR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.8599210047990454,
+        -0.4945680414168357
+      ],
+      "layout_range_by_replicate": [
+        1.6510059407672952,
+        4.5270943757795274
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MTOR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.32349339821348533,
+        -0.4487093880164304
+      ],
+      "layout_range_by_replicate": [
+        5.628976859314762,
+        3.248126119172218
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "PIK3C3",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3559988928101046,
+        0.3619741768474845
+      ],
+      "layout_range_by_replicate": [
+        2.0881915332893786,
+        2.04613268203999
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "PIK3C3",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3914476520454291,
+        0.011790016405776538
+      ],
+      "layout_range_by_replicate": [
+        1.5887581628393996,
+        2.3476310282373127
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "PIK3C3",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3767036905191849,
+        -1.2552435293769233
+      ],
+      "layout_range_by_replicate": [
+        1.1930604471156359,
+        2.011704203840214
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "PIK3C3",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6304013031965433,
+        -0.5894995279568165
+      ],
+      "layout_range_by_replicate": [
+        1.6046706697490796,
+        0.9657912104633178
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "PIK3C3",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.1551061822552422,
+        -0.7075942137265704
+      ],
+      "layout_range_by_replicate": [
+        1.4983911295570598,
+        0.7821306556907395
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3729477070586736,
+        0.8588649254300201
+      ],
+      "layout_range_by_replicate": [
+        1.680525403199299,
+        2.734876923784656
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6760401223568261,
+        -0.43551173228657064
+      ],
+      "layout_range_by_replicate": [
+        3.1301295271526284,
+        4.742647691252817
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.0190378170363307,
+        0.2842345963619055
+      ],
+      "layout_range_by_replicate": [
+        1.9798944725118575,
+        1.3966996534906344
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.09967595363145738,
+        0.30248668204947
+      ],
+      "layout_range_by_replicate": [
+        1.8627964682089193,
+        1.9262935128955432
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5500777853648054,
+        0.05600119156557071
+      ],
+      "layout_range_by_replicate": [
+        1.4181784593081974,
+        2.600160363200108
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.28462070498516323,
+        -0.39119033548527066
+      ],
+      "layout_range_by_replicate": [
+        1.270022076049794,
+        2.1237047266091564
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.2972282960734449,
+        -0.36246810246611805
+      ],
+      "layout_range_by_replicate": [
+        1.6463902499890655,
+        1.2971163180221477
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4577584408929636,
+        -0.8215235002040141
+      ],
+      "layout_range_by_replicate": [
+        2.5562881374424604,
+        2.9807057743180794
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5154478973347606,
+        -0.913758081670534
+      ],
+      "layout_range_by_replicate": [
+        0.7553382665676931,
+        2.1852468400939586
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.14024734365681835,
+        -0.6118239404179335
+      ],
+      "layout_range_by_replicate": [
+        2.7546382761724764,
+        1.138221015883076
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MAP2K1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.31431135483712247,
+        -0.9580353229308393
+      ],
+      "layout_range_by_replicate": [
+        4.264207714327837,
+        1.5039060933821589
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MAP2K1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.24247209321102878,
+        -0.682911327063558
+      ],
+      "layout_range_by_replicate": [
+        1.81153263247804,
+        2.080876341070339
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MAP2K1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.1992667451206437,
+        0.13706211560813064
+      ],
+      "layout_range_by_replicate": [
+        2.4740715116150964,
+        2.5106018971365067
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MAP2K1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.11207230439962808,
+        -0.5275412048757474
+      ],
+      "layout_range_by_replicate": [
+        1.4283429566133965,
+        2.470184358963537
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MAP2K1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.19572047047337918,
+        -1.5251614734643193
+      ],
+      "layout_range_by_replicate": [
+        2.2236431293791563,
+        1.3541281733283803
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MAP2K1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.22214082573105665,
+        -0.4199241805807619
+      ],
+      "layout_range_by_replicate": [
+        2.4005550048531012,
+        1.3893086158530086
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MAP2K1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.06580342875893408,
+        -0.7070279950727388
+      ],
+      "layout_range_by_replicate": [
+        1.5339108362004077,
+        1.4349816627297716
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MTOR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.20696828514963783,
+        -0.7281252003320818
+      ],
+      "layout_range_by_replicate": [
+        2.3905622624409055,
+        3.1455847299763526
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MTOR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.9086562922482168,
+        -0.16171914499525983
+      ],
+      "layout_range_by_replicate": [
+        3.1570649112685096,
+        3.5277684648833825
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MTOR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.28977743439038967,
+        -0.30471574217808317
+      ],
+      "layout_range_by_replicate": [
+        2.6571149790407134,
+        2.379145144288202
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MTOR",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.4136147176936192,
+        -0.811841845998197
+      ],
+      "layout_range_by_replicate": [
+        2.0831049396852435,
+        2.1630224008991235
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MTOR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.30166849444050364,
+        -0.10445931592301501
+      ],
+      "layout_range_by_replicate": [
+        4.071091935280467,
+        2.788679873917016
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MTOR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.4211480749136798,
+        -0.7460188666744857
+      ],
+      "layout_range_by_replicate": [
+        3.349942899540909,
+        3.363908071520167
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "PIK3C3",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.21892661840982722,
+        -0.3398884961020923
+      ],
+      "layout_range_by_replicate": [
+        2.00768108907026,
+        1.7839962559575229
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "PIK3C3",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2305348709863965,
+        -0.07270502382149109
+      ],
+      "layout_range_by_replicate": [
+        2.732325097056938,
+        1.4209029991054574
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "PIK3C3",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.07983740079200731,
+        -1.378365248672767
+      ],
+      "layout_range_by_replicate": [
+        1.656417157805236,
+        2.1986859635369447
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "PIK3C3",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6813247534449595,
+        -0.2740885271297494
+      ],
+      "layout_range_by_replicate": [
+        1.5793802742452319,
+        1.4790779892722752
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "PIK3C3",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.05974529767010379,
+        -0.9678094870703662
+      ],
+      "layout_range_by_replicate": [
+        0.49000457976348516,
+        1.1269682749163827
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2780929939091004,
+        0.32611514000755576
+      ],
+      "layout_range_by_replicate": [
+        1.8778979558227873,
+        1.8928596933408814
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.027232309131751637,
+        -0.9040409203028711
+      ],
+      "layout_range_by_replicate": [
+        3.1712234399782795,
+        2.275874498661823
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.2687438226010582,
+        0.11530968709125038
+      ],
+      "layout_range_by_replicate": [
+        1.9377009599076593,
+        0.7258626928320305
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.12488640055873294,
+        -0.46950062372412443
+      ],
+      "layout_range_by_replicate": [
+        1.4898728490786528,
+        3.870979994673159
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.0041448784227766655,
+        -0.35690294903157366
+      ],
+      "layout_range_by_replicate": [
+        2.0823850559765744,
+        1.7472259284258262
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2852078184211739,
+        0.005821023189997591
+      ],
+      "layout_range_by_replicate": [
+        2.116853457194681,
+        1.2509531255610586
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.21070618464672722,
+        -0.27789103229573675
+      ],
+      "layout_range_by_replicate": [
+        1.5483996300845932,
+        1.277589728074017
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.15322628819055803,
+        -0.5678039851528259
+      ],
+      "layout_range_by_replicate": [
+        3.1646637527529053,
+        2.18398549373813
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.20738072575947827,
+        -1.5766992588042765
+      ],
+      "layout_range_by_replicate": [
+        1.849321148387593,
+        1.1378870352110626
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6786303898716667,
+        -0.18190043552241023
+      ],
+      "layout_range_by_replicate": [
+        2.8197154271082843,
+        2.281319772329604
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "MTOR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.41920972365593623,
+        -0.3602065592970434
+      ],
+      "layout_range_by_replicate": [
+        2.028528177474068,
+        4.605916129091458
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "MTOR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.13406956667020384,
+        -0.22836751428776544
+      ],
+      "layout_range_by_replicate": [
+        1.6305728427479487,
+        3.58664016382927
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "MTOR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.06536511190375972,
+        -0.22261050997775933
+      ],
+      "layout_range_by_replicate": [
+        1.7419846660491478,
+        3.677691663440667
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "MTOR",
+        "TOP1"
+      ],
+      "layouts": 5,
+      "mean_by_replicate": [
+        0.180629409194241,
+        -0.377493455701543
+      ],
+      "layout_range_by_replicate": [
+        1.999437304429509,
+        3.2587943351370057
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "MTOR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5215782426943312,
+        -0.2565705450596085
+      ],
+      "layout_range_by_replicate": [
+        1.6156761937436044,
+        1.9859886180487174
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "MTOR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.17188034586211495,
+        -0.5055685648563369
+      ],
+      "layout_range_by_replicate": [
+        3.1278782208172045,
+        3.5438371033513096
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "PIK3C3",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.11343089126711296,
+        -0.3638903202898656
+      ],
+      "layout_range_by_replicate": [
+        1.9017654278110228,
+        1.77717540650054
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "PIK3C3",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.13041560055820509,
+        -0.00012327122906874433
+      ],
+      "layout_range_by_replicate": [
+        0.8966583501192809,
+        1.8970252282877946
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "PIK3C3",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.1203631237750774,
+        -1.0612863134330162
+      ],
+      "layout_range_by_replicate": [
+        1.9447100682361442,
+        2.8513807024262765
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "PIK3C3",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6178737401933013,
+        -0.5080378707043886
+      ],
+      "layout_range_by_replicate": [
+        2.6772435742705034,
+        2.198777033866449
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "PIK3C3",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.45388622179982613,
+        -0.30855213888806027
+      ],
+      "layout_range_by_replicate": [
+        1.8744028546751008,
+        2.883830469933234
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4503162074316755,
+        0.5274737272952237
+      ],
+      "layout_range_by_replicate": [
+        2.0771887106288047,
+        2.4694293885620286
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.193403279016768,
+        -0.3185161607952501
+      ],
+      "layout_range_by_replicate": [
+        1.7695464423304483,
+        1.0524841916482939
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3958736261130717,
+        -0.2181529081136625
+      ],
+      "layout_range_by_replicate": [
+        1.7945301031265577,
+        3.0304405237580427
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7232345561304632,
+        -0.1220178539994921
+      ],
+      "layout_range_by_replicate": [
+        3.3283870770349013,
+        0.8433488619539251
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.09159720323345705,
+        -0.07406476940378148
+      ],
+      "layout_range_by_replicate": [
+        1.6554641783827457,
+        2.162534727445862
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.03592985530334092,
+        -0.39338333669737274
+      ],
+      "layout_range_by_replicate": [
+        3.07299657522924,
+        0.857575134347683
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.020243812019940948,
+        -0.1921602782773997
+      ],
+      "layout_range_by_replicate": [
+        1.3315837755844855,
+        1.88084193476443
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.11329050200141295,
+        -0.9828715241992546
+      ],
+      "layout_range_by_replicate": [
+        1.4562090780376025,
+        1.9286589761231807
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2314067532326163,
+        -1.0930757328144232
+      ],
+      "layout_range_by_replicate": [
+        1.3117729403006642,
+        1.0272897722487047
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4526382216156409,
+        -0.5752629456421953
+      ],
+      "layout_range_by_replicate": [
+        1.6872885841038343,
+        1.4198065749495137
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "PIK3C3",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.03261285275059959,
+        -0.3665282689967138
+      ],
+      "layout_range_by_replicate": [
+        2.3041904110764184,
+        3.28870723504492
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "PIK3C3",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3657488181986228,
+        -0.11239788435771773
+      ],
+      "layout_range_by_replicate": [
+        2.953926991362637,
+        4.01791085773217
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "PIK3C3",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.1119063430275226,
+        -1.0240897175152013
+      ],
+      "layout_range_by_replicate": [
+        3.5274775609256146,
+        2.4038504256091597
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "PIK3C3",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        1.1550249348534556,
+        -1.1952958463722574
+      ],
+      "layout_range_by_replicate": [
+        2.7164094246540147,
+        5.027648316825531
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "PIK3C3",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.0028619966202825253,
+        -0.715956944651816
+      ],
+      "layout_range_by_replicate": [
+        3.7963464126811624,
+        2.9905304023585657
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.3688766316736643,
+        0.8179535657359995
+      ],
+      "layout_range_by_replicate": [
+        4.141510810842606,
+        3.9676349926834584
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.720701472046804,
+        -0.9911953637495992
+      ],
+      "layout_range_by_replicate": [
+        2.9058582388140843,
+        3.4875248739466436
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.22748625470381775,
+        -0.45515238942396125
+      ],
+      "layout_range_by_replicate": [
+        3.1370326682051175,
+        3.238761230508877
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.027342377448928073,
+        -0.36278114729863664
+      ],
+      "layout_range_by_replicate": [
+        2.004006523797743,
+        2.4628955263301155
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 5,
+      "mean_by_replicate": [
+        0.209726226901015,
+        -0.08786197693517775
+      ],
+      "layout_range_by_replicate": [
+        2.0249381911216835,
+        2.9873964769943164
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.880086183352557,
+        -0.036701365812862353
+      ],
+      "layout_range_by_replicate": [
+        2.705123274990324,
+        3.375554958179074
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.44141923315054515,
+        -0.6910261570417386
+      ],
+      "layout_range_by_replicate": [
+        2.7155383334493606,
+        1.1041372083859127
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4272830714368976,
+        -0.9563304982148875
+      ],
+      "layout_range_by_replicate": [
+        3.8929805685278867,
+        2.493488070798969
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.5082450697169169,
+        -1.4101201761431035
+      ],
+      "layout_range_by_replicate": [
+        1.9498597803578785,
+        2.469248814178244
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.05660295552176423,
+        -0.9182698792820139
+      ],
+      "layout_range_by_replicate": [
+        3.5195819231974808,
+        2.9877475007534935
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2319977531266333,
+        -0.00660193990783418
+      ],
+      "layout_range_by_replicate": [
+        2.7208097667302806,
+        3.666533118373307
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.7317240592666714,
+        -1.3133511195117917
+      ],
+      "layout_range_by_replicate": [
+        1.855865445253433,
+        2.9846861822457114
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6723343528900877,
+        -0.21319508439748236
+      ],
+      "layout_range_by_replicate": [
+        1.6282316797805427,
+        1.8253427904953798
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.35937967628366635,
+        -0.6074791008824659
+      ],
+      "layout_range_by_replicate": [
+        1.377632738701348,
+        1.3391990669356233
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.4510855207064834,
+        -0.3998437858740364
+      ],
+      "layout_range_by_replicate": [
+        2.5830783503986603,
+        4.863828848182003
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6532905100943304,
+        0.083031989003529
+      ],
+      "layout_range_by_replicate": [
+        1.140272022938334,
+        1.7743508841368827
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.13704988936669113,
+        -0.5155115119617064
+      ],
+      "layout_range_by_replicate": [
+        1.4580266287232768,
+        0.7105881978133878
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.2522892811015614,
+        -1.3156546445314679
+      ],
+      "layout_range_by_replicate": [
+        2.263164020704771,
+        2.066907274787794
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.1990550749741301,
+        -1.6771765136437322
+      ],
+      "layout_range_by_replicate": [
+        1.425589507759701,
+        1.7247996383612214
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.7007380499562706,
+        -0.9200210742456053
+      ],
+      "layout_range_by_replicate": [
+        1.84766501328381,
+        2.4955525359448063
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "POLA1",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.010982365275445735,
+        0.5027034121103087
+      ],
+      "layout_range_by_replicate": [
+        3.1728132315431656,
+        2.4730574226270554
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "POLA1",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6464173742677498,
+        0.3063788856912448
+      ],
+      "layout_range_by_replicate": [
+        1.8937142261008832,
+        2.7516059907027977
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "POLA1",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.5136460773093797,
+        -0.14027576996210062
+      ],
+      "layout_range_by_replicate": [
+        3.36147523877194,
+        1.8211064261336087
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "POLA1",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.004816446847845916,
+        -0.8054684987122901
+      ],
+      "layout_range_by_replicate": [
+        1.788656383977907,
+        3.368404078760647
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "POLA1",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        -0.2736208492057138,
+        -1.0645931343912467
+      ],
+      "layout_range_by_replicate": [
+        2.0780314127208284,
+        1.4613325528616097
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "POLA1",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.714330815419289,
+        -0.5191910018617966
+      ],
+      "layout_range_by_replicate": [
+        2.8183934162878375,
+        1.9857688107784026
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "TGFB1",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6490077136646208,
+        -0.2184941346476892
+      ],
+      "layout_range_by_replicate": [
+        1.4669172107655233,
+        2.331263733860866
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "TGFB1",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.49902761089400144,
+        -0.3436327752501483
+      ],
+      "layout_range_by_replicate": [
+        2.5422716906795477,
+        3.9278473986234
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "TGFB1",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.6277362363379618,
+        -0.509302980242477
+      ],
+      "layout_range_by_replicate": [
+        1.1519871768384404,
+        2.472108203375567
+      ],
+      "all_layouts_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "TOP1",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "mean_by_replicate": [
+        0.09096537086820916,
+        -1.342463206121706
+      ],
+      "layout_range_by_replicate": [
+        1.9797617116633779,
+        2.12883928121756
+      ],
+      "all_layouts_negative_both_reps": false
+    }
+  ],
+  "evaluated_triplets": 455,
+  "all_layouts_negative_both_reps_count": 0,
+  "median_layout_range_by_replicate": [
+    1.9430603997568539,
+    2.1237047266091564
+  ]
+}
