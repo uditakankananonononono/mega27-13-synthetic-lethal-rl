@@ -1,50 +1,3 @@
-Current URL: https://chatgpt.com/c/6ab7a1bd-fe1c-83ee-be71-101ec025e581
-
-Skip to content
-Chat history
-ChatGPT
-New chat
-Images
-Library
-Scheduled
-Plugins
-Projects
-Codex
-More
-Recents
-Ranked Redirections for HGSOC Synthetic Lethality
-Research Design Critique
-New chat
-Scientific Proposal Critique
-Evaluate ISEF Paper
-Hold Manuscript Analysis
-Assess ISEF Potential
-Wait for All Parts
-Awaiting PDF Parts
-PDF extraction received
-Hold For Complete Extraction
-PDF Extraction Part One
-Acknowledge Part 1
-Part 1 received
-Review TranscriptShift weaknesses
-Review weaknesses and ISEF standing
-Review ISEF Methods Report
-Review ToxinAudit Report
-Critique replication design
-Adversarial Methods Review
-Verify weaknesses
-ISEF Weakness Verification
-ISEF weakness verification
-ISEF Weakness Review
-Audit RL MVA Story
-Adversarial Research Review
-Review Enviropig Weaknesses
-Judge VenomFunction Input
-Udita Kankana Phookan
-Free
-Claim offer
-Free offer
-Share
 Act as a skeptical computational-cancer research adviser. We have a stalled project: preregistered HGSOC DNA-repair synthetic-lethal gene-pair/triple discovery with sequential RL. Public-data audit found no independent multi-HGSOC combinatorial perturbation outcomes with matched nonmalignant viability. The one ovarian triple guide-count screen, GEO GSE154112 in drug-resistant OVCAR8-ADR, measured 15 genes and 455 triples; zero survive BH correction, and position-matched sensitivity shows no triple negative across all layouts in both replicates. A cancer-only prior from 2019 Project SCORE monogenic scores and Reactome has no measured higher-order effects or normal response. RL loses on same-surrogate reward to simple greedy and beam controls in all 10 seeds. Ten historically screened ovarian lines have explicit HGSOC identity, eight for monogenic development and two held out. GEO GSE190294 may contain monogenic CRISPR readouts in three ovarian models, adherent versus reattached spheroid; it cannot validate pairs/triples.
 
 Rank 3-5 scientifically feasible redirections toward an externally testable finding and fair benchmark beat. For each, identify public dataset/accession leads to VERIFY (do not invent access), measured outcome type, development/test separation, external validation, strongest fair comparator, biological question and novelty criterion, claims that must be dropped, and pre-outcome stopping rule. State whether original selective pair/triple gate is reachable with these sources. Focus on weaknesses and improvements, not praise. Mark uncertain source suggestions explicitly. No experimental gene-editing protocols.
@@ -540,9 +493,3 @@ Rank	Direction	Scientific risk	Feasibility
 4	RL benchmarking paper	Algorithm-dependent	Medium
 
 The main correction is conceptual: move from discovering unmeasured biology to predicting measured biology better than strong baselines. The project can still address DNA-repair vulnerabilities in HGSOC, but the evidence ceiling of these datasets does not support synthetic-lethal discovery claims.
-
-ChatGPT can make mistakes. Check important info.
-
-Think
-
-Iframe [frame_id=BF91C9D5F83BBA5525F06F0665AB9558 parent_frame_id=F7A1CDFE5925CE801863947CF88A608F origin=https://chatgpt.com depth=1]
