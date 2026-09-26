@@ -1,0 +1,5491 @@
+{
+  "triples": [
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "EGFR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.6364375538820032,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.08252921357721395,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "ERBB2"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6866534122818615,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4442566749182944,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "FGF2"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3720924447814205,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.1963705760050647,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0498522630364258,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0909919138316524,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.3853026824701705,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9075298752135841,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0893603640982221,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.22160639643577743,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.411124682028654,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7976661259203195,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0346523305036355,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0626695921174714,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "DNMT1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.782104918355526,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.3158818681657311,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "ERBB2"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.162018321856054,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.3093643797796017,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "FGF2"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.6745104405662504,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.03723098124353715,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.8109262992957404,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.143362380324822,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.5940715733543862,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7113444094954197,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.11247203620027559,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9852329094840173,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9910204244080356,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.20795443629002996,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.161515102126272,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.19731533301695237,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.46703783229404205,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3886104963249957,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.45548889779041374,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8557552970497215,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.1815384265078366,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "EGFR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6446362680838589,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "FGF2"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.138910549567843,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.424548978796633,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0030924715179932,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.35601198953653695,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.5359323057207764,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9630878215404061,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.025894732673798767,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9990007176463734,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.28633373719215266,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1955351477410492,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4552688273125803,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.8405889948429723,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.33052028343722134,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8409568521453799,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.21562729308665177,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.2666021334135715,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7779913284254758,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.0835404996079836,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2985797508203621,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "ERBB2",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.3682629757674185,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.017793463444812873,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0899562098866982,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.6743992771435531,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.05288384420636938,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7609555463389954,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.1575160499913825,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6017556612509456,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6186654968436819,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4759182752844782,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5969622346839253,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.337900664237895,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.49483591900352103,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1274512396517886,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.10090270492221003,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4361326633479385,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.3477218206305788,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.7058780758471357,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2804816329497604,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "FGF2",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2002487329964213,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.42705409938014355,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "HDAC1",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.26931102971535725,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "HDAC1",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.5231473023241696,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "HDAC1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.573578894405955,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "HDAC1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.347653474856609,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.22885413572002747,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "HDAC1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.987165986154365,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6476226009622605,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "HDAC1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8750005632688969,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "HDAC1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.7106529882554977,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.46439862692518624,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "HDAC1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.6878643151259246,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.02165757411981491,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "HDAC1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.6736048324253116,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "IKBKB",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1009114257469728,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "IKBKB",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.52792651997282,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "IKBKB",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.6999040649886915,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.11354320665387763,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "IKBKB",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4491013691745864,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "IKBKB",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.6137785883583691,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0007149884794117508,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "IKBKB",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6820435630892927,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.08494218988488354,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "IKBKB",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9545411901047118,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "IKBKB",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3805399915144305,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.19689229847017145,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MAP2K1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.289695548096944,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MAP2K1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0190953211854232,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2685920681508362,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MAP2K1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2127389614534054,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MAP2K1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.2995607752520668,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MAP2K1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.1032074622075907,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.031321656711192414,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MAP2K1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.15389399052651778,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MAP2K1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.3495212018613228,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.13770042113584086,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MTOR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.6409557901050001,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MTOR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.3860217905292,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MTOR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5358546625349991,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MTOR",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5817596033140788,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2200678550076103,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MTOR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.450124296278204,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.41998404452521526,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "MTOR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.6141879690163038,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "PIK3C3",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.8952954597124927,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.07385321907134713,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "PIK3C3",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4477580515883965,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.28735697686962247,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "PIK3C3",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.5801822150010857,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.05207964398774093,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "PIK3C3",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3233208028784684,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.20672267875751013,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "PIK3C3",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8394006471823827,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.19933134312428694,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.7681539151586345,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4900415178723389,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3875031188379912,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.302754036532864,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.1186019396066258,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2634248098075287,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.02857505180362806,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.4435627190022133,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.45963114688941104,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.5082115076515259,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.3875147256555868,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.6249081070305317,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "CDK4",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8691834570711992,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.07399072050891896,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "CDK4",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6752298826454575,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.17910880156993847,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "ERBB2"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3352334624862685,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6549774257592161,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "FGF2"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0759304268247134,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4471560994924257,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3213612443123293,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5006102997301903,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6691269312440502,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.19722683544385208,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0974939008835178,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.3363578788799341,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1424810509842636,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.017732231035073414,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4339163002920852,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.16022674344124524,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.5074742389993405,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1688871710267845,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.09003639377270423,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6659477119464858,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4963889635340902,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8287007901620496,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.33210510623872463,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "EGFR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.8796251416329908,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.605593595155474,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "FGF2"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4431003159999958,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6519361611682376,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.95442755705661,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.40276807231641265,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.4741431995950973,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.012859867718816384,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2490091484814108,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.47350897850364543,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2760367997486914,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.011121838674923001,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8076866851235172,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.3363318970811471,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.2614642567879137,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.24186646969752967,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5177324687512144,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.289382198033821,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.9810108156847297,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.753787436276987,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.256552782105668,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.30918436004938016,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "ERBB2",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1305737941932303,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.43673246740687,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8692858440887241,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.18590089338382207,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7052303661908668,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.48419777083432186,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6286141011074369,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6372789954068218,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4021218431396854,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.33899237120399855,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0854795718935604,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.586502769852279,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3734921366660477,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4980965016015142,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9202370336725725,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.32328107722870475,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.248317647078167,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5344191366293165,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.146297678592476,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5317761588349069,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "FGF2",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0602487141270855,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5323298329677507,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "HDAC1",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0311279506566695,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0700046002092118,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "HDAC1",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.838967404702116,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "HDAC1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.5704314838564044,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "HDAC1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7029433131006418,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "HDAC1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.924135044162276,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.30029891983752416,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "HDAC1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2088064831192469,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.13106911254047202,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "HDAC1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.26335620445932,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6897603301117038,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "HDAC1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1237565722077376,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.18334023065782754,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "HDAC1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3192678759059404,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.37536141651271376,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "IKBKB",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.865290262747027,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.016207014477957093,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "IKBKB",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1441310154447804,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "IKBKB",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.23775286353122,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.25429435264293204,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "IKBKB",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.854868663393968,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "IKBKB",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7074644066830248,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.025139846305485825,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "IKBKB",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.075047289363488,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.39382685338472845,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "IKBKB",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5019148745611282,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.11510686812991643,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "IKBKB",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1897899761744513,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5304125863278536,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MAP2K1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.251911317350377,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MAP2K1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.0009465162928706,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.1370998657504802,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MAP2K1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3936464715304568,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.21233661387054462,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MAP2K1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8896297832382412,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MAP2K1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9232116686282359,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.34668372587903856,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MAP2K1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7065347703293018,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.06971114279007962,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MAP2K1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0127029324062249,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.06130111336545507,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MTOR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6072241435560786,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MTOR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.1285617037647198,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.17889895745508486,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MTOR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1076407543704518,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MTOR",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8654673104211446,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MTOR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 3.0634369195397193,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5995491104665109,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "MTOR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.4075300939254288,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "PIK3C3",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7898727032576565,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "PIK3C3",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3105003869732479,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.17631617515106793,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "PIK3C3",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.5779075366969246,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "PIK3C3",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.201293381442225,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.37857637225060387,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "PIK3C3",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0515363425406474,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2772593722882058,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0877786167647168,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5507300456307981,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5164291737928808,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9682918417121963,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.6618027887652627,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5023015911037296,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.38306591225292524,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7644040536220034,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.13881033983830884,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0609605266515327,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.032639747125465524,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.6914590944253054,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4970729826318252,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.34305706831745164,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "DNMT1",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5330676053814019,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.487624849727905,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "FGF2"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0648981980755103,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5538764253761471,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.8537692863682886,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5907997156262574,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7654336122336732,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.03630293613597788,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0989770387258635,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6363067504784019,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0963131507793829,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.3430223241489491,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8328873155869054,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2817484213326423,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.1536533923548564,
+      "mean_layout_shift_needed_strictly_more_than_log2": 1.0426900621651753,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.4947324806149511,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2228559538600641,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6118172906543182,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4288103298715589,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.871538125476301,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7353061610019599,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "ERBB2",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2954438891333333,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.3877756086678577,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1323409253904737,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.049601457195350064,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9073040395391511,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2004743358448774,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.088843292887137,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7980010888468647,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.436126645345993,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.34912126031480434,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.651053999176495,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7564964422445848,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.0428830535793403,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6535757562204626,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.398481395788925,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2721612103731887,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.9892329473631434,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.538408015507724,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.7799422080817155,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.9702108753686222,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "FGF2",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6591455990542134,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6349328397823388,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "HDAC1",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.321877328333987,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2626260231079636,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "HDAC1",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4937746706694268,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4470220452069913,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "HDAC1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.8538055276243064,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "EGFR",
+        "HDAC1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.02036327968586,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.39955192157395963,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "HDAC1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5795293979583547,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6282207919755611,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "HDAC1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9692749828775044,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.06466860770964365,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "HDAC1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.4774235432473284,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.9409312600983739,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "HDAC1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2756314149550227,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4952059715634884,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "HDAC1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.9923186062340983,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4111599477752486,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "IKBKB",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2252485230469905,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.10818894312135657,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "IKBKB",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.5272091800579601,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "EGFR",
+        "IKBKB",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9163013559702264,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.15562113901910105,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "IKBKB",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2925336142904018,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "EGFR",
+        "IKBKB",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7226392710395645,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "EGFR",
+        "IKBKB",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0487957388133085,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.17657181909295339,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "IKBKB",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9461842157816606,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.3452604159728285,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "IKBKB",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9934121702952682,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.12268507281464026,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MAP2K1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.608914590659149,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.16075551033196048,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MAP2K1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.6350606802203694,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.33971277582249265,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MAP2K1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.6770145462989268,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6438368768964992,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MAP2K1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9471287931184231,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MAP2K1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5599253859759714,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.32040035223519864,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MAP2K1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3581503210119132,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7420152531114651,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MAP2K1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2650178669663021,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5796636894470203,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MTOR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2647232308947434,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MTOR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.9604745696792474,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MTOR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1095951373679622,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MTOR",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4554169812177755,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MTOR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.261419802316129,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.25061890918042745,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "MTOR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6384503274185682,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "EGFR",
+        "PIK3C3",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.275470899330908,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.19661434014627457,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "PIK3C3",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6793523208390915,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4250524624040681,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "PIK3C3",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8359033798949123,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "EGFR",
+        "PIK3C3",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.717591846895703,
+      "mean_layout_shift_needed_strictly_more_than_log2": 1.0908936124224298,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "PIK3C3",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.256000810926872,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.47851570501068785,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.2733328507317427,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7759770877828763,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2729088602419527,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "EGFR",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.8795555271642912,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7196575718194061,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5796729371253355,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.8848743328342832,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1867802818877249,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "EGFR",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1315684729869961,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7398451377541758,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0263273324337265,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4472109184239405,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.9086384514748551,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4661990185951837,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1196099760551932,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.1988993721173856,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "EGFR",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.1527448596816106,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.9006787515821438,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "HDAC1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2886039142480818,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.33791512965512355,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7547367319571854,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.23986184112723619,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4001921586461308,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7962595300397349,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.6101658324120782,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7226922361111935,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6528256380802937,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6555237509561767,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.7275438060148351,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7898194805190742,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6612415815166157,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.48629790353793617,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.862354936482578,
+      "mean_layout_shift_needed_strictly_more_than_log2": 1.0766731080496408,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.622992901761734,
+      "mean_layout_shift_needed_strictly_more_than_log2": 1.0363057927517039,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "FGF2",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.447629584876343,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5357598495417583,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "HDAC1",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.6388411957537437,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "HDAC1",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7172721387094413,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.21767144972022803,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "HDAC1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.9035295902630673,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.601154762071931,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "HDAC1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9753581336077594,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.41328987509980336,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "HDAC1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4817221499167597,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5206812685038249,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "HDAC1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.238805570724685,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.23657643141737705,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "HDAC1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.481911062797333,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.8543004063791919,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "HDAC1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.6523398022708293,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7064360937691792,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "HDAC1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8273038911130832,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.17995535732982348,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "IKBKB",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.248244636663663,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "IKBKB",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1334017811260295,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "IKBKB",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.5408892885718483,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "IKBKB",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.096933575049222,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "IKBKB",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8820067138037208,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "IKBKB",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.829901084717659,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "IKBKB",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.8116753138099826,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.30696258522716896,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "IKBKB",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.5181621882503653,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MAP2K1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.448021600174248,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.15034684768096607,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MAP2K1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.530326842142102,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.49073430534501844,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MAP2K1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.7607296265904426,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.12318115324766528,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MAP2K1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9771539885725545,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MAP2K1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.47269616947309634,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.1491292740090005,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MAP2K1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0717254121935333,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.30529603245366954,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MAP2K1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5694722209262273,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.34964393824198153,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MTOR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8454667165214822,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2112754452479134,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MTOR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2673517047557281,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.016578751994740532,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MTOR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1222230447076305,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.16786804272698452,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MTOR",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0844631424175928,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0010858060505253841,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MTOR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.214893529867599,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7404698479162302,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "MTOR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.2687558071692919,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "PIK3C3",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6848191364597935,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5557252350042733,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "PIK3C3",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.32601287338284524,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "PIK3C3",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.6923894347034265,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "PIK3C3",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.8394971450713604,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6310643864929654,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "PIK3C3",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7731662057636915,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.027795387972845,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.9622563943706214,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4249213654130861,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.3516205267791,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 3.162663466286954,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.9382752307059218,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1065696940189766,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4079004663830403,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 4.229108023078094,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.8168453618085975,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.074787028852092,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.40444030180372303,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7807699098696173,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.771516858023953,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6622955924227675,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6789504549786878,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.30191390133336954,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "ERBB2",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2407922358995114,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.490733156503578,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "HDAC1",
+        "IKBKB"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.8130217831899744,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.1447508819175154,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "HDAC1",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4152783056887315,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5995207096093972,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "HDAC1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.7662488046562292,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.261967876737013,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "HDAC1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.183553965409188,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6898381333552704,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "HDAC1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.3579769153125496,
+      "mean_layout_shift_needed_strictly_more_than_log2": 1.080800776707963,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "HDAC1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9670450478760995,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "FGF2",
+        "HDAC1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.2340809295641857,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6460296440780063,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "HDAC1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9808029323228252,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.43662049549099385,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "HDAC1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2505013221798973,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.232613696330808,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "IKBKB",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4914684763322068,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4280397904200421,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "IKBKB",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3311313919758754,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.04402764801029698,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "IKBKB",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1758006738567441,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.40255841425496075,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "IKBKB",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.4317790505584087,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.26061860404095205,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "IKBKB",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2796344205721675,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2853142149910441,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "IKBKB",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.8089620412495013,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7171943803215665,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "IKBKB",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.8431873880329506,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7242715894351281,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "IKBKB",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.434491210136318,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4732643431821395,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MAP2K1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4795664519883038,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7397744383309477,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MAP2K1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.385915246804645,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.749851828624221,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MAP2K1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.7343996021241799,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6616805079101297,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MAP2K1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2580607777064785,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.45364737050782306,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MAP2K1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4893213348205134,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.8725360824233922,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MAP2K1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5472403627977496,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7110446084908486,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MAP2K1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2779489115353098,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6161674790561742,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MTOR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.790345144352326,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6855946583956309,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MTOR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.499773764112423,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6812037519905231,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MTOR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.9227786644022804,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5706534460729414,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MTOR",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.8665559410316983,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.881693526864198,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MTOR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.278346624633521,
+      "mean_layout_shift_needed_strictly_more_than_log2": 1.2497396736033644,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "MTOR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.8103956803235808,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5003238874086204,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "PIK3C3",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3129821753999726,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2429959886626983,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "PIK3C3",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5010821682851652,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6559315027222908,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "PIK3C3",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.143738494699904,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7425609944969597,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "PIK3C3",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.9883022592204291,
+      "mean_layout_shift_needed_strictly_more_than_log2": 1.3228810650571312,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "PIK3C3",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.408820162169599,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5177205634875602,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.7916292518149641,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5331460304355743,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8982669767426743,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "FGF2",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.171271895099463,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.3713327712350833,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.88440101033217,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4978554027728697,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.114271609558002,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5616360290758674,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3746919675562048,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.8659235872944109,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3449400070535678,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.25609832804493576,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.195789227519285,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.9766124159434278,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.9727713745112208,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.9177963127012579,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "FGF2",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.958858363103973,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.874095744982756,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "IKBKB",
+        "MAP2K1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2998409760466436,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.028683101987658045,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "IKBKB",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.065357511502544,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "IKBKB",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.031703703368873,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.031495900674292365,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "IKBKB",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.2292353012064785,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.3628660933569992,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "IKBKB",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2822188658942233,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.09043972671176694,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "IKBKB",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.8479627421239293,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6956367730440408,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "IKBKB",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1967468002196224,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.19246406600817076,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "IKBKB",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.059696281138494,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.06785878507950212,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MAP2K1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8895611888387254,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MAP2K1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7301729281191036,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.3731904019961612,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MAP2K1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9972247878776672,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MAP2K1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.4688240196365655,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MAP2K1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.428518189528973,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6017044303060175,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MAP2K1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2452968357422132,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.35309681802410164,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MAP2K1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.5934378666677365,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.3013368661736322,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MTOR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.213666701721636,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.352277968793212,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MTOR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2932169604130608,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MTOR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5929714852078125,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.054960877890403194,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MTOR",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5183297376549638,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.20740519250518052,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MTOR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4845743020803839,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.8599210047990454,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "MTOR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3530373663039288,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "PIK3C3",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4445307328026826,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.3619741768474845,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "PIK3C3",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1050969613557204,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.3914476520454291,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "PIK3C3",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9558885964509878,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.3767036905191849,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "PIK3C3",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4605894066912835,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6304013031965433,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "PIK3C3",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.073442946810122,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.1551061822552422,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.0625317563344416,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.8588649254300201,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.939756847039211,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6760401223568261,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9248970658652639,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2842345963619055,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.7709236088953624,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.30248668204947,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.362860252198028,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5500777853648054,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1438932932948647,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.28462070498516323,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.4413619428073278,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.9528670087454365,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4577584408929636,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8269188777328464,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5154478973347606,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "HDAC1",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5192664067276227,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.14024734365681835,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MAP2K1",
+        "MTOR"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.8122834163132395,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MAP2K1",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3776265897039766,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.24247209321102878,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MAP2K1",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5873987673892898,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.1992667451206437,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MAP2K1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.4863894603239625,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MAP2K1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.669849407296256,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.19572047047337918,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MAP2K1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.7218289408867657,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.22214082573105665,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MAP2K1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8233222833126889,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.06580342875893408,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MTOR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.008424052489092,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MTOR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.57798211366598,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MTOR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.167821800694548,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MTOR",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8019656349595374,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MTOR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.2387436573483988,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.30166849444050364,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "MTOR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4416147199748028,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "PIK3C3",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9237545404555219,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.21892661840982722,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "PIK3C3",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1669788125319986,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2305348709863965,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "PIK3C3",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9558334564449913,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "PIK3C3",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3776923810144988,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6813247534449595,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "PIK3C3",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.28376699844029907,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.05974529767010379,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.319086855337112,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.32611514000755576,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3522691400207032,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.027232309131751637,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7798138912429466,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.11530968709125038,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.1383578086169144,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.12488640055873294,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9457133181351214,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5278844388761201,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2852078184211739,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8662592890788184,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.21070618464672722,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.9472098929086192,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.15322628819055803,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6092750189870522,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.20738072575947827,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "IKBKB",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.0912003427165855,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6786303898716667,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "MTOR",
+        "PIK3C3"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4440772940486513,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.41920972365593623,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "MTOR",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3331658880990027,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.13406956667020384,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "MTOR",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1901703792131095,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.06536511190375972,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "MTOR",
+        "TOP1"
+      ],
+      "layouts": 5,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4964331586818913,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.180629409194241,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "MTOR",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2828963338955686,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5215782426943312,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "MTOR",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4291601572443178,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "PIK3C3",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.877435034787334,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "PIK3C3",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0098767984657915,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.13041560055820509,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "PIK3C3",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0255032938973865,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.1203631237750774,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "PIK3C3",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.8825509927741941,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6178737401933013,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "PIK3C3",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.3478190862824941,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.45388622179982613,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.9630673769631486,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5274737272952237,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1285645571513818,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.193403279016768,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4364952457125963,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.3958736261130717,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.0287548922082332,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7232345561304632,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4175119584920062,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.09159720323345705,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.0462887740432871,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.03592985530334092,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.6419094875549052,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.020243812019940948,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.731727859691125,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.11329050200141295,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.136358072815638,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2314067532326163,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MAP2K1",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.636792569718799,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4526382216156409,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "PIK3C3",
+        "POLA1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5487614349745735,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "MTOR",
+        "PIK3C3",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.9957030676330891,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.3657488181986228,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "PIK3C3",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.6687802812794934,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "MTOR",
+        "PIK3C3",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.286914767957586,
+      "mean_layout_shift_needed_strictly_more_than_log2": 1.1550249348534556,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "PIK3C3",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1951436705388163,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0028619966202825253,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.483270758593652,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.8179535657359995,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7006627625464612,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "MTOR",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.5046888738614241,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.22748625470381775,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9424303504573808,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "MTOR",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 5,
+      "uniform_shift_needed_strictly_more_than_log2": 0.9616972647385225,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.209726226901015,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.181937158350821,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.880086183352557,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.4875744959305815,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "MTOR",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.5371355243241434,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4272830714368976,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "MTOR",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.2937051519686824,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "MTOR",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2833925672334943,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "POLA1",
+        "TGFB1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.8793030242510924,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2319977531266333,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "POLA1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.3041669194194607,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "POLA1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4897748465422296,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6723343528900877,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "POLA1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7962182780368516,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.35937967628366635,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.599337738351926,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.4510855207064834,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4020480887347961,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6532905100943304,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7874544309650356,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.13704988936669113,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.2589545875597885,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.2522892811015614,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.6713289915082852,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "PIK3C3",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.9374885736464464,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.7007380499562706,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "POLA1",
+        "TGFB1",
+        "TOP1"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.9628800049508666,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5027034121103087,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "POLA1",
+        "TGFB1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.4253408530478788,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6464173742677498,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "POLA1",
+        "TGFB1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.501751424356279,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.5136460773093797,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "POLA1",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.8072148123202254,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "POLA1",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 0.7091513212001809,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.0,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": true
+    },
+    {
+      "genes": [
+        "POLA1",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 2.0272783367955345,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.714330815419289,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "TGFB1",
+        "TOP1",
+        "TUBA1A"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.398516840083292,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6490077136646208,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "TGFB1",
+        "TOP1",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.907064417666186,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.49902761089400144,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "TGFB1",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1443847810693728,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.6277362363379618,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    },
+    {
+      "genes": [
+        "TOP1",
+        "TUBA1A",
+        "TYMS"
+      ],
+      "layouts": 6,
+      "uniform_shift_needed_strictly_more_than_log2": 1.1076273579194407,
+      "mean_layout_shift_needed_strictly_more_than_log2": 0.09096537086820916,
+      "already_all_layouts_negative": false,
+      "already_mean_layout_negative_both_reps": false
+    }
+  ],
+  "n": 455,
+  "shift_grid": {
+    "0.0": {
+      "all_layouts_negative_both_reps": 0,
+      "mean_layout_negative_both_reps": 111
+    },
+    "0.5": {
+      "all_layouts_negative_both_reps": 21,
+      "mean_layout_negative_both_reps": 343
+    },
+    "1.0": {
+      "all_layouts_negative_both_reps": 127,
+      "mean_layout_negative_both_reps": 447
+    },
+    "2.0": {
+      "all_layouts_negative_both_reps": 391,
+      "mean_layout_negative_both_reps": 455
+    },
+    "4.0": {
+      "all_layouts_negative_both_reps": 454,
+      "mean_layout_negative_both_reps": 455
+    }
+  },
+  "median_shift_threshold_log2": 1.2998409760466436,
+  "source": "GSE154112",
+  "source_url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE154nnn/GSE154112/suppl/",
+  "scope": "post-outcome empirical uniform triple-only log2-CPM shift sensitivity; not biological power, not viability or hit discovery"
+}
