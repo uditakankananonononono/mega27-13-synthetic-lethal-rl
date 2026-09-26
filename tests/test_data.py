@@ -7,7 +7,8 @@ class DataTests(unittest.TestCase):
   f=tempfile.NamedTemporaryFile(mode='w',delete=False);f.write('ModelID,A (1),B (2)\nCANCER,-0.9,-0.2\nNORMAL,-0.1,-0.3\n');f.close();self.path=f.name
  def tearDown(self):os.unlink(self.path)
  def test_integrity(self):
-  d=hashlib.md5(open(self.path,'rb').read()).hexdigest();assert check_md5(self.path,d)==d
+  with open(self.path,'rb') as f:d=hashlib.md5(f.read()).hexdigest()
+  assert check_md5(self.path,d)==d
   with self.assertRaises(IntegrityError):check_md5(self.path,'0'*32)
  def test_selection_and_sign(self):
   x=read_gene_effect(self.path,['CANCER'],['A','B']);assert list(x)==['CANCER'] and x['CANCER'][0]<0
