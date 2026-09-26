@@ -1,0 +1,79 @@
+{
+  "scope": "same-surrogate reward comparison, fully circular and without external outcomes",
+  "known_excluded_pairs_in_action_space": 591,
+  "results": [
+    {
+      "seed": 0,
+      "policy_best_simulator_reward": 0.76062122251136,
+      "random_best_simulator_reward": 0.7684234619606019,
+      "policy_surrogate_calls": 300,
+      "random_surrogate_calls": 300
+    },
+    {
+      "seed": 1,
+      "policy_best_simulator_reward": 0.7521737533938122,
+      "random_best_simulator_reward": 0.774957987918752,
+      "policy_surrogate_calls": 300,
+      "random_surrogate_calls": 300
+    },
+    {
+      "seed": 2,
+      "policy_best_simulator_reward": 0.7766874897619096,
+      "random_best_simulator_reward": 0.7831258178069215,
+      "policy_surrogate_calls": 300,
+      "random_surrogate_calls": 300
+    },
+    {
+      "seed": 3,
+      "policy_best_simulator_reward": 0.7535410688656897,
+      "random_best_simulator_reward": 0.7612418866115338,
+      "policy_surrogate_calls": 300,
+      "random_surrogate_calls": 300
+    },
+    {
+      "seed": 4,
+      "policy_best_simulator_reward": 0.764758599332928,
+      "random_best_simulator_reward": 0.7702579124124618,
+      "policy_surrogate_calls": 300,
+      "random_surrogate_calls": 300
+    },
+    {
+      "seed": 5,
+      "policy_best_simulator_reward": 0.7736313348465269,
+      "random_best_simulator_reward": 0.7604379077667794,
+      "policy_surrogate_calls": 300,
+      "random_surrogate_calls": 300
+    },
+    {
+      "seed": 6,
+      "policy_best_simulator_reward": 0.7675356989267537,
+      "random_best_simulator_reward": 0.781775869995342,
+      "policy_surrogate_calls": 300,
+      "random_surrogate_calls": 300
+    },
+    {
+      "seed": 7,
+      "policy_best_simulator_reward": 0.7605662136188631,
+      "random_best_simulator_reward": 0.7825377769621454,
+      "policy_surrogate_calls": 300,
+      "random_surrogate_calls": 300
+    },
+    {
+      "seed": 8,
+      "policy_best_simulator_reward": 0.769305559398235,
+      "random_best_simulator_reward": 0.7567686609002211,
+      "policy_surrogate_calls": 300,
+      "random_surrogate_calls": 300
+    },
+    {
+      "seed": 9,
+      "policy_best_simulator_reward": 0.7642266331759616,
+      "random_best_simulator_reward": 0.7769079650978753,
+      "policy_surrogate_calls": 300,
+      "random_surrogate_calls": 300
+    }
+  ],
+  "policy_wins": 2,
+  "no_independent_validation": true,
+  "normal_viability_not_measured": true
+}
