@@ -1,0 +1,333 @@
+{
+  "scope": "cancer-only 2019 monogenic prior, evaluated by the same arbitrary surrogate; 300 calls/method/seed, circular, no external outcomes",
+  "network_control": "neighbor-biased triples; pathway adjacency is prior co-membership, not measured interaction",
+  "uncertainty_control": "soft low-uncertainty prior sampling",
+  "greedy_control": "30 random starts, then single-gene mutation of best evaluated triple",
+  "beam_control": "30 random starts, then rotate mutations among five top evaluated triples",
+  "known_pairs_masked": 591,
+  "seeds": [
+    {
+      "seed": 0,
+      "methods": {
+        "rl": {
+          "best": 0.7802909059911359,
+          "unique": 300
+        },
+        "random": {
+          "best": 0.7684234619606019,
+          "unique": 300
+        },
+        "greedy": {
+          "best": 0.8023935413457055,
+          "unique": 288
+        },
+        "beam": {
+          "best": 0.8023935413457055,
+          "unique": 297
+        },
+        "network": {
+          "best": 0.7834057731558177,
+          "unique": 300
+        },
+        "uncertainty": {
+          "best": 0.7639707378219922,
+          "unique": 300
+        }
+      }
+    },
+    {
+      "seed": 1,
+      "methods": {
+        "rl": {
+          "best": 0.767390643124446,
+          "unique": 300
+        },
+        "random": {
+          "best": 0.774957987918752,
+          "unique": 300
+        },
+        "greedy": {
+          "best": 0.8063371200022232,
+          "unique": 278
+        },
+        "beam": {
+          "best": 0.8025194404857762,
+          "unique": 288
+        },
+        "network": {
+          "best": 0.7766108669005489,
+          "unique": 300
+        },
+        "uncertainty": {
+          "best": 0.7786077423374741,
+          "unique": 300
+        }
+      }
+    },
+    {
+      "seed": 2,
+      "methods": {
+        "rl": {
+          "best": 0.7766874897619096,
+          "unique": 300
+        },
+        "random": {
+          "best": 0.7831258178069215,
+          "unique": 300
+        },
+        "greedy": {
+          "best": 0.8018422018040127,
+          "unique": 276
+        },
+        "beam": {
+          "best": 0.8046164804896433,
+          "unique": 296
+        },
+        "network": {
+          "best": 0.7760579011676849,
+          "unique": 300
+        },
+        "uncertainty": {
+          "best": 0.7812708883561337,
+          "unique": 300
+        }
+      }
+    },
+    {
+      "seed": 3,
+      "methods": {
+        "rl": {
+          "best": 0.7688504923243615,
+          "unique": 300
+        },
+        "random": {
+          "best": 0.7612418866115338,
+          "unique": 300
+        },
+        "greedy": {
+          "best": 0.7995338768296731,
+          "unique": 288
+        },
+        "beam": {
+          "best": 0.7995338768296731,
+          "unique": 294
+        },
+        "network": {
+          "best": 0.7709959471053862,
+          "unique": 300
+        },
+        "uncertainty": {
+          "best": 0.7780444813729588,
+          "unique": 300
+        }
+      }
+    },
+    {
+      "seed": 4,
+      "methods": {
+        "rl": {
+          "best": 0.7714997105235974,
+          "unique": 300
+        },
+        "random": {
+          "best": 0.7702579124124618,
+          "unique": 300
+        },
+        "greedy": {
+          "best": 0.7998847851041059,
+          "unique": 287
+        },
+        "beam": {
+          "best": 0.7955064014934292,
+          "unique": 293
+        },
+        "network": {
+          "best": 0.7833074614125445,
+          "unique": 300
+        },
+        "uncertainty": {
+          "best": 0.7788118003617144,
+          "unique": 300
+        }
+      }
+    },
+    {
+      "seed": 5,
+      "methods": {
+        "rl": {
+          "best": 0.7765472950821216,
+          "unique": 300
+        },
+        "random": {
+          "best": 0.7604379077667794,
+          "unique": 300
+        },
+        "greedy": {
+          "best": 0.8063371200022232,
+          "unique": 283
+        },
+        "beam": {
+          "best": 0.8003071573032435,
+          "unique": 294
+        },
+        "network": {
+          "best": 0.7767011087005307,
+          "unique": 300
+        },
+        "uncertainty": {
+          "best": 0.7845185393942259,
+          "unique": 300
+        }
+      }
+    },
+    {
+      "seed": 6,
+      "methods": {
+        "rl": {
+          "best": 0.7675356989267537,
+          "unique": 300
+        },
+        "random": {
+          "best": 0.781775869995342,
+          "unique": 300
+        },
+        "greedy": {
+          "best": 0.8046164804896433,
+          "unique": 276
+        },
+        "beam": {
+          "best": 0.7965998483830888,
+          "unique": 294
+        },
+        "network": {
+          "best": 0.7783670573547158,
+          "unique": 300
+        },
+        "uncertainty": {
+          "best": 0.7806733256742548,
+          "unique": 300
+        }
+      }
+    },
+    {
+      "seed": 7,
+      "methods": {
+        "rl": {
+          "best": 0.7775812569186561,
+          "unique": 300
+        },
+        "random": {
+          "best": 0.7825377769621454,
+          "unique": 300
+        },
+        "greedy": {
+          "best": 0.8055870599398578,
+          "unique": 274
+        },
+        "beam": {
+          "best": 0.7995338768296731,
+          "unique": 296
+        },
+        "network": {
+          "best": 0.7788841304536455,
+          "unique": 299
+        },
+        "uncertainty": {
+          "best": 0.7861648993854953,
+          "unique": 300
+        }
+      }
+    },
+    {
+      "seed": 8,
+      "methods": {
+        "rl": {
+          "best": 0.7803357023270662,
+          "unique": 300
+        },
+        "random": {
+          "best": 0.7567686609002211,
+          "unique": 300
+        },
+        "greedy": {
+          "best": 0.7964432049497819,
+          "unique": 286
+        },
+        "beam": {
+          "best": 0.7887609207814636,
+          "unique": 294
+        },
+        "network": {
+          "best": 0.7695877862135433,
+          "unique": 300
+        },
+        "uncertainty": {
+          "best": 0.7815461767238624,
+          "unique": 300
+        }
+      }
+    },
+    {
+      "seed": 9,
+      "methods": {
+        "rl": {
+          "best": 0.7677773565540821,
+          "unique": 300
+        },
+        "random": {
+          "best": 0.7769079650978753,
+          "unique": 300
+        },
+        "greedy": {
+          "best": 0.8044928224540847,
+          "unique": 279
+        },
+        "beam": {
+          "best": 0.8044928224540847,
+          "unique": 289
+        },
+        "network": {
+          "best": 0.7790159981536063,
+          "unique": 300
+        },
+        "uncertainty": {
+          "best": 0.7836775743856337,
+          "unique": 300
+        }
+      }
+    }
+  ],
+  "summary": {
+    "rl": {
+      "mean_best": 0.7734496551534129,
+      "mean_unique": 300.0,
+      "wins_vs_rl": 0
+    },
+    "random": {
+      "mean_best": 0.7716435247432634,
+      "mean_unique": 300.0,
+      "wins_vs_rl": 5
+    },
+    "greedy": {
+      "mean_best": 0.8027468212921312,
+      "mean_unique": 281.5,
+      "wins_vs_rl": 10
+    },
+    "beam": {
+      "mean_best": 0.799426436639578,
+      "mean_unique": 293.5,
+      "wins_vs_rl": 10
+    },
+    "network": {
+      "mean_best": 0.7772934030618024,
+      "mean_unique": 299.9,
+      "wins_vs_rl": 8
+    },
+    "uncertainty": {
+      "mean_best": 0.7797286165813745,
+      "mean_unique": 300.0,
+      "wins_vs_rl": 9
+    }
+  },
+  "healthy_viability": "not measured"
+}
