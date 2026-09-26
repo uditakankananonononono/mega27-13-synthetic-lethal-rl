@@ -1,0 +1,793 @@
+{
+  "all": {
+    "guide_rows": 119461,
+    "nearest_samples": {
+      "A10_A": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.40651767962793994
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.3993893402623968
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.3945666111297615
+        },
+        {
+          "sample": "A10_B",
+          "pearson_log2_count": 0.39436401922741926
+        }
+      ],
+      "A10_B": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.3989124322424402
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.3943640192274192
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.3907932722997936
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.3894208669918829
+        }
+      ],
+      "A10_C": [
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.3311465121536428
+        },
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.32389256217999657
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.3173695519315423
+        },
+        {
+          "sample": "A10_B",
+          "pearson_log2_count": 0.315319871801503
+        }
+      ],
+      "A5_A": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.3410435715823635
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.33893687984294274
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.3340759735837458
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.3232738302146684
+        }
+      ],
+      "A5_B": [
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.35439661908979553
+        },
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.3541523713128199
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.34530941565408313
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.3372703890359027
+        }
+      ],
+      "A5_C": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.3668977242075062
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.362433440553508
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.36124504402684887
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.34769242181327503
+        }
+      ],
+      "Ctrl_A": [
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.32535316729819097
+        },
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.32499544644245926
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.32050584890749495
+        },
+        {
+          "sample": "S5_C",
+          "pearson_log2_count": 0.30453588105756335
+        }
+      ],
+      "Ctrl_B": [
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.35482958631964506
+        },
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.35396487962619166
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.34814110890243377
+        },
+        {
+          "sample": "S5_C",
+          "pearson_log2_count": 0.326766249716978
+        }
+      ],
+      "Ctrl_C": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.4584292141734706
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.45306993210327134
+        },
+        {
+          "sample": "S5_C",
+          "pearson_log2_count": 0.4195780692149898
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.39938934026239686
+        }
+      ],
+      "S10_A": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.3840414001116962
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.3805789081381155
+        },
+        {
+          "sample": "S10_B",
+          "pearson_log2_count": 0.3729669560607951
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.37193373538092167
+        }
+      ],
+      "S10_B": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.3815622542738496
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.379789379630791
+        },
+        {
+          "sample": "S10_A",
+          "pearson_log2_count": 0.37296695606079516
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.36477576961010316
+        }
+      ],
+      "S5_A": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.4793146618608442
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.45306993210327134
+        },
+        {
+          "sample": "S5_C",
+          "pearson_log2_count": 0.4237836179242724
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.39456661112976155
+        }
+      ],
+      "S5_B": [
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.47931466186084415
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.45842921417347055
+        },
+        {
+          "sample": "S5_C",
+          "pearson_log2_count": 0.4288321170665608
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.40651767962793994
+        }
+      ],
+      "S5_C": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.4288321170665609
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.4237836179242724
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.41957806921498986
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.37167813039998593
+        }
+      ]
+    },
+    "declared_day10_replicate_pair_pearson": {
+      "A10_A__A10_B": 0.39436401922741926,
+      "A10_A__A10_C": 0.31442629840096503,
+      "A10_B__A10_C": 0.315319871801503,
+      "S10_A__S10_B": 0.3729669560607951
+    }
+  },
+  "HGLibA": {
+    "guide_rows": 63762,
+    "nearest_samples": {
+      "A10_A": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.3575465355406312
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.35025573880699207
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.3496793611561474
+        },
+        {
+          "sample": "A10_B",
+          "pearson_log2_count": 0.34382667239704146
+        }
+      ],
+      "A10_B": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.34956181072037035
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.34382667239704146
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.3388842167527338
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.3370102073936423
+        }
+      ],
+      "A10_C": [
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.2900865616145969
+        },
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.2790835799344048
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.2742732112934043
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.2741628511352257
+        }
+      ],
+      "A5_A": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.29464293658421364
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.2897893661823562
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.2864536517776851
+        },
+        {
+          "sample": "S5_C",
+          "pearson_log2_count": 0.27453812114911524
+        }
+      ],
+      "A5_B": [
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.3081510887302669
+        },
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.30080722745490057
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.2977751314453765
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.29354977226687207
+        }
+      ],
+      "A5_C": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.3157895168908219
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.31567701682497024
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.3100008469061646
+        },
+        {
+          "sample": "S5_C",
+          "pearson_log2_count": 0.30001484687723673
+        }
+      ],
+      "Ctrl_A": [
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.28094008858874414
+        },
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.27925392899055324
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.277963551588319
+        },
+        {
+          "sample": "S5_C",
+          "pearson_log2_count": 0.2609341172632108
+        }
+      ],
+      "Ctrl_B": [
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.3067116181113688
+        },
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.30221152521963907
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.3002374590447487
+        },
+        {
+          "sample": "S5_C",
+          "pearson_log2_count": 0.27863821556940455
+        }
+      ],
+      "Ctrl_C": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.40439994060316764
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.4010917673122707
+        },
+        {
+          "sample": "S5_C",
+          "pearson_log2_count": 0.37031511337870393
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.35025573880699207
+        }
+      ],
+      "S10_A": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.3371981883047567
+        },
+        {
+          "sample": "S10_B",
+          "pearson_log2_count": 0.3351321779456482
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.3350298430046358
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.32082892481427344
+        }
+      ],
+      "S10_B": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.33924054555575966
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.33827329415724866
+        },
+        {
+          "sample": "S10_A",
+          "pearson_log2_count": 0.33513217794564826
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.3193865454645662
+        }
+      ],
+      "S5_A": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.43250544488966786
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.40109176731227064
+        },
+        {
+          "sample": "S5_C",
+          "pearson_log2_count": 0.3766980378120357
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.3496793611561474
+        }
+      ],
+      "S5_B": [
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.4325054448896678
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.4043999406031677
+        },
+        {
+          "sample": "S5_C",
+          "pearson_log2_count": 0.3841746572686898
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.3575465355406312
+        }
+      ],
+      "S5_C": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.3841746572686898
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.3766980378120357
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.3703151133787039
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.323899859210587
+        }
+      ]
+    },
+    "declared_day10_replicate_pair_pearson": {
+      "A10_A__A10_B": 0.34382667239704146,
+      "A10_A__A10_C": 0.2742732112934043,
+      "A10_B__A10_C": 0.27072955837438656,
+      "S10_A__S10_B": 0.3351321779456482
+    }
+  },
+  "HGLibB": {
+    "guide_rows": 55448,
+    "nearest_samples": {
+      "A10_A": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.42536483255305446
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.4199947618035704
+        },
+        {
+          "sample": "A10_B",
+          "pearson_log2_count": 0.416141324397916
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.40816617688344414
+        }
+      ],
+      "A10_B": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.41765687071349616
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.4173260846606183
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.41614132439791607
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.41001671944554463
+        }
+      ],
+      "A10_C": [
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.3408280848152261
+        },
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.3366720696396823
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.32947644494302836
+        },
+        {
+          "sample": "A10_B",
+          "pearson_log2_count": 0.32705551469821675
+        }
+      ],
+      "A5_A": [
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.36114046440493597
+        },
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.3533615830653415
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.34414338592639093
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.3412062151349467
+        }
+      ],
+      "A5_B": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.3775883512829182
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.37081187787324504
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.36151806671846987
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.34823857945590686
+        }
+      ],
+      "A5_C": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.386454878473778
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.3848081436020966
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.3736898696738721
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.3624844847427432
+        }
+      ],
+      "Ctrl_A": [
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.34278394470174267
+        },
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.33819684478780426
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.32652986347784113
+        },
+        {
+          "sample": "S5_C",
+          "pearson_log2_count": 0.31381547014330863
+        }
+      ],
+      "Ctrl_B": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.3733379150638831
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.371670929046135
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.3629081414021231
+        },
+        {
+          "sample": "S5_C",
+          "pearson_log2_count": 0.33941518247457314
+        }
+      ],
+      "Ctrl_C": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.48841399081813414
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.48006609143243956
+        },
+        {
+          "sample": "S5_C",
+          "pearson_log2_count": 0.4412096952848897
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.4199947618035705
+        }
+      ],
+      "S10_A": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.3980871739650153
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.39416275190284666
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.393377062342678
+        },
+        {
+          "sample": "S10_B",
+          "pearson_log2_count": 0.3767233607313688
+        }
+      ],
+      "S10_B": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.39173376736928783
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.3894723519803229
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.37913958950132437
+        },
+        {
+          "sample": "S10_A",
+          "pearson_log2_count": 0.37672336073136886
+        }
+      ],
+      "S5_A": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.49952156617526744
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.48006609143243956
+        },
+        {
+          "sample": "S5_C",
+          "pearson_log2_count": 0.44134511121153164
+        },
+        {
+          "sample": "A10_B",
+          "pearson_log2_count": 0.41001671944554463
+        }
+      ],
+      "S5_B": [
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.49952156617526744
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.48841399081813414
+        },
+        {
+          "sample": "S5_C",
+          "pearson_log2_count": 0.4422898515198711
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.42536483255305446
+        }
+      ],
+      "S5_C": [
+        {
+          "sample": "S5_B",
+          "pearson_log2_count": 0.4422898515198711
+        },
+        {
+          "sample": "S5_A",
+          "pearson_log2_count": 0.4413451112115316
+        },
+        {
+          "sample": "Ctrl_C",
+          "pearson_log2_count": 0.44120969528488974
+        },
+        {
+          "sample": "A10_A",
+          "pearson_log2_count": 0.38729479666059435
+        }
+      ]
+    },
+    "declared_day10_replicate_pair_pearson": {
+      "A10_A__A10_B": 0.416141324397916,
+      "A10_A__A10_C": 0.3212519991075753,
+      "A10_B__A10_C": 0.32705551469821675,
+      "S10_A__S10_B": 0.3767233607313688
+    }
+  },
+  "source": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE123nnn/GSE123290/suppl/",
+  "scope": "Descriptive guide-level count similarity; no sample relabeling, causality, hit calling, or PEO1 transfer benchmark"
+}
