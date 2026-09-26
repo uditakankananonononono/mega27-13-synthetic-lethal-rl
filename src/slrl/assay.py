@@ -20,7 +20,7 @@ def parse_sheet(path, sheet_name='3-way Ovarian cancer'):
         raise ValueError('incorrect assay schema')
     for row in it:
         if not row[0]: continue
-        targets=tuple(str(v).rsplit('_',1)[0] for v in row[1:4])
+        targets=tuple(str(v) for v in row[1:4])
         vals={k:row[labels[k]] for k in TRIPLE_COLUMNS}
         if any(v is None or not isinstance(v,(int,float)) or not math.isfinite(v) or v < 0 for v in vals.values()):
             continue
@@ -32,7 +32,7 @@ def fold_change(values, baseline='Cell_D9', endpoint='Cell_D26', pseudo_count=1.
     return np.array([math.log2((values[f'{endpoint}_rep{rep}']+pseudo_count)/(values[baseline]+pseudo_count)) for rep in (1,2)])
 
 def guide_family(name):
-    return 'CTRL' if name.startswith('dummyguide') else name
+    return 'CTRL' if name.startswith('dummyguide') else name.rsplit('_',1)[0]
 
 def summarize_replicates(records):
     """Median per biological replicate across guide constructs, paired with data-QC counts."""
