@@ -10,7 +10,7 @@ from .network import graph_from_edges,degree_features
 from .surrogate import PriorSurrogate
 
 
-def build_legacy_cancer_proxy(score_csv,reactome_tsv,model_map,heldout_models=frozenset(),max_genes=2000):
+def build_legacy_cancer_proxy(score_csv,reactome_tsv,model_map,heldout_models=frozenset(),max_genes=2000,allowed_models=None):
     if not 2000<=max_genes:raise ValueError('at least 2000 measured genes required')
     paths,names,mapped=load_ncbi_pathways(reactome_tsv)
     repair=repair_members(paths,names)
@@ -32,7 +32,7 @@ def build_legacy_cancer_proxy(score_csv,reactome_tsv,model_map,heldout_models=fr
         rows=[];ids=[]
         for row in reader:
             model=row[0]
-            if model in heldout_models or model not in model_map or not model_map[model].endswith('_OVARY'):continue
+            if model in heldout_models or model not in model_map or not model_map[model].endswith('_OVARY') or (allowed_models is not None and model not in allowed_models):continue
             nums=[]
             for i,_,_ in chosen:
                 try:nums.append(float(row[i]))
