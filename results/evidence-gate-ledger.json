@@ -1,0 +1,34 @@
+{
+  "schema": "slrl-evidence-gates-v1",
+  "artifact_sha256": {
+    "assay": "41712bbd90d4c521214131e4d1d502db912c96a5fb5c7feb5aa14e7b21d355b1",
+    "shift": "7601621fa43346c9af32196317e7ffd7d4c2e9d1be9b926155dbdca3981eda1c",
+    "proxy": "0f2049be0273aa452c83f9e2b0618c877b6eb0ac1e89d0bd49fe6d2f5b3afcd4",
+    "identity": "bfbf1d9504539ba47892b2fe9535b9140ed0a96d9b7a79357afb3cbd4e48a55e",
+    "peo1": "73c70cda51c3cdb283b04f94b2d77e0312bfc21093162949cd17f4d98f75dd6c",
+    "similarity": "e53122cd2883116b969f77f9de84d88804807f09cc12f99a5eb2e994afe03188"
+  },
+  "observed": {
+    "assay": "GSE154112 OVCAR8-ADR guide-count growth depletion; no matched normal",
+    "triples_evaluable": 455,
+    "bh_q_lt_0_05": 0,
+    "all_layouts_negative_both_reps": 0,
+    "historical_explicit_hgsoc_models": 10,
+    "development_only_proxy_seeds": 10,
+    "greedy_beats_rl_same_surrogate_seeds": 10,
+    "beam_beats_rl_same_surrogate_seeds": 10,
+    "peo1_guide_rows": 119461,
+    "peo1_qc": "stop; no gene ranking"
+  },
+  "gates": {
+    "corrected_multi_model_hgsoc_pair_or_triple_discovery": "UNMET",
+    "matched_nonmalignant_perturbation_viability": "UNMET",
+    "independent_measured_external_benchmark_beat": "UNMET",
+    "validated_new_biological_discovery": "UNMET",
+    "120_independent_datasets": "UNMET",
+    "40_independently_executed_external_tools": "UNMET",
+    "10_implemented_judge_rounds": "UNMET",
+    "50_plus_substantive_text_body_page_paper": "UNMET"
+  },
+  "warning": "Assay has two D26 biological replicates and a post-outcome exploratory guide bootstrap. No measured cell viability, normal selectivity, multi-model interaction, external benchmark win, or new biological discovery is established. Engineering tests cannot fill these gates."
+}
