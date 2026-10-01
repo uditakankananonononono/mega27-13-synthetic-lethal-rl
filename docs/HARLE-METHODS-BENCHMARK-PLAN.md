@@ -25,3 +25,8 @@ Only ingestion/schema and split design are underway. No policy has run on this s
 
 ## First-pass restriction, before algorithm execution
 Use only S1 design-selection category for the first run, because expression/copy-number provenance is unresolved. All algorithms may use all development-pair outcomes for the same line. No evaluation feedback crosses lines or seeds. Freeze greedy exploration probability 0.1, ridge penalty 1, UCB multiplier 1 and REINFORCE learning rate 0.05 without evaluation tuning. First-pass sequential policy uses design-category incidence for the first gene and pair categories for its partner. Its label remains a sequential pair-query policy, not a virtual-cell or mechanistic simulator. Published binary S5 hits are the primary endpoint; missing/invalid pair-line endpoints fail closed.
+
+## Post-outcome correction arm, 2026-10-01
+Keep original arms and seeds unchanged. Add `degree_corrected_pair_softmax`, using the exact two-stage weighted-incidence sampler tested in `pair_sampling.py`. Pair logits use category features and initial development category scores, with REINFORCE gradient x_chosen minus the expected pair feature and learning rate 0.05. This is algebraically a pair contextual bandit; the two-stage factorization is not evidence of an RL-specific advantage. Compare to all original controls, preserve original outcome, and label every corrected-arm result post-outcome development. No re-tuning or new biological finding.
+
+Judge round is deferred on provenance caution. Packet is prepared, but no external submission or response exists and no completed judge round is counted.
