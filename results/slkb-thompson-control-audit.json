@@ -1,0 +1,47 @@
+{
+  "schema": "slkb-thompson-controls-v1",
+  "study_pubmed_id": "33637726",
+  "guide_design_rows": 13310,
+  "original_result_rows": 3573,
+  "by_line": {
+    "A375": {
+      "guide_pair_rows": 41838,
+      "gene_pair_ids_including_controls": 3823
+    },
+    "MEWO": {
+      "guide_pair_rows": 41838,
+      "gene_pair_ids_including_controls": 3823
+    },
+    "RPE1": {
+      "guide_pair_rows": 41838,
+      "gene_pair_ids_including_controls": 3823
+    }
+  },
+  "replicate_name_occurrences": {
+    "BA_D14_R1": 41838,
+    "BA_D14_R2": 41838,
+    "BA_D14_R3": 41838,
+    "BA_D28_R1": 41838,
+    "BA_D28_R2": 41838,
+    "BA_D28_R3": 41838,
+    "BB_D14_R1_v2": 41838,
+    "BB_D14_R2_v2": 41838,
+    "BB_D14_R3_v2": 41838,
+    "BB_D28_R1_v2": 41838,
+    "BB_D28_R2_v2": 41838,
+    "BB_D28_R3_v2": 41838,
+    "BD_D14_R1": 41838,
+    "BD_D14_R2": 41838,
+    "BD_D14_R3": 41838,
+    "BD_D28_R1": 41838,
+    "BD_D28_R2": 41838,
+    "BD_D28_R3": 41838
+  },
+  "invalid_count_vectors": 0,
+  "negative_count_rows": 0,
+  "fractional_noninteger_rows": 0,
+  "unmatched_guides": 0,
+  "primary_baseline_reproduced": false,
+  "blocking_conflict": "Curated T0 counts are D14, not primary Cas9-negative A375 D7 baseline. A_B/B_A labels do not prove physical guide-orientation swaps.",
+  "scope": "Curated count eligibility audit only; no normalization, fitting, benchmark or discovery"
+}
