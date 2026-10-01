@@ -20,3 +20,10 @@ Primary paper: https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12248148/full
 
 ## Next bounded work
 Recover Thompson primary guide-count/design download links and exact filtered/unfiltered score-file identities. Define an endpoint and equal-information comparison before a run. Keep the original HGSOC and matched-normal gates unmet until an eligible assay exists. Metadata records, model/timepoint columns, algorithm score variants and repeated trials must not be counted as independent datasets or external tool executions.
+
+## Variant reconciliation update
+The benchmark repository's `Gemini_on_Thompson.R` explicitly writes an unfiltered `gemini_score(..., pc_threshold=-Inf)` output and a filtered `gemini_score(..., pc_gene=essentials)` output to same-named files in different directories. Provider metadata states filtered/unfiltered variants are included. Direct comparison shows all 5,481 retained cells in ID 52694642 equal ID 52694606 exactly, with 1,665 missing cells and identical 1,191 pair identities. Thus the files exhibit the documented full-versus-masked variant pattern; provider IDs do not encode the directory, so this is a content/source-code reconciliation, not a recovered directory assertion. No imputation or mixing is performed.
+
+The Thompson analysis notebook flips the signs of zdLFC, Orthrus and Parrish outputs for larger-is-more-SL ranking, but does not flip Gemini outputs. This is critical: raw-score numerical comparisons or rank direction cannot be copied between methods without this source-grounded alignment. The source notebook is `Analysis/Thompson-Analysis.ipynb` in https://github.com/cancergenetics/Benchmarking-GI-Scores . This audit has not executed those scoring algorithms on raw counts.
+
+The primary guide-library workbook (Supplementary Data 4) was retrieved, SHA-256 0a41dfda583b3b6fb9e955fa1387e47868d6fe5250e276ae05c3645e10512ad9. It has 41,838 design rows after four header rows and includes guide IDs/sequences and pair origin. Raw read counts remain unrecovered. Do not transform design rows into biological replicates.
