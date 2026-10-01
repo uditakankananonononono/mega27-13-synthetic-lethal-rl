@@ -1,0 +1,11 @@
+{
+  "original_trials_reproduced_exactly": 2700,
+  "corrected_trials_total": 3240,
+  "all_trace_budgets_unique": true,
+  "corrected_minus_random_hits60": -0.4518518518518519,
+  "line_bootstrap_95_interval": [
+    -0.6518518518518519,
+    -0.26851851851851855
+  ],
+  "scope": "Post-outcome development; no independent validation or gate pass"
+}

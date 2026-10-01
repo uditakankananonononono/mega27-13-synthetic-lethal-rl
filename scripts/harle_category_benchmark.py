@@ -3,9 +3,10 @@ import argparse,collections,hashlib,json
 from pathlib import Path
 import numpy as np
 import openpyxl
+from slrl.pair_sampling import sample as corrected_sample
 from harle_ingestion_audit import canonical,partition,rows
 
-METHODS=['random','fixed_category','ridge_greedy','ridge_ucb','sequential_reinforce']
+METHODS=['random','fixed_category','ridge_greedy','ridge_ucb','sequential_reinforce','degree_corrected_pair_softmax']
 
 def softmax(x):
     e=np.exp(x-x.max());return e/e.sum()
@@ -16,6 +17,8 @@ def trial(x,y,pairs,dev,ev,method,seed,budget=60,gene_features=None):
     weights=initial.copy();baseline=float(np.mean(y[dev]));available=list(ev);hits=[];chosen=[]
     if gene_features is None:
         gene_features={g:np.mean([x[i] for i,p in enumerate(pairs) if g in p.split('|')],axis=0) for g in {g for p in pairs for g in p.split('|')}}
+    genes_all=sorted(gene_features);gi_map={g:i for i,g in enumerate(genes_all)}
+    endpoints=np.asarray([[gi_map[g] for g in p.split('|')] for p in pairs])
     for _ in range(min(budget,len(available))):
         a=np.asarray(available);features=x[a];mean=s/(n+1);grad=None
         if method=='random':j=int(rng.integers(len(a)))
@@ -26,6 +29,13 @@ def trial(x,y,pairs,dev,ev,method,seed,budget=60,gene_features=None):
             if method=='ridge_ucb':score=score+np.sqrt((features**2)@(1/(n+1)))
             if method=='ridge_greedy' and rng.random()<.1:j=int(rng.integers(len(a)))
             else:j=int(rng.choice(np.flatnonzero(np.isclose(score,score.max()))))
+        elif method=='degree_corrected_pair_softmax':
+            probs=softmax(features@weights)
+            totals=np.bincount(endpoints[a].ravel(),weights=np.repeat(probs,2),minlength=len(genes_all))
+            g=int(rng.choice(len(genes_all),p=totals/totals.sum()))
+            legal=np.flatnonzero(np.any(endpoints[a]==g,axis=1))
+            j=int(rng.choice(legal,p=probs[legal]/probs[legal].sum()))
+            grad=features[j]-probs@features
         else:
             genes=sorted({g for i in a for g in pairs[i].split('|')});gf=np.asarray([gene_features[g] for g in genes])
             probs=softmax(gf@weights);gi=int(rng.choice(len(genes),p=probs));g=genes[gi]
@@ -39,7 +49,8 @@ def trial(x,y,pairs,dev,ev,method,seed,budget=60,gene_features=None):
     c=np.cumsum(hits)
     return {'hits_at':{str(b):float(c[min(b,len(c))-1]) for b in [10,30,60]},'auc':float(c.mean()),'unique_queries':len(set(chosen)),'queries':len(chosen),'queried_pairs':[pairs[i] for i in chosen],'query_rewards':hits}
 
-def run(path,seeds=20):
+def run(path,seeds=20,include_correction=False):
+    methods=METHODS if include_correction else METHODS[:-1]
     w=openpyxl.load_workbook(path,read_only=True,data_only=True)
     categories=collections.defaultdict(set)
     for r in rows(w['Table S1'],3):
@@ -59,15 +70,15 @@ def run(path,seeds=20):
     trials=[]
     for line,j in zip(lines,range(len(lines))):
         for seed in range(seeds):
-            for method in METHODS:
+            for method in methods:
                 t=trial(x,y[:,j],pairs,dev,ev,method,seed,gene_features=gene_features);t.update(line=line,seed=seed,method=method);trials.append(t)
-    summary={m:{'mean_hits_60':float(np.mean([t['hits_at']['60'] for t in trials if t['method']==m])), 'mean_auc':float(np.mean([t['auc'] for t in trials if t['method']==m]))} for m in METHODS}
+    summary={m:{'mean_hits_60':float(np.mean([t['hits_at']['60'] for t in trials if t['method']==m])), 'mean_auc':float(np.mean([t['auc'] for t in trials if t['method']==m]))} for m in methods}
     differences={}
     rng=np.random.default_rng(314159)
-    for m in METHODS[:-1]:
+    for m in [m for m in methods if m!='sequential_reinforce']:
         d=np.array([np.mean([t['hits_at']['60'] for t in trials if t['line']==line and t['method']=='sequential_reinforce'])-np.mean([t['hits_at']['60'] for t in trials if t['line']==line and t['method']==m]) for line in lines])
         b=rng.choice(d,(10000,len(d)),replace=True).mean(axis=1)
         differences[m]={'mean_line_difference_hits60':float(d.mean()),'line_bootstrap_95_interval':np.quantile(b,[.025,.975]).tolist(),'lines_rl_better':int((d>0).sum()),'lines_equal':int((d==0).sum()),'lines_rl_worse':int((d<0).sum())}
-    return {'schema':'harle-category-benchmark-v1','workbook_sha256':hashlib.sha256(Path(path).read_bytes()).hexdigest(),'scope':'Retrospective binary author-hit query retrieval, category-only; not HGSOC, normal selectivity, discovery or published leading-model beat','categories':cats,'development_pairs':len(dev),'evaluation_pairs':len(ev),'lines':len(lines),'seeds':seeds,'budget':60,'summary':summary,'rl_minus_controls':differences,'trials':trials}
+    return {'schema':'harle-category-benchmark-corrected-v1' if include_correction else 'harle-category-benchmark-v1','workbook_sha256':hashlib.sha256(Path(path).read_bytes()).hexdigest(),'scope':('Post-outcome corrected sampling development; ' if include_correction else '')+'Retrospective binary author-hit query retrieval, category-only; not independent validation, HGSOC, normal selectivity, discovery or published leading-model beat','categories':cats,'development_pairs':len(dev),'evaluation_pairs':len(ev),'lines':len(lines),'seeds':seeds,'budget':60,'summary':summary,'rl_minus_controls':differences,'trials':trials}
 if __name__=='__main__':
-    p=argparse.ArgumentParser();p.add_argument('--workbook',required=True);p.add_argument('--output',required=True);a=p.parse_args();r=run(a.workbook);Path(a.output).write_text(json.dumps(r,indent=2)+'\n');print(json.dumps({'summary':r['summary'],'rl_minus_controls':r['rl_minus_controls']},indent=2))
+    p=argparse.ArgumentParser();p.add_argument('--workbook',required=True);p.add_argument('--output',required=True);p.add_argument('--include-correction',action='store_true');a=p.parse_args();r=run(a.workbook,include_correction=a.include_correction);Path(a.output).write_text(json.dumps(r,indent=2)+'\n');print(json.dumps({'summary':r['summary'],'rl_minus_controls':r['rl_minus_controls']},indent=2))
