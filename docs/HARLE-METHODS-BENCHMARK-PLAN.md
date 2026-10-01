@@ -22,3 +22,6 @@ Random without replacement, a fixed development-only feature ranker, adaptive ri
 
 ## Current status
 Only ingestion/schema and split design are underway. No policy has run on this screen. No benchmark win, new discovery, validation or count-gate completion is claimed.
+
+## First-pass restriction, before algorithm execution
+Use only S1 design-selection category for the first run, because expression/copy-number provenance is unresolved. All algorithms may use all development-pair outcomes for the same line. No evaluation feedback crosses lines or seeds. Freeze greedy exploration probability 0.1, ridge penalty 1, UCB multiplier 1 and REINFORCE learning rate 0.05 without evaluation tuning. First-pass sequential policy uses design-category incidence for the first gene and pair categories for its partner. Its label remains a sequential pair-query policy, not a virtual-cell or mechanistic simulator. Published binary S5 hits are the primary endpoint; missing/invalid pair-line endpoints fail closed.
