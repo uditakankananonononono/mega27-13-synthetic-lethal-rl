@@ -1,0 +1,89 @@
+{
+  "scope": "Post-outcome methodological diagnostic, not an explanation proved causal or a biological discovery",
+  "category_rates": {
+    "development": {
+      "CRISPR/RNA-Seq": {
+        "pairs": 16,
+        "hits": 17,
+        "pair_line_observations": 432,
+        "hit_fraction": 0.03935185185185185
+      },
+      "Project Achilles/MASHUP": {
+        "pairs": 19,
+        "hits": 45,
+        "pair_line_observations": 513,
+        "hit_fraction": 0.08771929824561403
+      },
+      "paralog|paralog": {
+        "pairs": 52,
+        "hits": 74,
+        "pair_line_observations": 1404,
+        "hit_fraction": 0.05270655270655271
+      }
+    },
+    "evaluation": {
+      "CRISPR/RNA-Seq": {
+        "pairs": 79,
+        "hits": 21,
+        "pair_line_observations": 2133,
+        "hit_fraction": 0.009845288326300985
+      },
+      "Project Achilles/MASHUP": {
+        "pairs": 96,
+        "hits": 54,
+        "pair_line_observations": 2592,
+        "hit_fraction": 0.020833333333333332
+      },
+      "paralog|paralog": {
+        "pairs": 210,
+        "hits": 671,
+        "pair_line_observations": 5670,
+        "hit_fraction": 0.11834215167548501
+      }
+    }
+  },
+  "untrained_uniform_first_gene_pair_probability": {
+    "sum": 1.0000000000000093,
+    "min": 0.0008369201339072214,
+    "max": 0.0028694404591104736,
+    "max_to_min": 3.428571428571429,
+    "category_mass": {
+      "CRISPR/RNA-Seq": 0.1599713055954089,
+      "Project Achilles/MASHUP": 0.24748923959827848,
+      "paralog|paralog": 0.5925394548063144
+    }
+  },
+  "uniform_pair_category_mass": {
+    "CRISPR/RNA-Seq": 0.2051948051948052,
+    "Project Achilles/MASHUP": 0.24935064935064935,
+    "paralog|paralog": 0.5454545454545454
+  },
+  "observed_query_category_fraction": {
+    "fixed_category": {
+      "CRISPR/RNA-Seq": 0.1111111111111111,
+      "Project Achilles/MASHUP": 0.6666666666666666,
+      "paralog|paralog": 0.2222222222222222
+    },
+    "random": {
+      "CRISPR/RNA-Seq": 0.17666666666666667,
+      "Project Achilles/MASHUP": 0.2675,
+      "paralog|paralog": 0.5558333333333333
+    },
+    "ridge_greedy": {
+      "CRISPR/RNA-Seq": 0.0903395061728395,
+      "Project Achilles/MASHUP": 0.4129320987654321,
+      "paralog|paralog": 0.4967283950617284
+    },
+    "ridge_ucb": {
+      "CRISPR/RNA-Seq": 0.3422530864197531,
+      "Project Achilles/MASHUP": 0.49416666666666664,
+      "paralog|paralog": 0.16358024691358025
+    },
+    "sequential_reinforce": {
+      "CRISPR/RNA-Seq": 0.1528395061728395,
+      "Project Achilles/MASHUP": 0.25762345679012344,
+      "paralog|paralog": 0.5895370370370371
+    }
+  },
+  "next_change": "Use degree-corrected first-gene and partner base measures to make zero-score policy uniform over eligible pairs. Freeze before rerun; rerun is post-outcome development, not untouched validation."
+}
