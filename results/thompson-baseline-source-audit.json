@@ -1,0 +1,73 @@
+[
+  {
+    "file": "52694606-Gemini_Thompson_Sensitive.csv",
+    "sha256": "3775008547bacc090261a48d9c29b90f388fb7f411852246c9bb407d458e9a3e",
+    "rows": 1191,
+    "unique_pairs": 1191,
+    "missing_cells": 0,
+    "columns": [
+      "",
+      "A375_D14",
+      "MEWO_D14",
+      "RPE_D14",
+      "A375_D28",
+      "MEWO_D28",
+      "RPE_D28"
+    ],
+    "overlap_with_harle_pairs": 212
+  },
+  {
+    "file": "52694558-Thompson_zdLFC.csv",
+    "sha256": "a7afab648ee3aa8a13db5cdb3612898ab0739abb1e79c21f68d32298de68fed5",
+    "rows": 1191,
+    "unique_pairs": 1191,
+    "missing_cells": 0,
+    "columns": [
+      "",
+      "A375_D14",
+      "RPE_D14",
+      "MEWO_D14",
+      "A375_D28",
+      "RPE_D28",
+      "MEWO_D28"
+    ],
+    "overlap_with_harle_pairs": 212
+  },
+  {
+    "file": "52694642-Gemini_Thompson_Sensitive.csv",
+    "sha256": "1b5af5ac270af3632f48de539025d82a8d5d976402ef296a319d0cfd81399380",
+    "rows": 1191,
+    "unique_pairs": 1191,
+    "missing_cells": 1665,
+    "columns": [
+      "",
+      "A375_D14",
+      "MEWO_D14",
+      "RPE_D14",
+      "A375_D28",
+      "MEWO_D28",
+      "RPE_D28"
+    ],
+    "overlap_with_harle_pairs": 212
+  },
+  {
+    "file": "52694969-Thompson_parrish.csv",
+    "sha256": "6e2c3554fb6a629723e425b949e550d51dc74e56fe09f31251d9e488aad630b3",
+    "rows": 1191,
+    "unique_pairs": 1191,
+    "missing_cells": 0,
+    "columns": [
+      "GI_score_A375",
+      "GI_score_MEWO",
+      "GI_score_RPE",
+      "fdr_A375",
+      "fdr_MEWO",
+      "fdr_RPE",
+      "p_val_A375",
+      "p_val_MEWO",
+      "p_val_RPE",
+      "paralog_pair"
+    ],
+    "overlap_with_harle_pairs": 212
+  }
+]
