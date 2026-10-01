@@ -1,0 +1,9 @@
+{
+  "table_s4_s5_label_mismatches": [],
+  "audited_trials": 2700,
+  "query_budget": 60,
+  "all_traces_unique": true,
+  "exposed_queries_total": 162000,
+  "evaluation_pair_repeat_between_trials": "Permitted reset retrospective query experiments, not independent biological measurements",
+  "note": "No claims of normal selectivity, HGSOC or novel biology"
+}
