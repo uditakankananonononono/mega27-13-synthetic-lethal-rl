@@ -1,0 +1,296 @@
+{
+  "schema": "peo1-source-reconciliation-v1",
+  "scope": "Sample identity reconciliation only; not a ranking, benchmark, interaction or discovery",
+  "samples": {
+    "A5_A": {
+      "geo_accession": "GSM3499355",
+      "title": [
+        "PEO1_GeCKO_Adherent_Day5_A [A5_A]"
+      ],
+      "characteristics": [
+        "cell line: PEO1",
+        "cell type: High grade serous ovarian cancer cell line",
+        "tranduced with: GeCKO libraries (A and B), selected with puromycin",
+        "culture condition: grown on tissue culture plastic for 5 days"
+      ],
+      "processing": [
+        "Hisat2 (version 2.1.0) used to map reads to human genome GRCh37",
+        "bedtools used to assemble transcripts",
+        "edgeR used to identify differenentially expressed genes",
+        "Genome_build: GRCH37/hg19",
+        "Supplementary_files_format_and_content: tab-delimited text files include normalized expression"
+      ]
+    },
+    "A5_B": {
+      "geo_accession": "GSM3499356",
+      "title": [
+        "PEO1_GeCKO_Adherent_Day5_B [A5_B]"
+      ],
+      "characteristics": [
+        "cell line: PEO1",
+        "cell type: High grade serous ovarian cancer cell line",
+        "tranduced with: GeCKO libraries (A and B), selected with puromycin",
+        "culture condition: grown on tissue culture plastic for 5 days"
+      ],
+      "processing": [
+        "Hisat2 (version 2.1.0) used to map reads to human genome GRCh37",
+        "bedtools used to assemble transcripts",
+        "edgeR used to identify differenentially expressed genes",
+        "Genome_build: GRCH37/hg19",
+        "Supplementary_files_format_and_content: tab-delimited text files include normalized expression"
+      ]
+    },
+    "A5_C": {
+      "geo_accession": "GSM3499357",
+      "title": [
+        "PEO1_GeCKO_Adherent_Day5_C [A5_C]"
+      ],
+      "characteristics": [
+        "cell line: PEO1",
+        "cell type: High grade serous ovarian cancer cell line",
+        "tranduced with: GeCKO libraries (A and B), selected with puromycin",
+        "culture condition: grown on tissue culture plastic for 5 days"
+      ],
+      "processing": [
+        "Hisat2 (version 2.1.0) used to map reads to human genome GRCh37",
+        "bedtools used to assemble transcripts",
+        "edgeR used to identify differenentially expressed genes",
+        "Genome_build: GRCH37/hg19",
+        "Supplementary_files_format_and_content: tab-delimited text files include normalized expression"
+      ]
+    },
+    "A10_A": {
+      "geo_accession": "GSM3499358",
+      "title": [
+        "PEO1_GeCKO_Adherent_Day10_A [A10_A]"
+      ],
+      "characteristics": [
+        "cell line: PEO1",
+        "cell type: High grade serous ovarian cancer cell line",
+        "tranduced with: GeCKO libraries (A and B), selected with puromycin",
+        "culture condition: grown on tissue culture plastic for 10 days"
+      ],
+      "processing": [
+        "Hisat2 (version 2.1.0) used to map reads to human genome GRCh37",
+        "bedtools used to assemble transcripts",
+        "edgeR used to identify differenentially expressed genes",
+        "Genome_build: GRCH37/hg19",
+        "Supplementary_files_format_and_content: tab-delimited text files include normalized expression"
+      ]
+    },
+    "A10_B": {
+      "geo_accession": "GSM3499359",
+      "title": [
+        "PEO1_GeCKO_Adherent_Day10_B [A10_B]"
+      ],
+      "characteristics": [
+        "cell line: PEO1",
+        "cell type: High grade serous ovarian cancer cell line",
+        "tranduced with: GeCKO libraries (A and B), selected with puromycin",
+        "culture condition: grown on tissue culture plastic for 10 days"
+      ],
+      "processing": [
+        "Hisat2 (version 2.1.0) used to map reads to human genome GRCh37",
+        "bedtools used to assemble transcripts",
+        "edgeR used to identify differenentially expressed genes",
+        "Genome_build: GRCH37/hg19",
+        "Supplementary_files_format_and_content: tab-delimited text files include normalized expression"
+      ]
+    },
+    "A10_C": {
+      "geo_accession": "GSM3499360",
+      "title": [
+        "PEO1_GeCKO_Adherent_Day10_C [A10_C]"
+      ],
+      "characteristics": [
+        "cell line: PEO1",
+        "cell type: High grade serous ovarian cancer cell line",
+        "tranduced with: GeCKO libraries (A and B), selected with puromycin",
+        "culture condition: grown on tissue culture plastic for 10 days"
+      ],
+      "processing": [
+        "Hisat2 (version 2.1.0) used to map reads to human genome GRCh37",
+        "bedtools used to assemble transcripts",
+        "edgeR used to identify differenentially expressed genes",
+        "Genome_build: GRCH37/hg19",
+        "Supplementary_files_format_and_content: tab-delimited text files include normalized expression"
+      ]
+    },
+    "S5_A": {
+      "geo_accession": "GSM3499361",
+      "title": [
+        "PEO1_GeCKO_Suspension_Day5_A [S5_A]"
+      ],
+      "characteristics": [
+        "cell line: PEO1",
+        "cell type: High grade serous ovarian cancer cell line",
+        "tranduced with: GeCKO libraries (A and B), selected with puromycin",
+        "culture condition: grown in suspension for 5 days"
+      ],
+      "processing": [
+        "Hisat2 (version 2.1.0) used to map reads to human genome GRCh37",
+        "bedtools used to assemble transcripts",
+        "edgeR used to identify differenentially expressed genes",
+        "Genome_build: GRCH37/hg19",
+        "Supplementary_files_format_and_content: tab-delimited text files include normalized expression"
+      ]
+    },
+    "S5_B": {
+      "geo_accession": "GSM3499362",
+      "title": [
+        "PEO1_GeCKO_Suspension_Day5_B [S5_B]"
+      ],
+      "characteristics": [
+        "cell line: PEO1",
+        "cell type: High grade serous ovarian cancer cell line",
+        "tranduced with: GeCKO libraries (A and B), selected with puromycin",
+        "culture condition: grown in suspension for 5 days"
+      ],
+      "processing": [
+        "Hisat2 (version 2.1.0) used to map reads to human genome GRCh37",
+        "bedtools used to assemble transcripts",
+        "edgeR used to identify differenentially expressed genes",
+        "Genome_build: GRCH37/hg19",
+        "Supplementary_files_format_and_content: tab-delimited text files include normalized expression"
+      ]
+    },
+    "S5_C": {
+      "geo_accession": "GSM3499363",
+      "title": [
+        "PEO1_GeCKO_Suspension_Day5_C [S5_C]"
+      ],
+      "characteristics": [
+        "cell line: PEO1",
+        "cell type: High grade serous ovarian cancer cell line",
+        "tranduced with: GeCKO libraries (A and B), selected with puromycin",
+        "culture condition: grown in suspension for 5 days"
+      ],
+      "processing": [
+        "Hisat2 (version 2.1.0) used to map reads to human genome GRCh37",
+        "bedtools used to assemble transcripts",
+        "edgeR used to identify differenentially expressed genes",
+        "Genome_build: GRCH37/hg19",
+        "Supplementary_files_format_and_content: tab-delimited text files include normalized expression"
+      ]
+    },
+    "S10_A": {
+      "geo_accession": "GSM3499364",
+      "title": [
+        "PEO1_GeCKO_Suspension_Day10_A [S10_A]"
+      ],
+      "characteristics": [
+        "cell line: PEO1",
+        "cell type: High grade serous ovarian cancer cell line",
+        "tranduced with: GeCKO libraries (A and B), selected with puromycin",
+        "culture condition: grown in suspension for 10 days"
+      ],
+      "processing": [
+        "Hisat2 (version 2.1.0) used to map reads to human genome GRCh37",
+        "bedtools used to assemble transcripts",
+        "edgeR used to identify differenentially expressed genes",
+        "Genome_build: GRCH37/hg19",
+        "Supplementary_files_format_and_content: tab-delimited text files include normalized expression"
+      ]
+    },
+    "S10_B": {
+      "geo_accession": "GSM3499365",
+      "title": [
+        "PEO1_GeCKO_Suspension_Day10_B [S10_B]"
+      ],
+      "characteristics": [
+        "cell line: PEO1",
+        "cell type: High grade serous ovarian cancer cell line",
+        "tranduced with: GeCKO libraries (A and B), selected with puromycin",
+        "culture condition: grown in suspension for 10 days"
+      ],
+      "processing": [
+        "Hisat2 (version 2.1.0) used to map reads to human genome GRCh37",
+        "bedtools used to assemble transcripts",
+        "edgeR used to identify differenentially expressed genes",
+        "Genome_build: GRCH37/hg19",
+        "Supplementary_files_format_and_content: tab-delimited text files include normalized expression"
+      ]
+    },
+    "Ctrl_A": {
+      "geo_accession": "GSM3499366",
+      "title": [
+        "PEO1_GeCKO_Day0_A [Ctrl_A]"
+      ],
+      "characteristics": [
+        "cell line: PEO1",
+        "cell type: High grade serous ovarian cancer cell line",
+        "tranduced with: GeCKO libraries (A and B), selected with puromycin",
+        "culture condition: grown on tissue culture plastic. Day 0."
+      ],
+      "processing": [
+        "Hisat2 (version 2.1.0) used to map reads to human genome GRCh37",
+        "bedtools used to assemble transcripts",
+        "edgeR used to identify differenentially expressed genes",
+        "Genome_build: GRCH37/hg19",
+        "Supplementary_files_format_and_content: tab-delimited text files include normalized expression"
+      ]
+    },
+    "Ctrl_B": {
+      "geo_accession": "GSM3499367",
+      "title": [
+        "PEO1_GeCKO_Day0_B [Ctrl_B]"
+      ],
+      "characteristics": [
+        "cell line: PEO1",
+        "cell type: High grade serous ovarian cancer cell line",
+        "tranduced with: GeCKO libraries (A and B), selected with puromycin",
+        "culture condition: grown on tissue culture plastic. Day 0."
+      ],
+      "processing": [
+        "Hisat2 (version 2.1.0) used to map reads to human genome GRCh37",
+        "bedtools used to assemble transcripts",
+        "edgeR used to identify differenentially expressed genes",
+        "Genome_build: GRCH37/hg19",
+        "Supplementary_files_format_and_content: tab-delimited text files include normalized expression"
+      ]
+    },
+    "Ctrl_C": {
+      "geo_accession": "GSM3499368",
+      "title": [
+        "PEO1_GeCKO_Day0_C [Ctrl_C]"
+      ],
+      "characteristics": [
+        "cell line: PEO1",
+        "cell type: High grade serous ovarian cancer cell line",
+        "tranduced with: GeCKO libraries (A and B), selected with puromycin",
+        "culture condition: grown on tissue culture plastic. Day 0."
+      ],
+      "processing": [
+        "Hisat2 (version 2.1.0) used to map reads to human genome GRCh37",
+        "bedtools used to assemble transcripts",
+        "edgeR used to identify differenentially expressed genes",
+        "Genome_build: GRCH37/hg19",
+        "Supplementary_files_format_and_content: tab-delimited text files include normalized expression"
+      ]
+    }
+  },
+  "missing_workbook_columns": [],
+  "paper_selected_duplicate_evidence": [
+    "To identify genes critical for anoikis escape, we determined relative depletion or enrichment for each gRNA in HGSOC cells cultured in suspension conditions ( Figure\u00a01 B). We focused primarily on day 10 to allow maximum degree of gRNA enrichment or depletion. The data presented represents the comparison of duplicates of Adherent Day 10 (A10) versus Suspension Day 10 (S10), based on principal component analyses and hierarchical clustering ( Figures S1 E\u2013S1H). Greater than 95% of all genes had at least one gRNA detected ( Figure\u00a0S1 I), demonstrating sufficient genome-wide coverage. In the A10 versus S10 comparisons, 15,636 gRNAs representing 11,571 genes were differentially abundant as determined by DESEq2 with Benjamin and Hoschberg multi-testing correction ( Figures 1 C and 1D). Considering gRNA directionality (enriched or depleted) among the 11,571 genes, there were a total of 2,206 genes with at least two significant targeting gRNAs with similar directionality ( Figure\u00a01 E). Seventeen genes had four significant gRNA, 219 genes had three significant gRNA, and 1,970 genes had two significant gRNAs ( Figure\u00a01 E). Functional analysis of the 2,206 genes with gene set enrichment analysis KEGG pathways revealed enrichments in MAPK signaling, focal adhesion, ErbB signaling pathways, and adherence junctions ( Table 1 ). Gene ontology for biological processes related to the 2,206 genes showed significant enrichment in Response to External Stimulus, Regulation of Cell Proliferation, and Regulation of Intracellular Signal Transduction ( Table 1 ). Gene ontology for the molecular function related to the 2,206 genes showed enrichment in Receptor Binding, Signal Transducer Activity, and Signaling Receptor Activity ( Table 1 ). Enrichment analyses suggest a contribution of receptor tyrosine kinase signaling and external stimuli driving intracellular signaling in anoikis escape."
+  ],
+  "paper_guide_differential_abundance_mentions_deseq2": true,
+  "geo_crispr_processing_mentions_edger": true,
+  "processing_conflict": true,
+  "adherent_pair_selected_by_primary_paper": "UNRESOLVED",
+  "benchmark_eligible": false,
+  "reasons": [
+    "Selected A10 pair not recovered from inspected primary article and GEO metadata",
+    "Supplementary methods/figures not retrieved as valid PDF",
+    "GEO processing description conflicts with paper guide-analysis description",
+    "Monogenic suspension/adherent depletion cannot validate pair/triple synthetic lethality or normal selectivity"
+  ],
+  "source_sha256": {
+    "geo.soft.gz": "bb46cea145b33cd8c29bff2e4dc6c8058df0bc9953c9eda9bc0dae38db8cd99e",
+    "paper.xml": "4f50269e298bf1d5d1970a883b1c8c0ce1d13e34b307e5754882c775a15ecd9d"
+  },
+  "source_urls": [
+    "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE123nnn/GSE123290/soft/GSE123290_family.soft.gz",
+    "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6710300/fullTextXML",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6710300/"
+  ]
+}
