@@ -8,4 +8,7 @@ class EvidenceGateTests(unittest.TestCase):
   assert x['observed']['bh_q_lt_0_05']==0
   assert x['observed']['greedy_beats_rl_same_surrogate_seeds']==10
   assert set(x['gates'].values())=={'UNMET'}
-  assert len(x['artifact_sha256'])==6
+  assert len(x['artifact_sha256'])==10
+
+  assert x['observed']['external_mean_rl_hits60'] < x['observed']['external_mean_random_hits60']
+  assert x['gates']['current_one_judge_round']=='UNMET'
