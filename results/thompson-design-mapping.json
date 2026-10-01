@@ -1,0 +1,2510 @@
+{
+  "schema": "thompson-design-mapping-v1",
+  "primary_design_sha256": "0a41dfda583b3b6fb9e955fa1387e47868d6fe5250e276ae05c3645e10512ad9",
+  "by_line": {
+    "A375": {
+      "counts": {
+        "sequence_matched": 41838,
+        "type_Dual": 28537,
+        "type_Single": 12803,
+        "baseline_zero_all_replicates": 235,
+        "type_Control": 498
+      },
+      "duplicate_construct_keys": 0,
+      "matched_single_control_names": {
+        "FLUC_GRNA_1": 12803
+      },
+      "dual_rows_missing_exact_single": [
+        {
+          "row_id": 3317803,
+          "guide_names": [
+            "LGALS1_GRNA1",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3317804,
+          "guide_names": [
+            "LGALS1_GRNA1",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3317809,
+          "guide_names": [
+            "LGALS1_GRNA2",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3317810,
+          "guide_names": [
+            "LGALS1_GRNA2",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3317815,
+          "guide_names": [
+            "LGALS1_GRNA3",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3317816,
+          "guide_names": [
+            "LGALS1_GRNA3",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3317821,
+          "guide_names": [
+            "LGALS1_GRNA4",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3317822,
+          "guide_names": [
+            "LGALS1_GRNA4",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3317827,
+          "guide_names": [
+            "LGALS1_GRNA5",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3317828,
+          "guide_names": [
+            "LGALS1_GRNA5",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3320757,
+          "guide_names": [
+            "MVP_GRNA1",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3320758,
+          "guide_names": [
+            "MVP_GRNA1",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3320773,
+          "guide_names": [
+            "MVP_GRNA2",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3320774,
+          "guide_names": [
+            "MVP_GRNA2",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3320789,
+          "guide_names": [
+            "MVP_GRNA3",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3320790,
+          "guide_names": [
+            "MVP_GRNA3",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3320805,
+          "guide_names": [
+            "MVP_GRNA4",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3320806,
+          "guide_names": [
+            "MVP_GRNA4",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3320821,
+          "guide_names": [
+            "MVP_GRNA5",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3320822,
+          "guide_names": [
+            "MVP_GRNA5",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3331419,
+          "guide_names": [
+            "RPS6KA4_GRNA1",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3331420,
+          "guide_names": [
+            "RPS6KA4_GRNA1",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3331435,
+          "guide_names": [
+            "RPS6KA4_GRNA2",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3331436,
+          "guide_names": [
+            "RPS6KA4_GRNA2",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3331451,
+          "guide_names": [
+            "RPS6KA4_GRNA3",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3331452,
+          "guide_names": [
+            "RPS6KA4_GRNA3",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3331467,
+          "guide_names": [
+            "RPS6KA4_GRNA4",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3331468,
+          "guide_names": [
+            "RPS6KA4_GRNA4",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3331483,
+          "guide_names": [
+            "RPS6KA4_GRNA5",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3331484,
+          "guide_names": [
+            "RPS6KA4_GRNA5",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3331639,
+          "guide_names": [
+            "RRBP1_GRNA1",
+            "KIAA1586_GRNA4"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3331640,
+          "guide_names": [
+            "RRBP1_GRNA1",
+            "KIAA1586_GRNA5"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3331650,
+          "guide_names": [
+            "RRBP1_GRNA2",
+            "KIAA1586_GRNA4"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3331651,
+          "guide_names": [
+            "RRBP1_GRNA2",
+            "KIAA1586_GRNA5"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3331661,
+          "guide_names": [
+            "RRBP1_GRNA3",
+            "KIAA1586_GRNA4"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3331662,
+          "guide_names": [
+            "RRBP1_GRNA3",
+            "KIAA1586_GRNA5"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3331672,
+          "guide_names": [
+            "RRBP1_GRNA4",
+            "KIAA1586_GRNA4"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3331673,
+          "guide_names": [
+            "RRBP1_GRNA4",
+            "KIAA1586_GRNA5"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3331683,
+          "guide_names": [
+            "RRBP1_GRNA5",
+            "KIAA1586_GRNA4"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3331684,
+          "guide_names": [
+            "RRBP1_GRNA5",
+            "KIAA1586_GRNA5"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3340963,
+          "guide_names": [
+            "WDHD1_GRNA4",
+            "MOSPD3_GRNA1"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3340964,
+          "guide_names": [
+            "WDHD1_GRNA4",
+            "MOSPD3_GRNA2"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3340965,
+          "guide_names": [
+            "WDHD1_GRNA4",
+            "MOSPD3_GRNA3"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3340966,
+          "guide_names": [
+            "WDHD1_GRNA4",
+            "MOSPD3_GRNA4"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3340967,
+          "guide_names": [
+            "WDHD1_GRNA4",
+            "MOSPD3_GRNA5"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3340968,
+          "guide_names": [
+            "WDHD1_GRNA5",
+            "MOSPD3_GRNA1"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3340969,
+          "guide_names": [
+            "WDHD1_GRNA5",
+            "MOSPD3_GRNA2"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3340970,
+          "guide_names": [
+            "WDHD1_GRNA5",
+            "MOSPD3_GRNA3"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3340971,
+          "guide_names": [
+            "WDHD1_GRNA5",
+            "MOSPD3_GRNA4"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3340972,
+          "guide_names": [
+            "WDHD1_GRNA5",
+            "MOSPD3_GRNA5"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3341606,
+          "guide_names": [
+            "XYLT2_GRNA1",
+            "XRN2_GRNA4"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3341607,
+          "guide_names": [
+            "XYLT2_GRNA1",
+            "XRN2_GRNA5"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3341612,
+          "guide_names": [
+            "XYLT2_GRNA2",
+            "XRN2_GRNA4"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3341613,
+          "guide_names": [
+            "XYLT2_GRNA2",
+            "XRN2_GRNA5"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3341618,
+          "guide_names": [
+            "XYLT2_GRNA3",
+            "XRN2_GRNA4"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3341619,
+          "guide_names": [
+            "XYLT2_GRNA3",
+            "XRN2_GRNA5"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3341624,
+          "guide_names": [
+            "XYLT2_GRNA4",
+            "XRN2_GRNA4"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3341625,
+          "guide_names": [
+            "XYLT2_GRNA4",
+            "XRN2_GRNA5"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3341630,
+          "guide_names": [
+            "XYLT2_GRNA5",
+            "XRN2_GRNA4"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3341631,
+          "guide_names": [
+            "XYLT2_GRNA5",
+            "XRN2_GRNA5"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3342004,
+          "guide_names": [
+            "ZFPL1_GRNA1",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "ZFPL1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3342017,
+          "guide_names": [
+            "ZFPL1_GRNA2",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "ZFPL1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3342030,
+          "guide_names": [
+            "ZFPL1_GRNA3",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "ZFPL1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3342043,
+          "guide_names": [
+            "ZFPL1_GRNA4",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "ZFPL1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3342711,
+          "guide_names": [
+            "ZSWIM3_GRNA1",
+            "WDHD1_GRNA4"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3342712,
+          "guide_names": [
+            "ZSWIM3_GRNA1",
+            "WDHD1_GRNA5"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3342722,
+          "guide_names": [
+            "ZSWIM3_GRNA2",
+            "WDHD1_GRNA4"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3342723,
+          "guide_names": [
+            "ZSWIM3_GRNA2",
+            "WDHD1_GRNA5"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3342733,
+          "guide_names": [
+            "ZSWIM3_GRNA3",
+            "WDHD1_GRNA4"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3342734,
+          "guide_names": [
+            "ZSWIM3_GRNA3",
+            "WDHD1_GRNA5"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3342744,
+          "guide_names": [
+            "ZSWIM3_GRNA4",
+            "WDHD1_GRNA4"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3342745,
+          "guide_names": [
+            "ZSWIM3_GRNA4",
+            "WDHD1_GRNA5"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3342755,
+          "guide_names": [
+            "ZSWIM3_GRNA5",
+            "WDHD1_GRNA4"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3342756,
+          "guide_names": [
+            "ZSWIM3_GRNA5",
+            "WDHD1_GRNA5"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        }
+      ],
+      "dual_rows_ambiguous_exact_single": [],
+      "sample_prefixes": [
+        "BA"
+      ]
+    },
+    "MEWO": {
+      "counts": {
+        "sequence_matched": 41838,
+        "type_Dual": 28537,
+        "type_Single": 12803,
+        "baseline_zero_all_replicates": 230,
+        "type_Control": 498
+      },
+      "duplicate_construct_keys": 0,
+      "matched_single_control_names": {
+        "FLUC_GRNA_1": 12803
+      },
+      "dual_rows_missing_exact_single": [
+        {
+          "row_id": 3359641,
+          "guide_names": [
+            "LGALS1_GRNA1",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3359642,
+          "guide_names": [
+            "LGALS1_GRNA1",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3359647,
+          "guide_names": [
+            "LGALS1_GRNA2",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3359648,
+          "guide_names": [
+            "LGALS1_GRNA2",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3359653,
+          "guide_names": [
+            "LGALS1_GRNA3",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3359654,
+          "guide_names": [
+            "LGALS1_GRNA3",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3359659,
+          "guide_names": [
+            "LGALS1_GRNA4",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3359660,
+          "guide_names": [
+            "LGALS1_GRNA4",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3359665,
+          "guide_names": [
+            "LGALS1_GRNA5",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3359666,
+          "guide_names": [
+            "LGALS1_GRNA5",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3362595,
+          "guide_names": [
+            "MVP_GRNA1",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3362596,
+          "guide_names": [
+            "MVP_GRNA1",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3362611,
+          "guide_names": [
+            "MVP_GRNA2",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3362612,
+          "guide_names": [
+            "MVP_GRNA2",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3362627,
+          "guide_names": [
+            "MVP_GRNA3",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3362628,
+          "guide_names": [
+            "MVP_GRNA3",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3362643,
+          "guide_names": [
+            "MVP_GRNA4",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3362644,
+          "guide_names": [
+            "MVP_GRNA4",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3362659,
+          "guide_names": [
+            "MVP_GRNA5",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3362660,
+          "guide_names": [
+            "MVP_GRNA5",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3373257,
+          "guide_names": [
+            "RPS6KA4_GRNA1",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3373258,
+          "guide_names": [
+            "RPS6KA4_GRNA1",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3373273,
+          "guide_names": [
+            "RPS6KA4_GRNA2",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3373274,
+          "guide_names": [
+            "RPS6KA4_GRNA2",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3373289,
+          "guide_names": [
+            "RPS6KA4_GRNA3",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3373290,
+          "guide_names": [
+            "RPS6KA4_GRNA3",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3373305,
+          "guide_names": [
+            "RPS6KA4_GRNA4",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3373306,
+          "guide_names": [
+            "RPS6KA4_GRNA4",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3373321,
+          "guide_names": [
+            "RPS6KA4_GRNA5",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3373322,
+          "guide_names": [
+            "RPS6KA4_GRNA5",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3373477,
+          "guide_names": [
+            "RRBP1_GRNA1",
+            "KIAA1586_GRNA4"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3373478,
+          "guide_names": [
+            "RRBP1_GRNA1",
+            "KIAA1586_GRNA5"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3373488,
+          "guide_names": [
+            "RRBP1_GRNA2",
+            "KIAA1586_GRNA4"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3373489,
+          "guide_names": [
+            "RRBP1_GRNA2",
+            "KIAA1586_GRNA5"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3373499,
+          "guide_names": [
+            "RRBP1_GRNA3",
+            "KIAA1586_GRNA4"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3373500,
+          "guide_names": [
+            "RRBP1_GRNA3",
+            "KIAA1586_GRNA5"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3373510,
+          "guide_names": [
+            "RRBP1_GRNA4",
+            "KIAA1586_GRNA4"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3373511,
+          "guide_names": [
+            "RRBP1_GRNA4",
+            "KIAA1586_GRNA5"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3373521,
+          "guide_names": [
+            "RRBP1_GRNA5",
+            "KIAA1586_GRNA4"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3373522,
+          "guide_names": [
+            "RRBP1_GRNA5",
+            "KIAA1586_GRNA5"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3382801,
+          "guide_names": [
+            "WDHD1_GRNA4",
+            "MOSPD3_GRNA1"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3382802,
+          "guide_names": [
+            "WDHD1_GRNA4",
+            "MOSPD3_GRNA2"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3382803,
+          "guide_names": [
+            "WDHD1_GRNA4",
+            "MOSPD3_GRNA3"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3382804,
+          "guide_names": [
+            "WDHD1_GRNA4",
+            "MOSPD3_GRNA4"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3382805,
+          "guide_names": [
+            "WDHD1_GRNA4",
+            "MOSPD3_GRNA5"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3382806,
+          "guide_names": [
+            "WDHD1_GRNA5",
+            "MOSPD3_GRNA1"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3382807,
+          "guide_names": [
+            "WDHD1_GRNA5",
+            "MOSPD3_GRNA2"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3382808,
+          "guide_names": [
+            "WDHD1_GRNA5",
+            "MOSPD3_GRNA3"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3382809,
+          "guide_names": [
+            "WDHD1_GRNA5",
+            "MOSPD3_GRNA4"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3382810,
+          "guide_names": [
+            "WDHD1_GRNA5",
+            "MOSPD3_GRNA5"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3383444,
+          "guide_names": [
+            "XYLT2_GRNA1",
+            "XRN2_GRNA4"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3383445,
+          "guide_names": [
+            "XYLT2_GRNA1",
+            "XRN2_GRNA5"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3383450,
+          "guide_names": [
+            "XYLT2_GRNA2",
+            "XRN2_GRNA4"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3383451,
+          "guide_names": [
+            "XYLT2_GRNA2",
+            "XRN2_GRNA5"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3383456,
+          "guide_names": [
+            "XYLT2_GRNA3",
+            "XRN2_GRNA4"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3383457,
+          "guide_names": [
+            "XYLT2_GRNA3",
+            "XRN2_GRNA5"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3383462,
+          "guide_names": [
+            "XYLT2_GRNA4",
+            "XRN2_GRNA4"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3383463,
+          "guide_names": [
+            "XYLT2_GRNA4",
+            "XRN2_GRNA5"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3383468,
+          "guide_names": [
+            "XYLT2_GRNA5",
+            "XRN2_GRNA4"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3383469,
+          "guide_names": [
+            "XYLT2_GRNA5",
+            "XRN2_GRNA5"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3383842,
+          "guide_names": [
+            "ZFPL1_GRNA1",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "ZFPL1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3383855,
+          "guide_names": [
+            "ZFPL1_GRNA2",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "ZFPL1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3383868,
+          "guide_names": [
+            "ZFPL1_GRNA3",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "ZFPL1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3383881,
+          "guide_names": [
+            "ZFPL1_GRNA4",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "ZFPL1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3384549,
+          "guide_names": [
+            "ZSWIM3_GRNA1",
+            "WDHD1_GRNA4"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3384550,
+          "guide_names": [
+            "ZSWIM3_GRNA1",
+            "WDHD1_GRNA5"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3384560,
+          "guide_names": [
+            "ZSWIM3_GRNA2",
+            "WDHD1_GRNA4"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3384561,
+          "guide_names": [
+            "ZSWIM3_GRNA2",
+            "WDHD1_GRNA5"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3384571,
+          "guide_names": [
+            "ZSWIM3_GRNA3",
+            "WDHD1_GRNA4"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3384572,
+          "guide_names": [
+            "ZSWIM3_GRNA3",
+            "WDHD1_GRNA5"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3384582,
+          "guide_names": [
+            "ZSWIM3_GRNA4",
+            "WDHD1_GRNA4"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3384583,
+          "guide_names": [
+            "ZSWIM3_GRNA4",
+            "WDHD1_GRNA5"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3384593,
+          "guide_names": [
+            "ZSWIM3_GRNA5",
+            "WDHD1_GRNA4"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3384594,
+          "guide_names": [
+            "ZSWIM3_GRNA5",
+            "WDHD1_GRNA5"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        }
+      ],
+      "dual_rows_ambiguous_exact_single": [],
+      "sample_prefixes": [
+        "BB"
+      ]
+    },
+    "RPE1": {
+      "counts": {
+        "sequence_matched": 41838,
+        "type_Dual": 28537,
+        "type_Single": 12803,
+        "baseline_zero_all_replicates": 263,
+        "type_Control": 498
+      },
+      "duplicate_construct_keys": 0,
+      "matched_single_control_names": {
+        "FLUC_GRNA_1": 12803
+      },
+      "dual_rows_missing_exact_single": [
+        {
+          "row_id": 3401479,
+          "guide_names": [
+            "LGALS1_GRNA1",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3401480,
+          "guide_names": [
+            "LGALS1_GRNA1",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3401485,
+          "guide_names": [
+            "LGALS1_GRNA2",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3401486,
+          "guide_names": [
+            "LGALS1_GRNA2",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3401491,
+          "guide_names": [
+            "LGALS1_GRNA3",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3401492,
+          "guide_names": [
+            "LGALS1_GRNA3",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3401497,
+          "guide_names": [
+            "LGALS1_GRNA4",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3401498,
+          "guide_names": [
+            "LGALS1_GRNA4",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3401503,
+          "guide_names": [
+            "LGALS1_GRNA5",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3401504,
+          "guide_names": [
+            "LGALS1_GRNA5",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "LGALS1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3404433,
+          "guide_names": [
+            "MVP_GRNA1",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3404434,
+          "guide_names": [
+            "MVP_GRNA1",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3404449,
+          "guide_names": [
+            "MVP_GRNA2",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3404450,
+          "guide_names": [
+            "MVP_GRNA2",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3404465,
+          "guide_names": [
+            "MVP_GRNA3",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3404466,
+          "guide_names": [
+            "MVP_GRNA3",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3404481,
+          "guide_names": [
+            "MVP_GRNA4",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3404482,
+          "guide_names": [
+            "MVP_GRNA4",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3404497,
+          "guide_names": [
+            "MVP_GRNA5",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3404498,
+          "guide_names": [
+            "MVP_GRNA5",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "MVP",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3415095,
+          "guide_names": [
+            "RPS6KA4_GRNA1",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3415096,
+          "guide_names": [
+            "RPS6KA4_GRNA1",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3415111,
+          "guide_names": [
+            "RPS6KA4_GRNA2",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3415112,
+          "guide_names": [
+            "RPS6KA4_GRNA2",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3415127,
+          "guide_names": [
+            "RPS6KA4_GRNA3",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3415128,
+          "guide_names": [
+            "RPS6KA4_GRNA3",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3415143,
+          "guide_names": [
+            "RPS6KA4_GRNA4",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3415144,
+          "guide_names": [
+            "RPS6KA4_GRNA4",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3415159,
+          "guide_names": [
+            "RPS6KA4_GRNA5",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3415160,
+          "guide_names": [
+            "RPS6KA4_GRNA5",
+            "FLVCR1_GRNA5"
+          ],
+          "targets": [
+            "RPS6KA4",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3415315,
+          "guide_names": [
+            "RRBP1_GRNA1",
+            "KIAA1586_GRNA4"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3415316,
+          "guide_names": [
+            "RRBP1_GRNA1",
+            "KIAA1586_GRNA5"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3415326,
+          "guide_names": [
+            "RRBP1_GRNA2",
+            "KIAA1586_GRNA4"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3415327,
+          "guide_names": [
+            "RRBP1_GRNA2",
+            "KIAA1586_GRNA5"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3415337,
+          "guide_names": [
+            "RRBP1_GRNA3",
+            "KIAA1586_GRNA4"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3415338,
+          "guide_names": [
+            "RRBP1_GRNA3",
+            "KIAA1586_GRNA5"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3415348,
+          "guide_names": [
+            "RRBP1_GRNA4",
+            "KIAA1586_GRNA4"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3415349,
+          "guide_names": [
+            "RRBP1_GRNA4",
+            "KIAA1586_GRNA5"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3415359,
+          "guide_names": [
+            "RRBP1_GRNA5",
+            "KIAA1586_GRNA4"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3415360,
+          "guide_names": [
+            "RRBP1_GRNA5",
+            "KIAA1586_GRNA5"
+          ],
+          "targets": [
+            "RRBP1",
+            "KIAA1586"
+          ]
+        },
+        {
+          "row_id": 3424639,
+          "guide_names": [
+            "WDHD1_GRNA4",
+            "MOSPD3_GRNA1"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3424640,
+          "guide_names": [
+            "WDHD1_GRNA4",
+            "MOSPD3_GRNA2"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3424641,
+          "guide_names": [
+            "WDHD1_GRNA4",
+            "MOSPD3_GRNA3"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3424642,
+          "guide_names": [
+            "WDHD1_GRNA4",
+            "MOSPD3_GRNA4"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3424643,
+          "guide_names": [
+            "WDHD1_GRNA4",
+            "MOSPD3_GRNA5"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3424644,
+          "guide_names": [
+            "WDHD1_GRNA5",
+            "MOSPD3_GRNA1"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3424645,
+          "guide_names": [
+            "WDHD1_GRNA5",
+            "MOSPD3_GRNA2"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3424646,
+          "guide_names": [
+            "WDHD1_GRNA5",
+            "MOSPD3_GRNA3"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3424647,
+          "guide_names": [
+            "WDHD1_GRNA5",
+            "MOSPD3_GRNA4"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3424648,
+          "guide_names": [
+            "WDHD1_GRNA5",
+            "MOSPD3_GRNA5"
+          ],
+          "targets": [
+            "WDHD1",
+            "MOSPD3"
+          ]
+        },
+        {
+          "row_id": 3425282,
+          "guide_names": [
+            "XYLT2_GRNA1",
+            "XRN2_GRNA4"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3425283,
+          "guide_names": [
+            "XYLT2_GRNA1",
+            "XRN2_GRNA5"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3425288,
+          "guide_names": [
+            "XYLT2_GRNA2",
+            "XRN2_GRNA4"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3425289,
+          "guide_names": [
+            "XYLT2_GRNA2",
+            "XRN2_GRNA5"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3425294,
+          "guide_names": [
+            "XYLT2_GRNA3",
+            "XRN2_GRNA4"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3425295,
+          "guide_names": [
+            "XYLT2_GRNA3",
+            "XRN2_GRNA5"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3425300,
+          "guide_names": [
+            "XYLT2_GRNA4",
+            "XRN2_GRNA4"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3425301,
+          "guide_names": [
+            "XYLT2_GRNA4",
+            "XRN2_GRNA5"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3425306,
+          "guide_names": [
+            "XYLT2_GRNA5",
+            "XRN2_GRNA4"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3425307,
+          "guide_names": [
+            "XYLT2_GRNA5",
+            "XRN2_GRNA5"
+          ],
+          "targets": [
+            "XYLT2",
+            "XRN2"
+          ]
+        },
+        {
+          "row_id": 3425680,
+          "guide_names": [
+            "ZFPL1_GRNA1",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "ZFPL1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3425693,
+          "guide_names": [
+            "ZFPL1_GRNA2",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "ZFPL1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3425706,
+          "guide_names": [
+            "ZFPL1_GRNA3",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "ZFPL1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3425719,
+          "guide_names": [
+            "ZFPL1_GRNA4",
+            "FLVCR1_GRNA4"
+          ],
+          "targets": [
+            "ZFPL1",
+            "FLVCR1"
+          ]
+        },
+        {
+          "row_id": 3426387,
+          "guide_names": [
+            "ZSWIM3_GRNA1",
+            "WDHD1_GRNA4"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3426388,
+          "guide_names": [
+            "ZSWIM3_GRNA1",
+            "WDHD1_GRNA5"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3426398,
+          "guide_names": [
+            "ZSWIM3_GRNA2",
+            "WDHD1_GRNA4"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3426399,
+          "guide_names": [
+            "ZSWIM3_GRNA2",
+            "WDHD1_GRNA5"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3426409,
+          "guide_names": [
+            "ZSWIM3_GRNA3",
+            "WDHD1_GRNA4"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3426410,
+          "guide_names": [
+            "ZSWIM3_GRNA3",
+            "WDHD1_GRNA5"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3426420,
+          "guide_names": [
+            "ZSWIM3_GRNA4",
+            "WDHD1_GRNA4"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3426421,
+          "guide_names": [
+            "ZSWIM3_GRNA4",
+            "WDHD1_GRNA5"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3426431,
+          "guide_names": [
+            "ZSWIM3_GRNA5",
+            "WDHD1_GRNA4"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        },
+        {
+          "row_id": 3426432,
+          "guide_names": [
+            "ZSWIM3_GRNA5",
+            "WDHD1_GRNA5"
+          ],
+          "targets": [
+            "ZSWIM3",
+            "WDHD1"
+          ]
+        }
+      ],
+      "dual_rows_ambiguous_exact_single": [],
+      "sample_prefixes": [
+        "BD"
+      ]
+    }
+  },
+  "BA_BB_BD_independent_primary_binding": "UNRESOLVED; curated line labels bind prefixes only within SLKB",
+  "physical_dual_guide_order": "All curated constructs match primary A/B guide order, not swapped promoter experiments",
+  "effects_computed": false,
+  "normalization_frozen": false,
+  "scope": "Baseline/design eligibility only; no differential depletion, gene ranking, fit or discovery"
+}

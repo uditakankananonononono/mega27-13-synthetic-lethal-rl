@@ -35,3 +35,8 @@ No p-value or confidence interval treating technical guide constructs as indepen
 
 ## Current decision
 Draft only. Complete design/control mapping before finalizing effect and calibration details. No fit, ranking, D14-to-D28 interaction calculation or policy run has been launched.
+
+## Baseline/design QC update, no contrasts
+Exact mapping now matches all 41,838 guide-pair constructs per line to primary guide names, sequences and physical A/B order. There are no duplicate construct keys. Each line has 28,537 dual rows, 12,803 single rows and 498 control rows. All singles use FLUC_GRNA_1. Seventy-four dual rows lack an exact matched single-guide counterpart, zero have ambiguous matched singles. These 74 must be excluded from any matched-single residual without imputing a substitute. Baseline-all-zero rows are 235 (A375), 230 (MeWo), 263 (RPE1); these are descriptive design/baseline QC, not candidate effects.
+
+The archive binds BA to A375, BB to MEWO, BD to RPE1 through curated line metadata, but independent primary sample headers have not been recovered. This remains an explicit source gap. Normalization, pseudocount and thresholds are still draft-only. No effect contrasts, rankings or fits are permitted by this update.
