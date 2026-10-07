@@ -1,0 +1,41 @@
+{
+  "schema": "spidr-source-audit-v1",
+  "primary_url": "https://www.nature.com/articles/s41586-025-08815-4",
+  "bioproject": "PRJNA988447",
+  "scope": "source/schema audit only; no candidate selection, discovery or independent benchmark run",
+  "full_screen_model": "hTERT RPE-1 TP53 KO dCas9-KRAB",
+  "targeted_models": [
+    "HeLa S3",
+    "K562"
+  ],
+  "selection": "strongest 1165 RPE1 pairs; not unbiased all-pair cross-context transport",
+  "replicate_warning": "2023 preprint calls technical; 2025 publication calls biological, but describes expansion then division of cells during shared selection. Independent transduction origin remains unverified.",
+  "files": {
+    "scores": {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-025-08815-4/MediaObjects/41586_2025_8815_MOESM5_ESM.csv",
+      "bytes": 4245602,
+      "sha256": "341e2625e3383c8ba7e446bd230eae7502c066da95a91563311cda16dcd34d13"
+    },
+    "guide_design": {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-025-08815-4/MediaObjects/41586_2025_8815_MOESM4_ESM.zip",
+      "bytes": 19932183,
+      "sha256": "c5bb66b0f3bbd1d1677ce862b5188a6a9201c47cf68e27af56e4a9a62d52a9a6"
+    },
+    "selected_cross_context_scores": {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-025-08815-4/MediaObjects/41586_2025_8815_MOESM6_ESM.xlsx",
+      "bytes": 65821,
+      "sha256": "37fe1b0ec9ebdabc718613fc750b62b83b9bcf4b69e215a37ea5c5fa3cb1c3ce"
+    }
+  },
+  "selected_table_schema": {
+    "pair_rows": 1165,
+    "unique_pair_strings": 1165,
+    "missing_score_cells_by_column": {
+      "B": 0,
+      "C": 0,
+      "D": 0
+    }
+  },
+  "normal_hgsoc_selectivity_established": false,
+  "new_discovery_established": false
+}
