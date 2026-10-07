@@ -1,0 +1,19 @@
+{
+ "audited": "2026-10-07",
+ "rule": "a dataset counts only if raw or primary-derived measurements were retrieved and analysed; metadata, rows and rejected sources do not count; same-lab same-line sources are not independent of each other",
+ "counted_retrieved_and_analysed": [
+  {"name": "Harle pan-cancer retrospective", "use": "methods benchmark; RL loses random"},
+  {"name": "Thompson/SLKB D14-D28", "use": "descriptive only; sample binding not independently recovered"},
+  {"name": "GSE154112 OVCAR8-ADR", "use": "negative; no matched normal"},
+  {"name": "SPIDR Nature 2025 scores (RPE1/K562/HeLa selected)", "use": "score-level descriptive only; count-level stopped"},
+  {"name": "Sanger Project Score 2019 + mutation/CNV annotations", "use": "secondary track null; data-capped"}
+ ],
+ "not_counted": [
+  {"name": "PEO1", "why": "QC stop; no gene ranking"},
+  {"name": "CombiGEM GSE71074", "why": "same lab lineage and line as GSE154112; rejected"},
+  {"name": "DepMap 26Q3", "why": "terms not accepted; nothing downloaded"},
+  {"name": "Genome Biol 2025 compendium", "why": "SLKB overlap; no raw-count accession"}
+ ],
+ "counted_total": 5,
+ "gate_120_independent_datasets": "UNMET (5 of 120)"
+}
