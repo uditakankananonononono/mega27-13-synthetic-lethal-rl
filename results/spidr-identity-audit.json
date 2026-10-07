@@ -1,0 +1,33 @@
+{
+  "schema": "spidr-oriented-identity-audit-v1",
+  "design_oriented_pairs": 697233,
+  "duplicate_design_orientations": 0,
+  "count_oriented_pairs": 679195,
+  "count_ids_not_concatenated_guides": 0,
+  "count_pairs_unmatched_design": 679075,
+  "design_pairs_absent_count_table": 697113,
+  "unmatched_examples": [
+    [
+      "ABL1_._133589216.23.ENST00000372348.2",
+      "ABL1_._133589216.23.ENST00000372348.2"
+    ],
+    [
+      "ABL1_._133589216.23.ENST00000372348.2",
+      "ABL1_._133589228.23.ENST00000372348.2"
+    ],
+    [
+      "ABL1_._133589216.23.ENST00000372348.2",
+      "ACTB_._5570130.23.P1P2"
+    ]
+  ],
+  "missing_policy": "absent constructs not imputed as zero",
+  "contrast_eligibility": "not established; raw T0 eligibility and independent replicate origins unresolved",
+  "hypothesis_only_punctuation_fold": {
+    "transform": "replace - and + with . in design guide names",
+    "guide_key_collisions": 0,
+    "oriented_pair_collisions": 0,
+    "count_pairs_unmatched": 487402,
+    "design_pairs_absent_count_table": 505440,
+    "authority": "content-derived hypothesis; not independently source-code confirmed; do not execute contrasts on it"
+  }
+}
