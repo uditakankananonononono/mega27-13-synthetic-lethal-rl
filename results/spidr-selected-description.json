@@ -1,0 +1,44 @@
+{
+  "schema": "spidr-selected-description-v1",
+  "scope": "selection-conditioned source-score description; no new hits, p-values, independent validation or HGSOC selectivity",
+  "rows": 1165,
+  "contexts": {
+    "RPE1_GEMINI_score_sens": {
+      "min": -3.5565,
+      "median": -1.7104,
+      "max": -1.5002,
+      "negative_source_score_count_censored_not_effect_sign": 1165,
+      "source_score_below_minus1_not_hits": 1165
+    },
+    "K562_GEMINI_score_sens": {
+      "min": -3.44668736106905,
+      "median": -1.10757165173152,
+      "max": 0.0,
+      "negative_source_score_count_censored_not_effect_sign": 1004,
+      "source_score_below_minus1_not_hits": 645
+    },
+    "Hela_GEMINI_score_sens": {
+      "min": -1.9106013894023,
+      "median": -0.129502687388901,
+      "max": 0.0,
+      "negative_source_score_count_censored_not_effect_sign": 754,
+      "source_score_below_minus1_not_hits": 28
+    }
+  },
+  "context_pairs": {
+    "RPE1_GEMINI_score_sens|K562_GEMINI_score_sens": {
+      "negative_vs_zero_source_score_disagreements": 161,
+      "average_tie_spearman": 0.020216635536622077
+    },
+    "RPE1_GEMINI_score_sens|Hela_GEMINI_score_sens": {
+      "negative_vs_zero_source_score_disagreements": 411,
+      "average_tie_spearman": 0.031041248325580157
+    },
+    "K562_GEMINI_score_sens|Hela_GEMINI_score_sens": {
+      "negative_vs_zero_source_score_disagreements": 420,
+      "average_tie_spearman": 0.11011301965232294
+    }
+  },
+  "input_sha256": "37fe1b0ec9ebdabc718613fc750b62b83b9bcf4b69e215a37ea5c5fa3cb1c3ce",
+  "freeze_sha256": "8d10a74c0088ce2753778884fbc9d5dccf274f676512b890994ccd3464ef3d37"
+}
