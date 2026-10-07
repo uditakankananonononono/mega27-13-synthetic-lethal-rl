@@ -29,5 +29,22 @@
     "count_pairs_unmatched": 487402,
     "design_pairs_absent_count_table": 505440,
     "authority": "content-derived hypothesis; not independently source-code confirmed; do not execute contrasts on it"
+  },
+  "asymmetric_content_hypothesis": {
+    "sg1": "non-alphanumeric except underscore/dot replaced with dot",
+    "sg2": "hyphen/comma replaced with dot; plus preserved",
+    "oriented_pair_collisions": 0,
+    "unmatched_count_pairs": 574525,
+    "missing_design_pairs": 592563,
+    "status": "hypothesis, not independent source-code identity recovery"
+  },
+  "symmetric_canonical_content_binding": {
+    "transform": "replace hyphen plus comma with dot on BOTH design and count names",
+    "design_guide_collisions": 0,
+    "design_pair_collisions": 0,
+    "count_pair_collisions": 0,
+    "unmatched_count_pairs": 330196,
+    "absent_design_pairs": 348234,
+    "provenance": "collision-checked content matching; original publisher processing transform not recovered"
   }
 }
