@@ -19,6 +19,7 @@ FILES={
  'harle_integrity':'results/harle-benchmark-integrity.json',
  'corrected':'results/harle-corrected-integrity.json',
  'peo1_mapping':'results/peo1-source-reconciliation.json',
+ 'thompson_late_window':'results/thompson-late-window-description.json',
 }
 
 def build(root=ROOT):
@@ -41,7 +42,31 @@ def build(root=ROOT):
     assert hi['table_s4_s5_label_mismatches']==[] and hi['all_traces_unique']
     assert hc['original_trials_reproduced_exactly']==2700 and hc['corrected_minus_random_hits60']<0
     assert len(pm['samples'])==14 and not pm['benchmark_eligible']
-    return {'schema':'slrl-evidence-gates-v2', 'artifact_sha256':sha,
+    late=d['thompson_late_window']
+    binding='sample-line binding per SLKB curation, not independently recovered from primary headers'
+    assert late['schema']=='thompson-late-window-description-v1'
+    assert late['sample_identity']==binding
+    assert 'descriptive only' in late['scope'] and 'no p-values' in late['scope']
+    assert set(late['by_line'])=={'A375','MEWO','RPE1'}
+    late_counts={}
+    for line, expected in (('A375',155),('MEWO',416),('RPE1',739)):
+        v=late['by_line'][line]
+        assert v['sample_identity']==binding
+        assert v['negative_controls_eligible']==498
+        assert v['descriptive_pairs']==len(v['rows'])==1184
+        assert [r['pair'] for r in v['rows']]==sorted(r['pair'] for r in v['rows'])
+        assert all(r['eligible_constructs']>=4 for r in v['rows'])
+        count=0
+        for r in v['rows']:
+            for pc in ('0.5','1.0','5.0'):
+                z=r['pseudocount_sensitivity'][pc]
+                assert len(z['technical_replicate_median_residuals'])==3
+                assert z['all_technical_medians_negative']==all(a<0 for a in z['technical_replicate_median_residuals'])
+            count+=r['pseudocount_sensitivity']['1.0']['all_technical_medians_negative']
+        assert count==v['pairs_all_three_technical_medians_negative']==expected
+        assert sum(r['any_technical_sign_changed'] for r in v['rows'])==v['pairs_with_pseudocount_sign_change']
+        late_counts[line]=count
+    return {'schema':'slrl-evidence-gates-v3', 'artifact_sha256':sha,
       'observed':{'assay':'GSE154112 OVCAR8-ADR guide-count growth depletion; no matched normal',
        'triples_evaluable':len(rows),'bh_q_lt_0_05':0,
        'all_layouts_negative_both_reps':0,
@@ -56,7 +81,11 @@ def build(root=ROOT):
        'external_mean_random_hits60':h['summary']['random']['mean_hits_60'],
        'external_mean_rl_hits60':h['summary']['sequential_reinforce']['mean_hits_60'],
        'corrected_policy_minus_random_hits60':hc['corrected_minus_random_hits60'],
-       'judge_submission':'deferred; prepared packet not submitted'},
+       'judge_submission':'deferred; prepared packet not submitted',
+       'thompson_late_window':{'sample_identity':binding,'scope':late['scope'],
+        'technical_median_negative_counts_not_hits':late_counts,
+        'eligible_descriptive_pairs_per_line':1184,
+        'matched_normal_hgsoc_viability':False,'independent_biological_validation':False}},
       'gates':{
        'corrected_multi_model_hgsoc_pair_or_triple_discovery':'UNMET',
        'matched_nonmalignant_perturbation_viability':'UNMET',

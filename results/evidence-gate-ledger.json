@@ -1,5 +1,5 @@
 {
-  "schema": "slrl-evidence-gates-v2",
+  "schema": "slrl-evidence-gates-v3",
   "artifact_sha256": {
     "assay": "41712bbd90d4c521214131e4d1d502db912c96a5fb5c7feb5aa14e7b21d355b1",
     "shift": "7601621fa43346c9af32196317e7ffd7d4c2e9d1be9b926155dbdca3981eda1c",
@@ -10,7 +10,8 @@
     "harle": "56db70601c1ee50d089e1f44d0108b87a71a46365b7091a7745e8ae496df5a69",
     "harle_integrity": "7121dbfe493701a5c4b3c7bfbff7fb51574a6feacdf5b7c51f955e645ed536a1",
     "corrected": "a01c5df5a30186cd3b11f3ac40012c8c0cee7e7427939384ea398503e34eb1c8",
-    "peo1_mapping": "ebe8309389b736567cbd75387212d210add7895b6a2cb2407b9e50e48dc5a5fa"
+    "peo1_mapping": "ebe8309389b736567cbd75387212d210add7895b6a2cb2407b9e50e48dc5a5fa",
+    "thompson_late_window": "6d38a1bdf36ef7b6c58ccef21bb7e724fefc711289e5db77f05503983433bbb0"
   },
   "observed": {
     "assay": "GSE154112 OVCAR8-ADR guide-count growth depletion; no matched normal",
@@ -30,7 +31,19 @@
     "external_mean_random_hits60": 4.659259259259259,
     "external_mean_rl_hits60": 4.3462962962962965,
     "corrected_policy_minus_random_hits60": -0.4518518518518519,
-    "judge_submission": "deferred; prepared packet not submitted"
+    "judge_submission": "deferred; prepared packet not submitted",
+    "thompson_late_window": {
+      "sample_identity": "sample-line binding per SLKB curation, not independently recovered from primary headers",
+      "scope": "D14-conditioned D28 additional guide depletion; descriptive only, no p-values, hit calls, independent validation, healthy-selectivity or discovery",
+      "technical_median_negative_counts_not_hits": {
+        "A375": 155,
+        "MEWO": 416,
+        "RPE1": 739
+      },
+      "eligible_descriptive_pairs_per_line": 1184,
+      "matched_normal_hgsoc_viability": false,
+      "independent_biological_validation": false
+    }
   },
   "gates": {
     "corrected_multi_model_hgsoc_pair_or_triple_discovery": "UNMET",
