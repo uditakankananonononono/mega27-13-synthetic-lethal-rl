@@ -23,7 +23,14 @@ S = [
    "4.3 SPIDR score-level description (Nature 2025, s41586-025-08815-4; results/spidr-selected-description.json, frozen before calculation). The main screen is RPE-1 TP53-knockout, which is neither HGSOC nor a tubal normal. The 1,165-pair follow-up in RPE1, K562 and HeLa S3 is selection-conditioned. Source scores are zero-censored before negation, so a negative-versus-zero difference reflects censoring membership and not effect sign. Median source scores were -1.710 (RPE1), -1.108 (K562) and -0.130 (HeLa). Cross-context average-tie Spearman correlations were 0.020 (RPE1 vs K562), 0.031 (RPE1 vs HeLa) and 0.110 (K562 vs HeLa), with 161, 411 and 420 negative-versus-zero disagreements respectively. These are descriptive and make no transport or selectivity claim. Count-level contrasts are stopped: all 330,196 canonically unmatched oriented count pairs match the reversed design orientation, and the publisher's processing was not recovered. The supplementary code (a modified GEMINI log-fold-change function) contains no orientation handling (docs/reconnaissance/2026-10-07-SPIDR-code-availability.md). No silent orientation swap was made.",
    "4.4 Secondary track (Sanger Project Score 2019, 325 lines; docs/SECONDARY-TRACK-RESULT-1.md). The protocol (SHA-256 f3b36480...f23e) and its single-cohort deviation (6ca9fa1b...b58d) were frozen before calculation. Among 31 ovary models (10 annotated high-grade serous), 71,980 biomarker-gene pairs were tested: BRCA1 3 altered vs 28, BRCA2 3 vs 28, TP53 18 vs 13 and CCNE1 6 vs 25; RB1 (2 altered) was not tested. No pair met q < 0.1 with a median difference of at most -0.3. A power simulation shows the test cannot pass at this multiplicity with 3 altered lines (power 0.0) and reaches at most 0.13 at 20 altered lines. The null is a data limitation, not a biological result. DepMap, which would add power, was not used because its terms were not accepted.",
    "4.5 Rejected or stopped sources. PEO1 guide data stopped at quality control with no gene ranking (docs/PEO1-QC-STOP.md). CombiGEM (GSE71074) was rejected as non-independent of GSE154112 (same lab lineage, same OVCAR8-ADR line, same technology; docs/reconnaissance/2026-10-07-CombiGEM-independence-audit.md). The Harle et al. Genome Biology 2025 compendium is the source of the methods benchmark in 4.1 and is counted once; it overlaps SLKB and has no HGSOC line. Five datasets are counted toward the 120 targeted (results/dataset-count-audit.json)."]),
- ("5. Limitations", ["No matched nonmalignant viability data; no independent HGSOC multi-model dual-guide dataset; five datasets counted of the 120 targeted; no external judge round completed."]),
+ ("5. Limitations and threats to validity", [
+   "5.1 Gate status. All eight completion gates are UNMET (results/evidence-gate-ledger.json): a corrected multi-model HGSOC pair or triple discovery, matched nonmalignant perturbation viability, an independent measured external benchmark beat, a validated new biological discovery, 120 independent datasets (5 counted), 40 independently executed external tools, one judge round (0 completed), and a 50-plus-page substantive paper (this draft is 5 pages). Engineering tests (74 across 26 files) check implementation only and cannot fill any of these gates.",
+   "5.2 Outcome type. GSE154112 provides guide counts with two D26 biological replicates and a post-outcome exploratory guide bootstrap. Counts reflect growth depletion, not measured cell viability. The SPIDR scores are GEMINI scores from a CRISPRi screen with zero-censoring, not effect sizes comparable across contexts.",
+   "5.3 Independence. The five counted datasets are not independent in the sense the gate requires. Harle and Thompson share an institution and overlapping pairs (SLKB). GSE154112 and CombiGEM share a lab, a line and a technology, so CombiGEM was not counted. The 2,700 benchmark trials reuse one screen. Counting trials, rows or metadata as datasets was avoided throughout.",
+   "5.4 Circumstances of selection. The benchmark's evaluation split was frozen by hash, but the benchmark itself was chosen after earlier HGSOC-specific analyses came out negative, and a preliminary exposure of rows is recorded in docs/HARLE-METHODS-BENCHMARK-PLAN.md. Treat it as post-outcome development, not a confirmatory test.",
+   "5.5 Source quality stops. PEO1 (GSE123290): 119,461 guide rows, of which 111,314 parse to a single gene and 8,147 do not; sample medians vary sharply despite similar totals (for example A10_A about 169 versus A10_C 2), pairwise log-count correlations among declared A10 replicates are only 0.31 to 0.39, and sample identity and library A/B mapping were not reconciled. No ranking was produced (docs/PEO1-QC-STOP.md). SPIDR count-level analysis stopped because all 330,196 canonically unmatched oriented count pairs match the reversed design orientation and the publisher's processing is not public.",
+   "5.6 Absent controls. No matched nonmalignant viability data exist in any source used. Surrogate-based RL training cannot supply it. The novelty registry (SynLethDB 2020) is conservative and a miss is not proof of novelty.",
+   "5.7 Data terms. Raw third-party files are not redistributed. The DepMap portal terms (indemnification, Massachusetts jurisdiction consent, AI-training carve-out) were not accepted. Sanger Project Score files were used under its internal research and educational use licence and only derived statistics are published."]),
  ("6. Discussion", [
    "6.1 What the evidence supports. On the one measured external benchmark available, a sequential REINFORCE policy did not beat random selection (4.346 vs 4.659 hits at a budget of 60; Section 4.1). The same holds for the degree-corrected pair-softmax variant. The only methods that RL beat were two that themselves scored below random. Every nonrandom method saw only three design-category features, which may carry little signal; we did not test that. We therefore read the result as no demonstrated value of RL here, not as proof that RL cannot help with richer features or a larger action space.",
    "6.2 What it does not support. No candidate pair or triple is claimed. The most negative GSE154112 triple was chosen after viewing outcomes and fails correction (q 0.9992). The SPIDR scores are selection-conditioned and zero-censored, and their cross-context rank correlations (0.020 to 0.110) are descriptive only. The Project Score analysis is structurally unable to detect the effects it was designed to look for.",
@@ -32,8 +39,28 @@ S = [
    "6.5 Limitations of this draft. This is a negative-result draft of a few pages, not the 50-page paper the project targets. Methods rest on a surrogate that is explicitly not empirical viability. The benchmark reuses one biological screen for all 2,700 trials; these are not 2,700 independent experiments. Citations were checked against publisher pages, but volume and page numbers were not."]),
  ("7. Data and code availability", ["Repository: github.com/uditakankananonononono/mega27-13-synthetic-lethal-rl. Raw third-party files are not redistributed; accessions and hashes are in docs/reconnaissance/."]),
 ]
+
+APPX = [
+ ("A.1 Evidence ledger (results/evidence-gate-ledger.json)", [
+  "Gate: corrected multi-model HGSOC pair or triple discovery - UNMET.",
+  "Gate: matched nonmalignant perturbation viability - UNMET.",
+  "Gate: independent measured external benchmark beat - UNMET. Observed: random 4.659 vs RL 4.346 hits at 60 (27 lines, 20 seeds).",
+  "Gate: validated new biological discovery - UNMET.",
+  "Gate: 120 independent datasets - UNMET (5 counted).",
+  "Gate: 40 independently executed external tools - UNMET.",
+  "Gate: current one judge round - UNMET (0 completed; packet prepared and not submitted).",
+  "Gate: 50-plus-page substantive paper - UNMET."]),
+ ("A.2 Datasets counted and not counted (results/dataset-count-audit.json)", [
+  "Counted: Harle et al. Genome Biology 2025 workbook; Thompson/SLKB D14-D28; GSE154112 OVCAR8-ADR; SPIDR selected scores (RPE1/K562/HeLa); Sanger Project Score 2019 with mutation and copy-number annotations.",
+  "Not counted: PEO1 GSE123290 (QC stop); CombiGEM GSE71074 (same lab, line and technology as GSE154112); DepMap 26Q3 (terms not accepted; nothing downloaded)."]),
+ ("A.3 Pre-registered artifacts and hashes", [
+  "Locked preregistration: docs/PREREGISTRATION.md, hash in docs/PREREGISTRATION.sha256.",
+  "Secondary track protocol sha256 f3b3648028c6be8658bfdf7be645c80e58d70f147a5e09fb6e51f5eae898f23e; deviation 1 sha256 6ca9fa1ba7c8c41903d67096c279d50318ca56b7447992b8744b97a63fa9b58d.",
+  "Harle workbook sha256 297ed1ee52a753ea82b42fc46ffe196889a4a15e1725ae93b98a27eba1135aa9; GSE154112 workbook sha256 b54507687f8f5d945eac15c6452cdc3a85bf2faee7ed14f126268c8fd656d889; PEO1 workbook sha256 6aab064fe3d66ce76848b9f547876498b84d8aa852f0e814b8a354e75390a26d; SPIDR selected-pairs workbook sha256 37fe1b0ec9ebdabc718613fc750b62b83b9bcf4b69e215a37ea5c5fa3cb1c3ce.",
+  "Project Score download hashes are in docs/reconnaissance/2026-10-07-secondary-track-data-acquisition.md."]),
+]
 d = Document()
-for st in ("Normal", "Heading 1", "Title"):
+for st in ("Normal", "Heading 1", "Heading 2", "Title"):
     s = d.styles[st]; s.font.name = "Times New Roman"; s.font.color.rgb = RGBColor(0,0,0)
     rf = s.element.get_or_add_rPr().get_or_add_rFonts()
     for a in ("w:asciiTheme","w:hAnsiTheme","w:eastAsiaTheme","w:cstheme"):
@@ -43,5 +70,9 @@ d.styles["Normal"].font.size = Pt(12)
 d.add_heading("Sequential reinforcement learning for DNA-repair synthetic-lethal search in HGSOC: a negative-result draft", 0)
 for h, ps in S:
     d.add_heading(h, 1)
+    for p in ps: d.add_paragraph(p)
+d.add_heading("Appendix: supplementary evidence tables", 1)
+for h, ps in APPX:
+    d.add_heading(h, 2)
     for p in ps: d.add_paragraph(p)
 d.save("paper/draft.docx"); print("saved")
