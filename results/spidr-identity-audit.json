@@ -46,5 +46,13 @@
     "unmatched_count_pairs": 330196,
     "absent_design_pairs": 348234,
     "provenance": "collision-checked content matching; original publisher processing transform not recovered"
+  },
+  "orientation_hypothesis": {
+    "oriented_unmatched": 330196,
+    "reverse_orientation_matches": 330196,
+    "neither_orientation_matches": 0,
+    "unmatched_examples": [],
+    "status": "content hypothesis only; publisher orientation processing unresolved",
+    "contrast_eligibility": "STOP: reverse-content match is not primary orientation recovery"
   }
 }
