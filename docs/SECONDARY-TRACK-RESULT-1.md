@@ -5,3 +5,6 @@ Result: zero hits under the frozen thresholds (BH q<0.1 and median diff <= -0.3,
 - HGSOC-annotated sensitivity: 10 models. BRCA1/BRCA2/RB1 1/9 (not tested), TP53 7/3, CCNE1 4/6. 35,990 pairs tested.
 All tested pairs: results/secondary-track-projectscore-all-pairs.tsv.gz. Script: scripts/secondary_track_projectscore.py.
 Interpretation: a null with very low power (3 altered lines for BRCA1/2). It supports no biological claim and moves no gate. Licence note: Sanger licence grants internal research and educational use; only derived statistics are committed, not raw files.
+
+## Power (simulation, results/secondary-track-power.json)
+Assumes a true -0.3 median shift, 25 unaltered lines, p<1e-4 as a stand-in for BH q<0.1 over ~72k pairs. Power is 0.0 at 3 altered lines and at most 0.13 at 20 (SD 0.3); with SD 0.5 it is under 0.01 even at 20. With 3 altered vs 25, the smallest possible Mann-Whitney p is about 6e-4, so the test cannot pass at this multiplicity. The null in this track says nothing about BRCA1/2-linked dependencies.
