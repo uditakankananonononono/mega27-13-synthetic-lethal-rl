@@ -1,0 +1,64 @@
+{
+ "protocol": "SECONDARY-TRACK-PROTOCOL + DEVIATION-1",
+ "cohort": "Project Score only (no DepMap, no cross-cohort sign check)",
+ "results": [
+  {
+   "set": "ovary",
+   "n_models": 31,
+   "altered_unaltered": {
+    "BRCA1": [
+     3,
+     28
+    ],
+    "BRCA2": [
+     3,
+     28
+    ],
+    "RB1": [
+     2,
+     29
+    ],
+    "TP53": [
+     18,
+     13
+    ],
+    "CCNE1": [
+     6,
+     25
+    ]
+   },
+   "tested_pairs": 71980,
+   "hits": [],
+   "n_hits": 0
+  },
+  {
+   "set": "hgsoc-annotated sensitivity",
+   "n_models": 10,
+   "altered_unaltered": {
+    "BRCA1": [
+     1,
+     9
+    ],
+    "BRCA2": [
+     1,
+     9
+    ],
+    "RB1": [
+     1,
+     9
+    ],
+    "TP53": [
+     7,
+     3
+    ],
+    "CCNE1": [
+     4,
+     6
+    ]
+   },
+   "tested_pairs": 35990,
+   "hits": [],
+   "n_hits": 0
+  }
+ ]
+}
