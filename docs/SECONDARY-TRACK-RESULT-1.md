@@ -8,3 +8,6 @@ Interpretation: a null with very low power (3 altered lines for BRCA1/2). It sup
 
 ## Power (simulation, results/secondary-track-power.json)
 Assumes a true -0.3 median shift, 25 unaltered lines, p<1e-4 as a stand-in for BH q<0.1 over ~72k pairs. Power is 0.0 at 3 altered lines and at most 0.13 at 20 (SD 0.3); with SD 0.5 it is under 0.01 even at 20. With 3 altered vs 25, the smallest possible Mann-Whitney p is about 6e-4, so the test cannot pass at this multiplicity. The null in this track says nothing about BRCA1/2-linked dependencies.
+
+## Status: capped by data (2026-10-07)
+The secondary track stops here. This is a data limitation, not a biological finding. Reasons: DepMap terms were not accepted (indemnity, jurisdiction consent, AI-training carve-out); Project Score has 3 to 6 altered ovarian lines for BRCA1/2 and CCNE1, which cannot pass the frozen multiplicity; no second public ovarian dependency cohort with deposited counts was found (Cell Death Dis 2022 is a 33-gene assay in 6 lines with no accession; the Cell Oncol 2025 review lists none). Reopening needs a user decision on DepMap terms or a verified public cohort.
