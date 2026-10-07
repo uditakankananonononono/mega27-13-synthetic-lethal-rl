@@ -11,3 +11,6 @@ Replicate wording differs: 2023 preprint calls two technical duplicates; 2025 pa
 Primary sequencing deposition: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA988447 . Live ENA run metadata returned four paired-end runs with generic sample titles. The eight FASTQ files total tens of gigabytes; raw downloading is not justified for this initial source audit. GSE236062 is ChIP-seq, not the screen count table. A direct processed-count artifact has not yet been recovered.
 
 Exposure: primary headline pairs, top scored rows and article aggregate replication statistics are already seen. They cannot provide blind nomination/novelty credit. No fitting or hit-list selection has been done. The targeted numeric matrix is a possible separately frozen descriptive/methodological input only, conditional on selection and without HGSOC claims.
+
+## Processed-count recovery
+A bounded curl retry succeeded for Supplementary Table 8. It is the RPE1 source-normalized count matrix with day0 and day14 replicate1/2 columns. Exact bytes/hash and schema QC are in the source manifest. No re-normalization, contrast fitting or significance analysis was done. Decimal normalized counts must not be treated as raw Poisson sequencing counts. The independent-transduction ambiguity remains. Recovery replaces the earlier retrieval blocker, not the HGSOC/matched-normal scope blocker.

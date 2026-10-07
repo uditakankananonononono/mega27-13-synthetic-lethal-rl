@@ -25,6 +25,11 @@
       "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-025-08815-4/MediaObjects/41586_2025_8815_MOESM6_ESM.xlsx",
       "bytes": 65821,
       "sha256": "37fe1b0ec9ebdabc718613fc750b62b83b9bcf4b69e215a37ea5c5fa3cb1c3ce"
+    },
+    "normalized_counts": {
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-025-08815-4/MediaObjects/41586_2025_8815_MOESM9_ESM.txt",
+      "bytes": 104956771,
+      "sha256": "b5787ff1721e2f6471759e9d468b67e71ed887b768274cb984ed842875f95463"
     }
   },
   "selected_table_schema": {
@@ -37,5 +42,21 @@
     }
   },
   "normal_hgsoc_selectivity_established": false,
-  "new_discovery_established": false
+  "new_discovery_established": false,
+  "normalized_count_schema": {
+    "rows": 679195,
+    "columns": [
+      "id",
+      "sg1",
+      "sg2",
+      "RPE1_d0_Rep1",
+      "RPE1_d0_Rep2",
+      "RPE1_d14_Rep1",
+      "RPE1_d14_Rep2"
+    ],
+    "duplicate_ids": 0,
+    "invalid_count_cells": 0,
+    "normalization": "source-normalized; not raw integer counts",
+    "scope": "schema check only, no contrast fitting"
+  }
 }
