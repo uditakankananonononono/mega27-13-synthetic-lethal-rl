@@ -1,0 +1,550 @@
+Judge verdict
+
+The central validity threat is task–feature non-identifiability, not lack of compute. The experiment asks a sequential learner to predict held-out synthetic-lethal pairs, but gives every method only three coarse guide-library/design categories. Those categories are not mechanistic representations of pair compatibility, gene dependency, context, or interaction structure. The negative result therefore establishes that these category-only policies did not outperform the specified baselines on this split; it does not strongly test whether learning can predict synthetic lethality from richer biological information.
+
+That distinction matters because the observed result is internally consistent: random is best, RL is below random, and the corrected degree-normalized policy is also below random. That is evidence against the current representation/strategy, not against synthetic-lethal prediction generally.
+
+1. Strongest validity threat
+
+Rank 1 — information bottleneck / construct validity.
+
+The model's effective hypothesis class is extremely small:
+
+X
+ij
+	​
+
+=(paralog
+ij
+	​
+
+,CRISPR/RNASeq
+ij
+	​
+
+,Achilles/MASHUP
+ij
+	​
+
+)
+
+while the target is
+
+Y
+ijℓ
+	​
+
+∈{0,1},
+
+whether gene pair i,j is a hit in cell line ℓ.
+
+There is no gene identity, gene dependency profile, pathway relationship, expression/dependency context, mutation state, copy number, protein interaction structure, or other biological representation. Consequently, two biologically very different pairs can have exactly the same feature vector.
+
+The RL policy therefore cannot learn which genes interact lethally. At most, it can learn something like:
+
+"Given the categories attached to the first gene, which category should I choose for the second?"
+
+That makes the result a legitimate methods audit of category-based acquisition/search policies, but a weak test of the broader proposition "machine learning can prioritize synthetic-lethal pairs."
+
+The other major threats are secondary:
+
+Pair split rather than gene-disjoint split. The same genes can occur in development and evaluation in different pairs. This can create information leakage for richer future models, although it is less damaging for the current three-category representation.
+
+Dataset shift. The Achilles-category frequency changes dramatically between development and evaluation. This makes the frozen category strategy particularly vulnerable to covariate shift.
+
+Evaluation dependence. Shared pairs, cell-line structure and lineage structure mean the stated bootstrap intervals should not be interpreted as independent-observation confidence intervals.
+
+Retrospective protocol exposure. The exposed S4/S5 rows are a protocol-integrity issue, but because the outcomes were not repeatedly queried and the protocol was otherwise frozen, I would not treat that as the primary reason for the negative result.
+
+Source uncertainty. The unresolved fractional S3 matrix and processing provenance appropriately prevent treating it as a clean quantitative benchmark.
+
+Importantly, none of these justifies changing the biological gate.
+
+2. One implementable novelty improvement
+
+I would implement exactly one substantive improvement:
+
+Gene-disjoint, dependency-profile contextual acquisition
+
+Keep the biological endpoint and hit definition completely unchanged. Replace the three design-category features with a pre-outcome gene representation derived only from development-eligible public data, and require the acquisition policy to generalize to genes it has never seen during training.
+
+The key novelty is not "use AI for synthetic lethality." That is not novel enough.
+
+The methodological novelty would be:
+
+Can sequential synthetic-lethal acquisition generalize to completely unseen genes when gene representations encode their dependency landscape rather than merely their guide-library category?
+
+Representation
+
+For each gene g, construct a development-only vector
+
+z
+g
+	​
+
+=[d
+g,1
+	​
+
+,…,d
+g,m
+	​
+
+,p
+g,1
+	​
+
+,…,p
+g,k
+	​
+
+,c
+g
+	​
+
+]
+
+where, for example:
+
+d
+g,r
+	​
+
+: pre-existing dependency measurements from an explicitly permitted public source;
+
+p
+g,k
+	​
+
+: fixed biological/pathway annotations;
+
+c
+g
+	​
+
+: the original design-category variables.
+
+Crucially, the representation must be frozen before querying evaluation outcomes.
+
+For a candidate pair (g,h), use
+
+x
+gh
+	​
+
+=[z
+g
+	​
+
+,z
+h
+	​
+
+,∣z
+g
+	​
+
+−z
+h
+	​
+
+∣,z
+g
+	​
+
+⊙z
+h
+	​
+
+]
+
+rather than allowing the learner to see the evaluation hit label.
+
+A simple policy is enough. I would not jump to a large transformer or graph neural network. A regularized logistic model or shallow ranking model is preferable because the question is whether the added biological representation contains useful out-of-sample signal.
+
+For example:
+
+P(Y
+ghℓ
+	​
+
+=1∣x
+gh
+	​
+
+)=σ(β
+⊤
+x
+gh
+	​
+
+)
+
+and acquire candidates according to
+
+U
+t
+	​
+
+(g,h)=
+p
+^
+	​
+
+t
+	​
+
+(g,h)+λ
+1+n
+gh
+	​
+
+logt
+	​
+
+	​
+
+.
+
+If you want to preserve the sequential formulation, the policy can select
+
+g
+t
+	​
+
+=arg
+g
+max
+	​
+
+U
+t
+	​
+
+(g,⋅)
+
+followed by the existing legal-partner selection mechanism.
+
+The critical experimental change
+
+Do not merely replace the three features and rerun the current pair split.
+
+Create a gene-disjoint evaluation partition:
+
+G
+dev
+	​
+
+∩G
+eval
+	​
+
+=∅.
+
+Then require every evaluation pair to satisfy
+
+g,h∈G
+eval
+	​
+
+.
+
+This is substantially harder than the existing pair-disjoint split and makes the claim much cleaner:
+
+Does the representation transfer to genes whose identities were never available during development?
+
+Falsification test
+
+Pre-register a single primary endpoint:
+
+Δ=H
+60
+contextual
+	​
+
+−H
+60
+random
+	​
+
+.
+
+Use the same number of seeds, lines and queries as the existing experiment.
+
+I would call the improvement useful only if all of these are satisfied:
+
+Δ>0;
+
+the pre-specified paired/clustered uncertainty interval excludes 0;
+
+improvement occurs across a pre-specified majority of lines rather than being driven by one lineage;
+
+performance survives the gene-disjoint split;
+
+the method beats the existing greedy baseline, not merely a deliberately weak baseline;
+
+no evaluation outcome is used to construct or tune z
+g
+	​
+
+.
+
+And there should be an explicit failure condition:
+
+U
+0.95
+	​
+
+(Δ)≤0
+
+or failure of the gene-disjoint test means the proposed representation did not demonstrate value.
+
+That is a clean falsifiable methods experiment.
+
+Why this is preferable to another RL modification
+
+You already have a particularly informative negative:
+
+REINFORCE < random;
+
+greedy < random;
+
+corrected degree-normalized policy < random.
+
+Changing the exploration coefficient, reward normalization, policy architecture, or RL algorithm risks turning this into optimizer archaeology.
+
+The more scientifically useful question is whether the representation is the bottleneck.
+
+3. Independent external benchmark
+
+The external benchmark must be designed as an actual external validation, not another split of Harle.
+
+A. Source independence
+
+Use a published interaction dataset that was:
+
+generated independently of Harle;
+
+based on an independent experimental cohort/technology where possible;
+
+quantitatively accessible;
+
+sufficiently documented to reconstruct the endpoint.
+
+Do not use SPIDR as a quantitative validation set under the current state you described. Its selection-conditioned/zero-censored scores and unresolved count orientation make it unsuitable for a clean numerical replication.
+
+Likewise, do not count CombiGEM as independent merely because it has a different dataset name if it shares the same underlying experiment represented by GSE154112.
+
+B. Gene leakage
+
+For the strongest test:
+
+G
+train
+	​
+
+∩G
+external
+	​
+
+=∅.
+
+No gene in an external evaluation pair may have been used as a gene identity during model development.
+
+If that makes the external set too small, report two tiers:
+
+Benchmark	Leakage control	Interpretation
+Pair-disjoint	no identical pair	weaker
+Gene-disjoint	no evaluation gene in development	primary
+
+The second is the scientifically important one.
+
+C. Pair leakage
+
+Require
+
+P
+dev
+	​
+
+∩P
+external
+	​
+
+=∅.
+
+Also remove reverse duplicates:
+
+(g
+i
+	​
+
+,g
+j
+	​
+
+)≡(g
+j
+	​
+
+,g
+i
+	​
+
+).
+D. Cell-line leakage
+
+If the model uses cell-line information, enforce
+
+L
+dev
+	​
+
+∩L
+external
+	​
+
+=∅.
+
+Otherwise, report a separate cell-line-disjoint analysis.
+
+The strongest benchmark is therefore:
+
+G
+dev
+	​
+
+∩G
+ext
+	​
+
+=P
+dev
+	​
+
+∩P
+ext
+	​
+
+=L
+dev
+	​
+
+∩L
+ext
+	​
+
+=∅.
+E. No threshold tuning on external data
+
+Freeze:
+
+preprocessing;
+
+representation;
+
+model;
+
+hyperparameters;
+
+acquisition budget;
+
+hit threshold;
+
+number of queries;
+
+stopping rule.
+
+Then expose the external labels once.
+
+Do not tune the method after seeing external results.
+
+F. Benchmark against the same baselines
+
+At minimum:
+
+random;
+
+fixed category ranking;
+
+ridge greedy;
+
+contextual model;
+
+contextual model + acquisition rule.
+
+Report
+
+H
+60
+	​
+
+,H
+60
+	​
+
+−H
+60
+random
+	​
+
+,H
+60
+	​
+
+−H
+60
+greedy
+	​
+
+.
+
+Do not declare success merely because the new method beats random if greedy remains better.
+
+4. New biological hypothesis?
+
+None is established by these results.
+
+I would explicitly reject attempts to convert the category-frequency shift into a biological discovery.
+
+The observation
+
+Achilles: 8.8%→2.1%
+
+and
+
+paralog: 5.3%→11.8%
+
+is a dataset/design distribution shift, not evidence that paralog interactions are biologically enriched in some new HGSOC mechanism.
+
+Likewise, the failed ovarian single-gene biomarker track cannot establish absence of a biological effect because your own power analysis indicates inadequate ability to detect the proposed −0.3 shift under that multiplicity.
+
+And the Harle dataset is not HGSOC with matched nonmalignant controls.
+
+Therefore:
+
+No new biological hypothesis is justified as an established finding.
+
+A future hypothesis could be prospectively generated from an independent, mechanistically grounded representation—for example, whether dependency-context similarity predicts context-specific combinatorial vulnerability—but that would be a new hypothesis to test, not a conclusion from the present experiment.
+
+I would keep that distinction very strict.
+
+5. Final PASS/FAIL table
+Claim	Verdict	Reason
+Original HGSOC synthetic-lethal discovery	FAIL	The locked biological target remains unfulfilled; the OVCAR8-ADR analysis has zero BH-significant contrasts and no robust replicated third-order signal.
+Current Harle methods experiment as a negative audit	PASS	The comparison is internally coherent and the negative result is reported without converting it into a discovery.
+Evidence that RL improves synthetic-lethal search	FAIL	RL is below random: −0.3130, with the reported line-bootstrap interval excluding zero in the negative direction.
+Evidence that corrected degree normalization fixes the problem	FAIL	Corrected policy remains below random: −0.452.
+Evidence for an external benchmark win	FAIL / not demonstrated	No independent external benchmark with adequate leakage control has established superiority.
+Evidence for a new biological mechanism	FAIL	The surviving observations are methodological/descriptive and do not establish a biological mechanism.
+Current scientific readiness as a discovery claim	FAIL	No validated HGSOC selective-lethality discovery and no external predictive win.
+Current scientific readiness as an honest methods-negative report	PASS, with scope limited	The appropriate claim is that these specified category-based search policies failed to outperform the tested baselines on the specified public benchmark.
+Bottom line
+
+The strongest scientifically defensible statement is roughly:
+
+On the specified Harle public benchmark, three guide-library design categories were insufficient for the tested sequential search policies to outperform random acquisition; REINFORCE performed worse than random, and a degree-normalized correction did not reverse that result. This does not establish absence of synthetic-lethal structure, because the representation contains little direct biological information and the benchmark is neither HGSOC-specific nor matched-normal.
+
+The one improvement worth spending effort on is therefore not another RL variant. It is a frozen biological gene representation + genuinely gene-disjoint acquisition experiment, followed by an independently sourced, gene/pair/line-disjoint external test.
+
+If that experiment also fails against random/greedy, the negative result becomes substantially more informative: you would have evidence that the added public biological context does not provide transferable predictive signal under the locked endpoint—not merely that one particular RL formulation failed.
