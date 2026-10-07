@@ -1,0 +1,3 @@
+# SPIDR design/count identity audit freeze, 2026-10-07
+
+Separate from biological validation. Before fitting any count-derived contrasts, bind normalized count sg1/sg2 strings to Supplementary Table 2 oriented guide design. Check unique count IDs equal sg1 + '___' + sg2, no duplicate oriented design pairs, exact oriented pair coverage, and missing design counts. Missing count constructs are not zero outcomes and must never be imputed. Preserve any unmatched guide/pair and stop contrast work if ambiguity exists. Do not inspect count effect distributions in this identity unit. Source-normalized decimal counts cannot recover raw T0 eligibility or uncertainty from raw read thresholds.
