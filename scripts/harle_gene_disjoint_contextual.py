@@ -61,7 +61,8 @@ def run(workbook,ess_zip,seeds=20):
     genes=sorted(u);perm=np.random.default_rng(20261008).permutation(len(genes));shuf={g:u[genes[perm[i]]] for i,g in enumerate(genes)}
     def feats(p,rep):
         a,b_=[rep[g] for g in p.split('|')];return np.concatenate([a+b_,np.abs(a-b_),oh(p)])
-    Xc=np.array([oh(p) for p in pairs]);Xx=np.array([feats(p,u) for p in pairs]);Xs=np.array([feats(p,shuf) for p in pairs])
+    okset=set(ok);Z=len(cats)+16
+    Xc=np.array([oh(p) if i in okset else np.zeros(len(cats)) for i,p in enumerate(pairs)]);Xx=np.array([feats(p,u) if i in okset else np.zeros(Z) for i,p in enumerate(pairs)]);Xs=np.array([feats(p,shuf) if i in okset else np.zeros(Z) for i,p in enumerate(pairs)])
     arms={'random':None,'category_greedy':Xc,'contextual_greedy':Xx,'shuffled_contextual':Xs}
     res={m:{} for m in arms}
     for j,line in enumerate(lines):

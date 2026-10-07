@@ -1,0 +1,97 @@
+{
+  "schema": "harle-gene-disjoint-contextual-v1",
+  "freeze_doc_sha256": "466e9e781d56c9cafb9a20b1605124435ac54de9d81ec52afd3d9924aae8d7b1",
+  "workbook_sha256": "297ed1ee52a753ea82b42fc46ffe196889a4a15e1725ae93b98a27eba1135aa9",
+  "essentiality_zip_sha256": "52bc7a58e39cbe8b973a82868057431f4b645c325d4994d20f11531a875c9d46",
+  "representation_sha256": "d23039b66879fb4141fc4b513b8994231079a7f0bfcf28e5a9374afd55801341",
+  "representation_info": {
+    "columns_total": 325,
+    "columns_removed_harle_lines": 21,
+    "genes": 17995
+  },
+  "dev_pairs": 103,
+  "eval_pairs": 102,
+  "lines": 27,
+  "seeds": 20,
+  "budget": 60,
+  "mean_hits": {
+    "H60": {
+      "random": 4.724074074074074,
+      "category_greedy": 6.361111111111111,
+      "contextual_greedy": 5.072222222222222,
+      "shuffled_contextual": 4.95925925925926
+    },
+    "H30": {
+      "random": 2.112962962962963,
+      "category_greedy": 3.353703703703703,
+      "contextual_greedy": 2.762962962962963,
+      "shuffled_contextual": 2.585185185185185
+    },
+    "H10": {
+      "random": 0.7888888888888888,
+      "category_greedy": 1.0481481481481483,
+      "contextual_greedy": 0.862962962962963,
+      "shuffled_contextual": 0.8351851851851853
+    }
+  },
+  "differences": {
+    "contextual_minus_random": {
+      "mean": 0.3481481481481481,
+      "ci95": [
+        -0.06666666666666655,
+        0.751851851851852
+      ],
+      "lines_better": 17,
+      "lines_equal": 0,
+      "lines_worse": 10
+    },
+    "contextual_minus_category_greedy": {
+      "mean": -1.288888888888889,
+      "ci95": [
+        -1.7370370370370367,
+        -0.8574074074074076
+      ],
+      "lines_better": 2,
+      "lines_equal": 0,
+      "lines_worse": 25
+    },
+    "contextual_minus_shuffled": {
+      "mean": 0.11296296296296296,
+      "ci95": [
+        -0.45925925925925926,
+        0.633379629629629
+      ],
+      "lines_better": 15,
+      "lines_equal": 2,
+      "lines_worse": 10
+    },
+    "category_greedy_minus_random": {
+      "mean": 1.6370370370370375,
+      "ci95": [
+        1.3555555555555554,
+        1.927777777777778
+      ],
+      "lines_better": 27,
+      "lines_equal": 0,
+      "lines_worse": 0
+    },
+    "shuffled_minus_random": {
+      "mean": 0.23518518518518516,
+      "ci95": [
+        -0.17777777777777778,
+        0.6703703703703703
+      ],
+      "lines_better": 12,
+      "lines_equal": 1,
+      "lines_worse": 14
+    }
+  },
+  "success_conditions": {
+    "delta_gt_0": true,
+    "ci_lower_gt_0": false,
+    "majority_lines_gt_random": true,
+    "beats_category_greedy_ci": false
+  },
+  "USEFUL": false,
+  "scope": "Methods result on lung/pancreas/melanoma benchmark; not HGSOC, not matched-normal, no discovery or published-model beat."
+}
