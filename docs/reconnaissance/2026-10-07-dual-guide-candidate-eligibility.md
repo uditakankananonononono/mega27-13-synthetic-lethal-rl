@@ -11,3 +11,6 @@ Locked gate (docs/PREREGISTRATION.md) is unchanged. Result: no candidate is elig
 
 The original discovery gate stays data-blocked. Unverified rows are not counted as ineligible-with-proof; they are unread.
 Sources: https://link.springer.com/article/10.1186/s13059-025-03737-w ; https://pmc.ncbi.nlm.nih.gov/articles/PMC10462155/
+
+## Amendment 2026-10-08
+The Genome Biology 2025 compendium (Harle et al.) is the same source as the Harle methods benchmark used in results/harle-corrected-development.json. It is excluded for the locked HGSOC gate (no HGSOC, no matched normal, SLKB overlap) but is counted once in results/dataset-count-audit.json as a retrospective methods benchmark, not an independent validation set.
